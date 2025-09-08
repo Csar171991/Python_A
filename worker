@@ -1,0 +1,98 @@
+import os, time, json, asyncio
+import shutil
+
+BASE_DIR = os.path.expanduser("~/Documents/shared")
+# BASE_DIR = "D:/shared"  # en caso de Windows
+
+INPUT_DIR = os.path.join(BASE_DIR, "input")
+OUTPUT_DIR = os.path.join(BASE_DIR, "output")
+QUEUE_DIR = os.path.join(BASE_DIR, "queue")
+
+print("INPUT_DIR:", INPUT_DIR)
+print("OUTPUT_DIR:", OUTPUT_DIR)
+print("QUEUE_DIR:", QUEUE_DIR)
+
+os.makedirs(INPUT_DIR, exist_ok=True)
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+os.makedirs(QUEUE_DIR, exist_ok=True)
+
+
+async def process_task(tipo: str, job_id: str, task_file: str):
+    """
+    Procesa una tarea según el tipo (app_bd o app_bd2)
+    """
+    input_dir = os.path.join(INPUT_DIR, tipo, job_id)
+    output_dir = os.path.join(OUTPUT_DIR, tipo, job_id)
+    os.makedirs(output_dir, exist_ok=True)
+
+    base_file = os.path.join(input_dir, "base.txt")
+    diccionario_file = os.path.join(input_dir, "diccionario.xlsx")
+    inventary_file = os.path.join(input_dir, "inventario.txt")
+    padron_file = os.path.join(input_dir, "padron.xlsx")
+
+    try:
+        # 🔹 Router según el tipo
+        if tipo == "app_bd":
+            from app_bd import run_app
+            run_app(base_file, diccionario_file, inventary_file, padron_file, output_dir, insertar_db=True)
+
+        elif tipo == "app_bd2":
+            from app_bd2 import run_app2
+            run_app2(base_file, diccionario_file, inventary_file, padron_file, output_dir, insertar_db=True)
+
+        else:
+            raise ValueError(f"Tipo desconocido: {tipo}")
+
+        # 🔹 Marcar la tarea como completa
+        with open(task_file, "w") as f:
+            json.dump({
+                "job_id": job_id,
+                "tipo": tipo,
+                "progress": 100,
+                "status": "completo"
+            }, f)
+
+        print(f"✅ Tarea completada: {job_id} ({tipo})")
+
+    except Exception as e:
+        # 🔹 En caso de error, marcarlo en el JSON
+        with open(task_file, "w") as f:
+            json.dump({
+                "job_id": job_id,
+                "tipo": tipo,
+                "progress": 100,
+                "status": "error",
+                "mensaje": str(e)
+            }, f)
+        print(f"❌ Error en tarea {job_id}: {e}")
+
+
+def main():
+    print("👂 Batch worker escuchando en queue...", flush=True)
+    while True:
+        for tipo in os.listdir(QUEUE_DIR):
+            tipo_path = os.path.join(QUEUE_DIR, tipo)
+            if not os.path.isdir(tipo_path):
+                continue
+
+            for file in os.listdir(tipo_path):
+                if file.endswith(".json"):
+                    job_id = os.path.splitext(file)[0]
+                    task_file = os.path.join(tipo_path, file)
+
+                    with open(task_file) as f:
+                        data = json.load(f)
+
+                    if data.get("progress", 0) < 100:
+                        print(f"🔎 Nueva tarea detectada -> job_id={job_id}, tipo={tipo}", flush=True)
+                        asyncio.run(process_task(tipo, job_id, task_file))
+
+                        # Eliminar de la cola
+                        os.remove(task_file)
+                        print(f"🗑️ Tarea {job_id} ({tipo}) eliminada de la cola.", flush=True)
+
+        time.sleep(2)
+
+
+if __name__ == "__main__":
+    main()

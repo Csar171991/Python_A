@@ -1,0 +1,12 @@
+{
+    "dictionary": "input/diccionario/diccionario.xlsx",
+    "database": "input/database/base.txt",
+    "inventary": "input/inv/inventario.txt",
+    "padron": "input/padron/padron.xlsx",
+    "output_folder": "output",
+    "error_folder": "output/error_validacion",
+    "sample_folder": "output/muestra",
+    "report_folder": "output/report",
+    "db_ingesta_folder": "output/report/db_ingesta",
+    "files_folder": "input/files"
+}
