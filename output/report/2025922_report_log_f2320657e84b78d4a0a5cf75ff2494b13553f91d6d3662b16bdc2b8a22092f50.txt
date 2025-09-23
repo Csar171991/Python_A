@@ -1,0 +1,371 @@
+----------------------------------------------------------------------------------------------------
+Reporte generado el: 2025-09-22 18:10:55
+Validaciones Iniciales de Correspondencia A1
+Resultado de la validación : Todas las columnas requeridas están presentes y el conteo coincide.
+
+----------------------------------------
+
+----------------------------------------------------------------------------------------------------
+Dataset con valores nulos en las columnas: ['Litho', 'cod_barra', 'cor_minedu', 'cod_mod7', 'anexo', 'ie', 'seccion', 'departamento', 'provincia', 'distrito']:
+Litho: 0
+cod_barra: 0
+cor_minedu: 0
+cod_mod7: 0
+anexo: 0
+ie: 0
+seccion: 0
+departamento: 0
+provincia: 0
+distrito: 0
+----------------------------------------
+----------------------------------------------------------------------------------------------------
+Reporte generado el: 2025-09-22 18:10:55
+Validaciones Iniciales de Correspondencia A2
+Registros faltantes del inventario: 0
+----------------------------------------
+
+----------------------------------------
+----------------------------------------------------------------------------------------------------
+Reporte generado el: 2025-09-22 18:10:55
+Validaciones Iniciales de Correspondencia A3
+Registros duplicados : 30
+----------------------------------------
+       Litho     cod_barra hoja1 dhoja1 cor_minedu cod_mod7 anexo                                        ie departamento         provincia        distrito        seccion                            sede turno cuad_env tel_ref nom_director ape_director dni_director dir01 dir02 dir03 dir04 dir05_1 dir05_2 dir05_2_d1 dir05_2_d1_cnt dir05_2_d2 dir05_2_d2_cnt dir06 dir07 dir08 dir09 dir09_01 dir09_02 tel1_director tel2_director nom_docente ape_docente dni_docente doc01 doc02 doc03 doc04 doc04_1 doc04_2 doc05 doc06 doc07 doc08 doc09 doc10 doc_grado_1 doc_grado_2 doc_grado_3 doc_grado_5 doc_grado_6 doc11_d1 doc11_d2 doc12_d1 doc12_d2 tel1_docente tel2_docente hoja2 dhoja2 nom_aplicador ape_aplicador dni_aplicador apli01 apli02 apli03 apli04 apli05 apli06 apli07 apli08 apli09 apli10 apli11 apli12 apli13 apli14 apli_dia1_01 apli_dia1_02 apli_dia1_03 apli_dia1_04 apli_dia1_05 apli_dia1_06 apli_dia2_01 apli_dia2_02 apli_dia2_03 apli_dia2_04 apli_dia2_05 apli_dia2_06 apli16 tel1_aplicador tel2_aplicador con01_d1 con01_d1_cnt con01_d2 con01_d2_cnt con02_d1 con02_d2 con02_d1_1 con02_d2_1 con03_d1 con03_d2 con04_d1 con04_d2 con04_d1_1 con04_d2_1 con05_d1 con05_d2 con06_d1 con06_d1_cnt con06_d2 con06_d2_cnt con06_d1_1 con06_d2_1 doc_comu_nom doc_comu_ape doc_comu_dni doc_mate_nom doc_mate_ape doc_mate_dni time_d1_lec_01 time_d1_lec_02 time_d1_lec_03 time_d1_lec_04 time_d1_des_01 time_d1_des_02 time_d1_mat_01 time_d1_mat_02 time_d1_mat_03 time_d1_mat_04 time_d2_mat_01 time_d2_mat_02 time_d2_mat_03 time_d2_mat_04 time_d2_des_01 time_d2_des_02 time_d2_lec_01 time_d2_lec_02 time_d2_lec_03 time_d2_lec_04 hoja3 dhoja3 nom_asistente ape_asistente asis01 asis02 asis03 asis04 asis04_1 asis05 asis06 asis07 asis08 asis09 asis10 asis11 asis12 asis12_1 asis13 asis13_1 asis14 dni_asistente tel1_asistente tel2_asistente nom_autoridad ape_autoridad no_apli01 no_apli02 no_apli03 no_apli04 no_apli05 no_apli06 no_apli07 no_apli08 no_apli09 no_apli10 no_apli11 no_apli12 no_apli13 no_apli14 dni_autoridad tel1_autoridad tel2_autoridad  hoja  dhoja  pos cor_est discap_presenta discap_tipo discap_en_nomina   dni_est   paterno     materno  nombre1      nombre2 sexo len_mater nacional no_estudiante forma_dia1 asis_dia1_lec dia1_01 dia1_02 dia1_03 dia1_04 dia1_05 dia1_06 dia1_07 dia1_08 dia1_09 dia1_10 dia1_11 dia1_12 dia1_13 dia1_14 dia1_15 dia1_16 dia1_17 dia1_18 dia1_19 dia1_20 dia1_21 dia1_22 dia1_23 dia1_24 asis_dia1_mat dia1_25 dia1_26 dia1_27 dia1_28 dia1_29 dia1_30 dia1_31 dia1_32 dia1_33 dia1_34 dia1_35 dia1_36 dia1_37 dia1_38 dia1_39 dia1_40 dia1_41 dia1_42 dia1_43 dia1_44 dia1_45 dia1_46 dia1_47 dia1_48 dia1_49 dia1_50 dia1_51 forma_dia2 asis_dia2_mat dia2_01 dia2_02 dia2_03 dia2_04 dia2_05 dia2_06 dia2_07 dia2_08 dia2_09 dia2_10 dia2_11 dia2_12 dia2_13 dia2_14 dia2_15 dia2_16 dia2_17 dia2_18 dia2_19 dia2_20 dia2_21 dia2_22 dia2_23 dia2_24 dia2_25 asis_dia2_lec dia2_26 dia2_27 dia2_28 dia2_29 dia2_30 dia2_31 dia2_32 dia2_33 dia2_34 dia2_35 dia2_36 dia2_37 dia2_38 dia2_39 dia2_40 dia2_41 dia2_42 dia2_43 dia2_44 dia2_45 dia2_46 dia2_47 dia2_48 dia2_49 dia2_50 dia2_51
+21   0102154  762010215401    01     14   01506-10  0272930     0           65002 AURISTELA DAVILA ZEVALLOS      UCAYALI  CORONEL PORTILLO        CALLERÍA  J - ARCOIRIS4              CORONEL PORTILLO 3     M       36                                                    M     M     M     M       M       M          M                         M                    M     M     M     M        M        M                                                                     M     M     M     M       M       M     M     M     M     M     M     M           1           1           1           1           1                                                                  02     14                                                M      M      M      M      M      M      M      M      M      M      M      M      M      M            3                                                                             3                                                                       M                                      M                     M                     M        M          M          M        M        M        M        M          M          M        M        M        M                     M                       M          M                                                                                                                                                                                                                                                                                                                                                                                              03     14                                  M      M      M      M        M      M      M      M      M      M      M      M      M        M      M        M      M                                                                                 1         1         1         1         1         1         1         1         1         1         1         1         1         1                                                14     14    4                                                                                                                                                                         3       C       C       C       C       C       C       C       C       C       C       C               C       C       C       C       C               C       C       C       C       C       C             3       C       C       C       C       C       C               C       C       C       C       C       C       C       C       C       C       C               C       C       C       C       C       C       C       C                        3       C       C       C       C       C       C               C       C       C       C       C       C       C       C       C       C       C               C       C       C       C       C       C             3       C       C       C       C       C       C       C       C       C       C       C               C       C       C       C       C               C       C       C       C       C       C       C       C
+24   0105227  762010522701    01     12   03666-03  0206292     0  51029 PRINCIPE SEBASTIAN II DE LOS GODOS        CUSCO       PAUCARTAMBO     PAUCARTAMBO              C                     PAUCARTAMBO     2       26                                                    2     2     2     2       2       2          2                         2                    2     2     2     2        2        2                                                                     2     2     2     2       2       2     2     2     2     2     2     2                                                                                                                              02     12                                                2      2      2      2      2      2      2      2      2      2      2      2      2      2            2                                                                             2                                                                       2                                      2                     2                     2        2          2          2        2        2        2        2          2          2        2        2        2                     2                       2          2                                                                                                                                                                                                                                                                                                                                                                                              03     12                                  2      2      2      2        2      2      2      2      2      2      2      2      2        2      2        2      2                                                                                                                                                                                                                                                                     8     12    1      17                                               81026497    QUISPE     CONDORI    DEYSI        ANALY    2                  1                                      M       B       B       B       B       B       B       B       B       B       B       B               B       B       B       B       B               B       B       B       B       B       B             M       B       B       B       B       B       B               B       B       B       B       B       B       B       B       B       B       B               B       B       B       B       B       B       B       B                        M       B       B       B       B       B       B               B       B       B       B       B       B       B       B       B       B       B               B       B       B       B       B       B             M       B       B       B       B       B       B       B       B       B       B       B               B       B       B       B       B               B       B       B       B       B       B       B       B
+28   0115478  762011547801    01     12   10621-02  0471045     0               JUAN JOSE CRESPO Y CASTILLO      HUÁNUCO              AMBO            AMBO              B                            AMBO     1       28                                                    1     1     1     1       1       1          1                         1                    1     1     1     1        1        1                                                                     1     1     1     1       1       1     1     1     1     1     1     1           1           1           1           1           1                                                                  02     12                                                1      1      1      1      1      1      1      1      1      1      1      1      1      1            2                                                                             2                                                                       1                                      1                     1                     1        1          1          1        1        1        1        1          1          1        1        1        1                     1                       1          1                                                                                                                                                                                                                                                                                                                                                                                              03     12                                  1      1      1      1        1      1      1      1      1      1      1      1      1        1      1        1      1                                                                                 1         1         1         1         1         1         1         1         1         1         1         1         1         1                                                10     12    4      28                                                                                                                                                                 3       B       B       B       B       B       B       B       B       B       B       B               B       B       B       B       B               B       B       B       B       B       B             3       B       B       B       B       B       B               B       B       B       B       B       B       B       B       B       B       B               B       B       B       B       B       B       B       B                        3       B       B       B       B       B       B               B       B       B       B       B       B       B       B       B       B       B               B       B       B       B       B       B             3       B       B       B       B       B       B       B       B       B       B       B               B       B       B       B       B               B       B       B       B       B       B       B       B
+45   0119010  762011901001    01     13   12911-01  1000637     0                  88388 SAN LUIS DE LA PAZ       ÁNCASH             SANTA  NUEVO CHIMBOTE              A                         SANTA 3     2       31                                                    2     2     2     2       2       2          2                         2                    2     2     2     2        2        2                                                                     2     2     2     2       2       2     2     2     2     2     2     2                                                                                                                              02     13                                                2      2      2      2      2      2      2      2      2      2      2      2      2      2            3                                                                             3                                                                       2                                      2                     2                     2        2          2          2        2        2        2        2          2          2        2        2        2                     2                       2          2                                                                                                                                                                                                                                                                                                                                                                                              03     13                                  2      2      2      2        2      2      2      2      2      2      2      2      2        2      2        2      2                                                                                                                                                                                                                                                                     5     13    3      07                                               78879680  ESCOBEDO      QUISPE  KEILLER    ALEXANDER              1        1                                      2       D       D       D       D       D       D       D       D       D       D       D               D       D       D       D       D               D       D       D       D       D       D             2       D       D       D       D       D       D               D       D       D       D       D       D       D       D       D       D       D               D       D       D       D       D       D       D       D                        2       D       D       D       D       D       D               D       D       D       D       D       D       D       D       D       D       D               D       D       D       D       D       D             2       D       D       D       D       D       D       D       D       D       D       D               D       D       D       D       D               D       D       D       D       D       D       D       D
+69   0120815  762012081501    01     13   14115-01  0835058     0                   1265 SANTA ROSA DE LIMA         LIMA              LIMA             ATE              A                           ATE 2     1       32                                                    1     1     1     1       1       1          1                         1                    1     1     1     1        1        1                                                                     1     1     1     1       1       1     1     1     1     1     1     1                                                                                                                              02     13                                                1      1      1      1      1      1      1      1      1      1      1      1      1      1            3                                                                             3                                                                       1                                      1                     1                     1        1          1          1        1        1        1        1          1          1        1        1        1                     1                       1          1                                                                                                                                                                                                                                                                                                                                                                                              03     13                                  1      1      1      1        1      1      1      1      1      1      1      1      1        1      1        1      1                                                                                                                                                                                                                                                                     8     13    1      17                                               79027594   MENDOZA  HUANAQUIRI     LYAN       NEYMAR              1        1                                      M       M       M       M       M       M       M       M       M       M       M       M               M       M       M       M       M               M       M       M       M       M       M             M       M       M       M       M       M       M               M       M       M       M       M       M       M       M       M       M       M               M       M       M       M       M       M       M       M                        M       M       M       M       M       M       M               M       M       M       M       M       M       M       M       M       M       M               M       M       M       M       M       M             M       M       M       M       M       M       M       M       M       M       M       M               M       M       M       M       M               M       M       M       M       M       M       M       M
+86   0120382  762012038201    01     13   13862-02  0253716     0                     20332 REINO DE SUECIA         LIMA            HUAURA          HUAURA              B                        HUAURA 2     M       29                                                    M     M     M     M       M       M          M                         M                    M     M     M     M        M        M                                                                     M     M     M     M       M       M     M     M     M     M     M     M                                                                                                                              02     13                                                M      M      M      M      M      M      M      M      M      M      M      M      M      M            2                                                                             2                                                                       M                                      M                     M                     M        M          M          M        M        M        M        M          M          M        M        M        M                     M                       M          M                                                                                                                                                                                                                                                                                                                                                                                              03     13                                  M      M      M      M        M      M      M      M      M      M      M      M      M        M      M        M      M                                                                                                                                                                                                                                                                    10     13    1      25                                               78675082      VEGA       PAZOS     ITAN        JHAIR              1        1                                      M       C       C       C       C       C       C       C       C       C       C       C               C       C       C       C       C               C       C       C       C       C       C             M       C       C       C       C       C       C               C       C       C       C       C       C       C       C       C       C       C               C       C       C       C       C       C       C       C                        M       C       C       C       C       C       C               C       C       C       C       C       C       C       C       C       C       C               C       C       C       C       C       C             M       C       C       C       C       C       C       C       C       C       C       C               C       C       C       C       C               C       C       C       C       C       C       C       C
+91   0100485  762010048501    01     12   00324-01  1019082     0            0016 JOSE GABRIEL CONDORCANQUI   SAN MARTÍN        BELLAVISTA       SAN PABLO              A                      BELLAVISTA     M       27                                                    M     M     M     M       M       M          M                         M                    M     M     M     M        M        M                                                                     M     M     M     M       M       M     M     M     M     M     M     M           1           1           1           1           1                                                                  02     12                                                M      M      M      M      M      M      M      M      M      M      M      M      M      M            2                                                                             2                                                                       M                                      M                     M                     M        M          M          M        M        M        M        M          M          M        M        M        M                     M                       M          M                                                                                                                                                                                                                                                                                                                                                                                              03     12                                  M      M      M      M        M      M      M      M      M      M      M      M      M        M      M        M      M                                                                                 1         1         1         1         1         1         1         1         1         1         1         1         1         1                                                 4     12    2      02                                               78590775     CERNA     GUEVARA  ARACELY                 2         1        1                                      1       C       C       C       C       C       C       C       C       C       C       C               C       C       C       C       C               C       C       C       C       C       C             1       C       C       C       C       C       C               C       C       C       C       C       C       C       C       C       C       C               C       C       C       C       C       C       C       C                        1       C       C       C       C       C       C               C       C       C       C       C       C       C       C       C       C       C               C       C       C       C       C       C             1       C       C       C       C       C       C       C       C       C       C       C               C       C       C       C       C               C       C       C       C       C       C       C       C
+102  0113253  762011325301    01     09   09290-01  0543769     0                                     80849  LA LIBERTAD   SÁNCHEZ CARRIÓN        MARCABAL              A               SANCHEZ CARRION 2     2       15                                                    2     2     2     2       2       2          2                         2                    2     2     2     2        2        2                                                                     2     2     2     2       2       2     2     2     2     2     2     2                                                                                                                              02     09                                                2      2      2      2      2      2      2      2      2      2      2      2      2      2            1                                                                             1                                                                       2                                      2                     2                     2        2          2          2        2        2        2        2          2          2        2        2        2                     2                       2          2                                                                                                                                                                                                                                                                                                                                                                                              03     09                                  2      2      2      2        2      2      2      2      2      2      2      2      2        2      2        2      2                                                                                                                                                                                                                                                                     8      9    3                                                                                                                                                                         2       A       A       A       A       A       A       A       A       A       A       A               A       A       A       A       A               A       A       A       A       A       A             2       A       A       A       A       A       A               A       A       A       A       A       A       A       A       A       A       A               A       A       A       A       A       A       A       A                        2       A       A       A       A       A       A               A       A       A       A       A       A       A       A       A       A       A               A       A       A       A       A       A             2       A       A       A       A       A       A       A       A       A       A       A               A       A       A       A       A               A       A       A       A       A       A       A       A
+178  0122923  762012292301    01     10   15348-01  1090232     0                             JAVIER HERAUD         LIMA              LIMA   INDEPENDENCIA              A                   INDEPENDENCIA     1       19                                                    1     1     1     1       1       1          1                         1                    1     1     1     1        1        1                                                                     1     1     1     1       1       1     1     1     1     1     1     1                                                                                                                              02     10                                                1      1      1      1      1      1      1      1      1      1      1      1      1      1            1                                                                             1                                                                       1                                      1                     1                     1        1          1          1        1        1        1        1          1          1        1        1        1                     1                       1          1                                                                                                                                                                                                                                                                                                                                                                                              03     10                                  1      1      1      1        1      1      1      1      1      1      1      1      1        1      1        1      1                                                                                                                                                                                                                                                                     7     10    1      13                                               78673685      SOSA        CAYO  SNAYDER  CESAR DAVID              1        1                                      M       A       A       A       A       A       A       A       A       A       A       A               A       A       A       A       A               A       A       A       A       A       A             M       A       A       A       A       A       A               A       A       A       A       A       A       A       A       A       A       A               A       A       A       A       A       A       A       A                        M       A       A       A       A       A       A               A       A       A       A       A       A       A       A       A       A       A               A       A       A       A       A       A             M       A       A       A       A       A       A       A       A       A       A       A               A       A       A       A       A               A       A       A       A       A       A       A       A
+194  0122878  762012287801    01     14   15322-03  0436600     0             2054 NUESTRA SEÑORA DE FATIMA         LIMA              LIMA   INDEPENDENCIA              C                   INDEPENDENCIA     M       34                                                    M     M     M     M       M       M          M                         M                    M     M     M     M        M        M                                                                     M     M     M     M       M       M     M     M     M     M     M     M                                                                                                                              02     14                                                M      M      M      M      M      M      M      M      M      M      M      M      M      M            3                                                                             3                                                                       M                                      M                     M                     M        M          M          M        M        M        M        M          M          M        M        M        M                     M                       M          M                                                                                                                                                                                                                                                                                                                                                                                              03     14                                  M      M      M      M        M      M      M      M      M      M      M      M      M        M      M        M      M                                                                                                                                                                                                                                                                     4     14    1      01                                               79015371  ALVARADO  SANTA CRUZ  ANNETTE        BELEN    2         1        1                                      M       A       A       A       A       A       A       A       A       A       A       A               A       A       A       A       A               A       A       A       A       A       A             M       A       A       A       A       A       A               A       A       A       A       A       A       A       A       A       A       A               A       A       A       A       A       A       A       A                        M       A       A       A       A       A       A               A       A       A       A       A       A       A       A       A       A       A               A       A       A       A       A       A             M       A       A       A       A       A       A       A       A       A       A       A               A       A       A       A       A               A       A       A       A       A       A       A       A
+282  0121453  762012145301    01     14   14486-01  0782615     0                      5097 SAN JUAN MACIAS       CALLAO            CALLAO          CALLAO              A                        CALLAO 2     2       35                                                    2     2     2     2       2       2          2                         2                    2     2     2     2        2        2                                                                     2     2     2     2       2       2     2     2     2     2     2     2           1           1           1           1           1                                                                  02     14                                                2      2      2      2      2      2      2      2      2      2      2      2      2      2            3                                                                             3                                                                       2                                      2                     2                     2        2          2          2        2        2        2        2          2          2        2        2        2                     2                       2          2                                                                                                                                                                                                                                                                                                                                                                                              03     14                                  2      2      2      2        2      2      2      2      2      2      2      2      2        2      2        2      2                                                                                 1         1         1         1         1         1         1         1         1         1         1         1         1         1                                                 6     14    2      10                                               78564229     CAMAC       ROJAS  FABIANO  GONZALO GER              1        1                                      1       M       M       M       M       M       M       M       M       M       M       M               M       M       M       M       M               M       M       M       M       M       M             1       M       M       M       M       M       M               M       M       M       M       M       M       M       M       M       M       M               M       M       M       M       M       M       M       M                        1       M       M       M       M       M       M               M       M       M       M       M       M       M       M       M       M       M               M       M       M       M       M       M             1       M       M       M       M       M       M       M       M       M       M       M               M       M       M       M       M               M       M       M       M       M       M       M       M
+363  0102005  762010200501    01     11   01438-01  0806000     0                                     64927      UCAYALI  CORONEL PORTILLO        CALLERÍA              A              CORONEL PORTILLO 2     2       22                                                    2     2     2     2       2       2          2                         2                    2     2     2     2        2        2                                                                     2     2     2     2       2       2     2     2     2     2     2     2           1           1           1           1           1                                                                  02     11                                                2      2      2      2      2      2      2      2      2      2      2      2      2      2            2                                                                             2                                                                       2                                      2                     2                     2        2          2          2        2        2        2        2          2          2        2        2        2                     2                       2          2                                                                                                                                                                                                                                                                                                                                                                                              03     11                                  2      2      2      2        2      2      2      2      2      2      2      2      2        2      2        2      2                                                                                 1         1         1         1         1         1         1         1         1         1         1         1         1         1                                                 7     11    4      16                                               79531677      RUIZ    REATEGUI    JHOAU      GABRIEL              1        1                                      3       B       B       B       B       B       B       B       B       B       B       B               B       B       B       B       B               B       B       B       B       B       B             3       B       B       B       B       B       B               B       B       B       B       B       B       B       B       B       B       B               B       B       B       B       B       B       B       B                        3       B       B       B       B       B       B               B       B       B       B       B       B       B       B       B       B       B               B       B       B       B       B       B             3       B       B       B       B       B       B       B       B       B       B       B               B       B       B       B       B               B       B       B       B       B       B       B       B
+418  0110285  762011028501    01     12   07171-02  0307652     0                                  SAN LUIS     MOQUEGUA               ILO             ILO              B                             ILO     2       27                                                    2     2     2     2       2       2          2                         2                    2     2     2     2        2        2                                                                     2     2     2     2       2       2     2     2     2     2     2     2           1           1           1           1           1                                                                  02     12                                                2      2      2      2      2      2      2      2      2      2      2      2      2      2            2                                                                             2                                                                       2                                      2                     2                     2        2          2          2        2        2        2        2          2          2        2        2        2                     2                       2          2                                                                                                                                                                                                                                                                                                                                                                                              03     12                                  2      2      2      2        2      2      2      2      2      2      2      2      2        2      2        2      2                                                                                 1         1         1         1         1         1         1         1         1         1         1         1         1         1                                                 9     12    2      22                                               81459301      TORO     ROSARIO  NICOLAS       EDWARD              1        1                                      1       D       D       D       D       D       D       D       D       D       D       D               D       D       D       D       D               D       D       D       D       D       D             1       D       D       D       D       D       D               D       D       D       D       D       D       D       D       D       D       D               D       D       D       D       D       D       D       D                        1       D       D       D       D       D       D               D       D       D       D       D       D       D       D       D       D       D               D       D       D       D       D       D             1       D       D       D       D       D       D       D       D       D       D       D               D       D       D       D       D               D       D       D       D       D       D       D       D
+438  0105418  762010541801    01     13   03801-04  0230201     0            GRAN UNIDAD ESCOLAR SAN CARLOS         PUNO              PUNO            PUNO              D                            PUNO     1       32                                                    1     1     1     1       1       1          1                         1                    1     1     1     1        1        1                                                                     1     1     1     1       1       1     1     1     1     1     1     1                                                                                                                              02     13                                                1      1      1      1      1      1      1      1      1      1      1      1      1      1            3                                                                             3                                                                       1                                      1                     1                     1        1          1          1        1        1        1        1          1          1        1        1        1                     1                       1          1                                                                                                                                                                                                                                                                                                                                                                                              03     13                                  1      1      1      1        1      1      1      1      1      1      1      1      1        1      1        1      1                                                                                                                                                                                                                                                                     5     13    3      07                                               78704341     CHURA       PILCO     RAUL  DAYR FRANSH              1        1                                      2       B       B       B       B       B       B       B       B       B       B       B               B       B       B       B       B               B       B       B       B       B       B             2       B       B       B       B       B       B               B       B       B       B       B       B       B       B       B       B       B               B       B       B       B       B       B       B       B                        2       B       B       B       B       B       B               B       B       B       B       B       B       B       B       B       B       B               B       B       B       B       B       B             2       B       B       B       B       B       B       B       B       B       B       B               B       B       B       B       B               B       B       B       B       B       B       B       B
+439  0115212  762011521201    01     12   10466-02  0326488     0                     031 VIRGEN DEL CARMEN       TUMBES            TUMBES         LA CRUZ              B  TUMBES 2-CONTRALMIRANTE VILLAR     M       28                                                    M     M     M     M       M       M          M                         M                    M     M     M     M        M        M                                                                     M     M     M     M       M       M     M     M     M     M     M     M           1           1           1           1           1                                                                  02     12                                                M      M      M      M      M      M      M      M      M      M      M      M      M      M            2                                                                             2                                                                       M                                      M                     M                     M        M          M          M        M        M        M        M          M          M        M        M        M                     M                       M          M                                                                                                                                                                                                                                                                                                                                                                                              03     12                                  M      M      M      M        M      M      M      M      M      M      M      M      M        M      M        M      M                                                                                 1         1         1         1         1         1         1         1         1         1         1         1         1         1                                                 6     12    4      12                                               78646382      INGA     MARCHAN     LIAM       DAYIRO              1        1                                      3       D       D       D       D       D       D       D       D       D       D       D               D       D       D       D       D               D       D       D       D       D       D             3       D       D       D       D       D       D               D       D       D       D       D       D       D       D       D       D       D               D       D       D       D       D       D       D       D                        3       D       D       D       D       D       D               D       D       D       D       D       D       D       D       D       D       D               D       D       D       D       D       D             3       D       D       D       D       D       D       D       D       D       D       D               D       D       D       D       D               D       D       D       D       D       D       D       D
+----------------------------------------
+----------------------------------------------------------------------------------------------------
+Reporte generado el: 2025-09-22 18:10:55
+Validaciones Iniciales de Correspondencia A4
+Cantidad Registros faltantes del padrón: 611
+----------------------------------------
+{'10985-01 1679794 0', '06799-01 1198100 0', '08160-01 0269050 0', '07379-01 1607332 0', '11831-06 0415901 0', '01328-01 0443994 0', '11890-01 0412460 0', '13511-01 1252048 0', '03678-04 0299610 0', '05591-01 0367722 0', '00742-01 0443267 0', '03737-01 1591395 0', '11785-01 0673145 0', '07747-01 1341536 0', '10419-01 1136753 0', '14435-03 0215814 0', '04752-04 0548982 0', '15404-04 0824813 0', '13536-05 0247825 0', '02099-01 1368935 0', '08013-01 0674184 0', '04052-01 0675561 0', '01271-02 0243881 0', '10794-01 1435965 0', '03808-04 0230391 0', '13239-01 0375915 0', '14193-02 0318907 0', '04609-03 0243154 0', '12596-01 0291047 0', '00268-01 0227033 0', '13841-03 0282657 0', '13711-01 0542530 0', '11512-02 1430446 0', '10537-06 0622639 0', '11886-01 0417139 0', '12218-01 0379081 0', '05515-01 0307322 0', '10386-01 0366807 0', '00529-01 0444505 0', '04687-02 0243089 0', '00833-01 0438770 0', '07864-01 1338136 0', '10891-03 0281881 0', '02984-04 1539428 0', '14132-01 1074772 0', '03170-02 0398073 0', '04522-02 0445437 0', '11563-02 0382150 0', '06693-01 0220210 0', '08540-01 0699900 0', '07764-01 1722180 0', '10981-01 1425107 0', '09847-01 0860809 0', '00032-01 0398966 0', '01600-01 0732800 0', '14097-01 1642503 0', '10537-01 0622639 0', '10846-01 0861690 0', '06410-05 1354778 0', '12140-01 0886028 0', '14873-02 0689927 0', '12644-01 1237692 0', '12078-01 1413624 0', '05797-02 0311126 0', '03894-01 0409581 0', '15418-05 0317933 0', '00823-01 0438838 0', '07546-03 0456566 0', '10548-01 0366617 0', '14614-04 0215632 0', '04257-01 0917799 0', '09150-01 0211540 0', '01190-01 0580845 0', '05512-03 0307132 0', '13980-01 0765891 0', '04993-02 1594456 0', '04472-02 1718758 0', '11500-01 0381657 0', '03399-03 0637843 0', '04442-03 0299628 0', '05191-01 1413574 0', '01524-02 0271965 0', '02438-01 3003464 0', '14889-01 1056373 0', '00922-02 0201830 0', '13160-01 0543660 0', '07464-02 0346346 0', '03962-01 1155522 0', '02967-01 0397844 0', '02765-01 0837625 0', '12423-01 0296624 0', '08969-01 1018084 0', '09034-02 0342899 0', '07804-01 1337286 0', '08962-02 0613547 0', '01567-02 0205880 0', '06074-01 1633247 0', '03194-01 0738435 0', '15255-01 0775296 0', '14850-01 0328294 0', '08276-01 0267112 0', '03272-01 0202986 0', '02790-01 0265736 0', '03412-05 0299743 0', '05750-01 0867093 0', '14894-01 1067396 0', '02816-01 0202291 0', '03361-01 1580133 0', '11089-01 0375196 0', '01592-01 0405084 0', '01506-10 0272930 0', '08621-04 1017243 0', '13529-02 1371954 0', '03712-01 0298901 0', '14327-02 1754431 0', '00125-02 0405811 0', '12756-02 0358622 0', '15026-01 0763235 0', '02401-01 0264168 0', '14115-01 0835058 0', '13433-01 1526417 0', '02615-03 0471169 0', '03788-01 0840579 0', '00326-01 0300301 0', '04010-02 0297929 0', '02581-01 0304097 0', '01438-01 0806000 0', '04338-01 0224030 0', '07586-01 0345546 0', '10076-01 0396531 0', '04137-02 0241133 0', '00767-01 0606301 0', '00072-02 1534080 0', '12099-01 0886135 0', '09778-01 0594143 0', '04931-01 0206573 0', '15002-01 0436485 0', '03357-05 0243956 0', '14488-01 0856062 0', '10976-02 1357813 0', '05888-01 0311886 0', '15094-01 1540178 0', '13393-01 0385062 0', '08855-01 0341602 0', '06315-01 0344911 0', '06000-01 0896217 0', '02076-01 1393305 0', '03506-02 0402057 0', '02869-01 0256750 0', '10420-02 1136795 0', '14589-01 0773507 0', '13562-01 0826362 0', '02027-01 0301846 0', '03833-02 1438761 0', '02263-01 0594549 0', '08254-01 1320274 0', '03808-01 0230391 0', '13485-01 0249870 0', '11957-01 0414771 0', '12297-01 0393181 0', '06201-01 0702126 0', '06528-01 0456624 0', '10880-01 0861997 0', '13436-01 1756501 0', '09919-01 0349795 0', '13520-04 0251819 0', '11567-01 0566893 0', '03781-02 0657213 0', '06645-01 0345389 0', '08830-01 0614412 0', '04029-01 0866889 0', '15366-01 1483833 0', '14694-01 1459338 0', '15242-04 0339572 0', '05323-01 0221325 0', '15496-01 0705376 0', '11632-05 0288399 0', '11841-04 0906412 0', '00782-04 0444760 0', '10621-02 0471045 0', '00039-01 0399246 0', '14549-03 0207845 0', '11067-01 1613058 0', '14172-01 1510189 0', '15295-01 0900423 0', '09456-03 0220095 0', '12357-05 0278374 0', '10964-01 0494278 0', '06229-01 1461623 0', '13598-01 0247478 0', '01737-03 0497651 0', '11529-01 0376749 0', '07921-02 0349373 0', '07493-02 0346189 0', '11008-01 0282061 0', '06375-01 1352921 0', '00869-02 0406587 0', '00864-01 0933200 0', '11652-01 0810705 0', '03615-01 0561795 0', '05340-03 0285601 0', '04688-03 0243121 0', '13905-01 0251553 0', '03059-01 0301424 0', '07219-01 0313676 0', '03075-03 0400689 0', '14846-01 0324236 0', '10519-05 0366518 0', '13796-01 1769033 0', '09290-01 0543769 0', '03198-01 0838334 0', '07873-02 1789676 0', '03412-04 0299743 0', '11252-04 0428334 0', '10081-02 0723817 0', '08099-01 0494195 0', '00676-01 0444729 0', '09923-02 0366179 0', '13190-03 0377630 0', '04319-01 0597708 0', '06193-03 0456350 0', '11985-03 0553826 0', '11632-03 0288399 0', '07448-05 0345819 0', '08381-02 0213587 0', '10049-01 1545441 0', '00845-01 0388405 0', '01525-02 0271973 0', '11199-01 1178375 0', '08742-01 0737726 0', '15404-03 0824813 0', '10545-01 1672476 0', '04898-01 0658237 0', '11106-01 0365064 0', '09386-01 0350165 0', '14473-05 0659714 0', '12327-02 0277863 0', '13877-01 0248278 0', '12360-01 0278028 0', '03666-03 0206292 0', '10247-02 0366310 0', '12312-01 0495341 0', '11177-02 0426742 0', '06147-01 0213223 0', '14114-05 0834960 0', '00707-01 3016151 0', '01489-04 1121185 0', '00448-03 0444273 0', '08031-01 0349514 0', '14454-02 0555599 0', '14463-05 0524462 0', '07349-02 0933101 0', '05603-02 1441591 0', '14528-01 1388214 0', '13187-03 0375675 0', '07085-02 0422451 0', '15044-01 1038686 0', '09862-01 1433887 0', '14486-01 0782615 0', '03809-02 0230458 0', '04451-02 0841627 0', '15096-01 1583368 0', '04306-01 0223875 0', '04153-02 0241190 0', '07411-01 0441311 0', '01971-01 0658120 0', '11524-01 1663913 0', '04933-05 0528257 0', '03644-01 0271510 0', '15322-03 0436600 0', '05752-01 1136787 0', '06331-02 0619858 0', '00780-02 0444737 0', '12911-01 1000637 0', '10146-03 0396176 0', '08599-02 0341719 0', '07507-01 0346452 0', '04440-02 0299388 0', '04847-01 1159425 0', '04048-01 1587575 0', '14785-01 1499805 0', '07163-03 0306712 0', '03801-04 0230201 0', '09844-01 0860478 0', '10518-02 0366476 0', '14612-03 0208371 0', '12161-01 0375766 0', '03801-05 0230201 0', '06037-01 1769496 0', '05488-01 1639038 0', '06711-01 0384446 0', '01691-03 0405175 0', '14139-02 1243864 0', '09542-02 0354472 0', '06911-01 0342261 0', '02379-02 0258087 0', '15185-04 1312081 0', '13284-02 0370106 0', '13837-04 0253583 0', '08156-01 0677351 0', '06184-03 0344820 0', '08906-01 0808972 0', '07144-02 0552315 0', '00799-01 1356856 0', '06901-02 0342196 0', '08797-01 0350595 0', '09500-02 0541615 0', '14399-01 0656843 0', '06197-01 0555532 0', '06101-03 0655779 0', '10401-02 0348458 0', '07779-01 0844415 0', '01489-02 1121185 0', '04994-01 0297697 0', '03645-01 0561399 0', '10099-01 1303965 0', '13051-01 0374520 0', '08383-01 1466051 0', '13512-02 1532415 0', '10101-01 1342146 0', '10737-03 1321173 0', '02157-01 0841551 0', '12522-02 0425223 0', '07845-01 1757186 0', '00581-01 1537877 0', '13383-01 0364596 0', '12110-02 0276873 0', '00605-01 0768507 0', '09543-01 0354480 0', '13096-01 0377366 0', '10604-01 0327304 0', '04693-01 0243337 0', '00882-01 0406595 0', '15050-02 1188150 0', '14933-03 1463793 0', '02352-02 0513465 0', '02898-01 0302125 0', '12720-01 0360453 0', '10002-01 1426188 0', '14592-01 1085828 0', '06270-01 1733823 0', '02548-02 0302026 0', '14117-01 1044742 0', '06106-01 1271618 0', '15225-01 1406651 0', '04752-03 0548982 0', '15472-04 0314641 0', '01476-02 0715151 0', '12219-01 0379123 0', '12599-01 0291120 0', '11642-02 0541854 0', '11704-03 0288431 0', '14915-01 1087675 0', '12720-03 0360453 0', '08472-01 0631408 0', '01109-01 0447110 0', '05457-02 0307595 0', '08069-01 0719468 0', '04769-01 1698505 0', '11973-03 0277566 0', '10280-01 0394841 0', '11830-06 0411678 0', '06755-02 0200279 0', '01533-02 0474254 0', '03883-02 0933960 0', '15228-01 0334896 0', '07844-01 1699636 0', '11462-02 0382135 0', '02723-01 1541804 0', '06049-01 1253228 0', '02826-01 0548347 0', '11428-04 0375527 0', '06597-01 0283465 0', '03408-02 0299776 0', '07886-01 1125699 0', '12351-01 0554220 0', '13975-01 1668714 0', '03815-01 0243857 0', '09829-07 0260620 0', '14956-01 1656982 0', '10292-06 0417485 0', '00919-04 0201954 0', '06464-01 0345009 0', '01680-02 1468743 0', '03094-03 0838425 0', '05646-03 0348946 0', '06129-01 0267237 0', '12505-01 0856021 0', '14826-01 1782333 0', '12679-02 0391250 0', '12907-03 0699777 0', '13735-01 0254375 0', '07234-02 0220103 0', '10056-01 1170513 0', '06873-01 1546423 0', '14933-01 1463793 0', '15315-01 0436386 0', '14461-02 0208348 0', '08391-01 0269894 0', '00324-01 1019082 0', '03311-01 0398727 0', '09654-01 0341446 0', '04466-02 0298042 0', '05835-01 0891754 0', '08740-03 0350348 0', '09138-01 0269514 0', '00778-01 0442897 0', '14913-02 1086990 0', '08758-02 0260240 0', '01736-01 0489104 0', '05940-01 0312678 0', '09921-02 0366153 0', '00783-02 0445080 0', '03082-05 0531368 0', '09941-01 1212174 0', '03758-01 1326917 0', '00551-01 0389361 0', '05249-01 0516492 0', '06931-01 1621952 0', '13950-01 0436675 0', '03606-02 0923003 0', '03021-01 1150275 0', '10398-02 0348383 0', '07038-01 0357228 0', '15452-01 1098789 0', '03003-01 1539477 0', '06500-06 0456228 0', '09472-01 1202399 0', '13704-01 0254284 0', '14395-04 0215897 0', '11709-01 0624239 0', '01786-01 0347294 0', '11429-07 0375535 0', '01442-03 1406206 0', '15128-02 0516872 0', '07937-01 1237528 0', '06525-01 1463181 0', '14842-03 0323253 0', '12709-01 0358911 0', '02614-02 0471151 0', '07646-03 0345884 0', '10405-03 0348490 0', '07800-01 1279496 0', '00105-01 0265223 0', '01373-07 0477943 0', '15248-02 0510602 0', '00642-01 0439018 0', '08598-02 0341578 0', '11043-01 0381517 0', '01359-01 0271213 0', '07671-01 0346544 0', '06328-01 0574368 0', '07171-02 0307652 0', '09064-01 0895508 0', '05236-01 0224436 0', '06369-01 1721141 0', '11971-01 0276634 0', '14289-03 1728740 0', '02794-01 0573030 0', '04010-03 0297929 0', '06004-01 1031376 0', '14805-01 1719897 0', '04140-03 0474759 0', '08148-01 0752683 0', '05860-01 0307298 0', '06412-01 1424092 0', '00260-01 0244251 0', '10277-01 0366005 0', '15122-04 0436808 0', '14148-01 1312693 0', '05442-01 1371509 0', '08896-01 0342998 0', '11500-02 0381657 0', '10007-01 0394148 0', '14339-02 0331488 0', '08305-01 0260646 0', '02440-02 0206284 0', '03064-03 0398586 0', '06904-03 0357798 0', '11335-01 1430677 0', '10379-01 1658772 0', '01520-01 1722693 0', '03163-02 0838243 0', '07888-03 1545573 0', '02303-01 0555243 0', '08628-01 1237288 0', '06862-02 0431940 0', '06192-05 0456277 0', '06107-01 1272855 0', '04457-01 1775204 0', '03055-02 0203505 0', '03092-02 0838094 0', '14114-01 0834960 0', '05974-02 1334630 0', '15110-01 0433011 0', '11993-01 1116912 0', '12349-01 0277954 0', '09099-05 0269407 0', '04084-01 0603357 0', '00339-01 0549212 0', '04085-01 0675520 0', '15274-01 1067230 0', '01429-03 1121730 0', '10701-02 1634179 0', '04539-01 0638379 0', '12598-02 0291112 0', '07866-01 1338755 0', '00660-01 0443036 0', '04557-01 0396655 0', '10732-01 0519736 0', '15284-01 1502988 0', '14688-08 1259217 0', '07338-02 1386838 0', '11904-01 0414086 0', '06077-01 1651470 0', '14191-02 0317289 0', '11439-01 0921940 0', '13436-02 1756501 0', '02946-01 0549121 0', '07650-01 1376839 0', '03198-02 0838334 0', '04887-01 0734830 0', '13473-01 0248757 0', '12801-02 0359059 0', '13201-01 1100130 0', '06813-01 1609981 0', '10382-01 1773563 0', '08964-01 0718866 0', '06904-01 0357798 0', '12798-01 0723676 0', '12142-04 0277194 0', '10756-03 0378117 0', '11683-02 1749092 0', '00020-02 0202515 0', '08605-01 0355214 0', '08737-02 1756899 0', '07234-03 0220103 0', '15114-02 0434746 0', '11715-01 0848192 0', '09630-03 0835132 0', '10805-03 0936500 0', '09386-04 0350165 0', '10672-01 0801985 0', '01663-01 0204867 0', '13567-01 0517086 0', '05619-02 0396960 0', '01984-04 0243915 0', '13862-02 0253716 0', '13077-05 0374496 0', '05899-01 0310292 0', '14590-01 1085257 0', '14011-06 0527275 0', '08855-02 0341602 0', '13480-02 0248559 0', '00802-01 1545342 0', '09104-01 0561282 0', '13556-03 0252270 0', '04361-03 0388801 0', '03062-04 0398495 0', '14106-08 0691881 0', '05235-01 0224360 0', '03322-01 0633321 0', '14999-01 0436378 0', '07875-02 0306985 0', '05636-01 0211755 0', '12328-01 0277897 0', '14966-01 1758267 0', '07503-02 0346411 0', '15113-02 0433235 0', '11721-01 1247964 0', '00893-01 0731737 0', '09807-01 0321117 0', '15418-03 0317933 0', '04651-02 1581891 0', '05884-01 0311803 0', '10750-01 0361329 0', '07577-03 0347021 0', '07602-01 0702191 0', '12061-01 0284919 0', '00984-01 0443598 0', '10466-02 0326488 0', '03612-06 0271361 0', '00384-02 0829259 0', '09967-01 1628734 0', '15005-02 0436535 0', '05444-01 1577626 0', '13703-01 0247759 0', '14142-01 1265651 0', '01448-01 0271411 0', '14322-01 1083484 0', '14698-01 1497957 0', '08529-01 0311811 0', '12646-01 1367358 0', '00871-01 1389253 0', '00090-01 0202762 0', '00791-01 1135854 0', '02193-02 0300152 0', '04431-03 0297937 0', '05466-03 1089853 0', '01732-01 0235051 0', '15348-01 1090232 0', '03304-01 0398594 0', '13704-06 0254284 0', '01867-01 0348110 0', '15457-02 0542324 0', '06649-01 0456509 0', '09774-02 0320853 0', '09443-01 0341867 0', '15111-03 0433029 0', '06469-01 0627372 0', '12892-01 0360826 0'}
+----------------------------------------
+----------------------------------------------------------------------------------------------------
+Reporte generado el: 2025-09-22 18:10:55
+Reporte Acumulado de validaciones de Reglas Por Columna
+Litho: SUCCEED
+cod_barra: SUCCEED
+hoja1: SUCCEED
+dhoja1: SUCCEED
+cor_minedu: SUCCEED
+cod_mod7: SUCCEED
+anexo: SUCCEED
+ie: 1
+departamento: SUCCEED
+provincia: SUCCEED
+distrito: SUCCEED
+seccion: SUCCEED
+sede: SUCCEED
+turno: SUCCEED
+cuad_env: SUCCEED
+tel_ref: SUCCEED
+nom_director: SUCCEED
+ape_director: SUCCEED
+dni_director: 626
+dir01: SUCCEED
+dir02: SUCCEED
+dir03: SUCCEED
+dir04: SUCCEED
+dir05_1: SUCCEED
+dir05_2: SUCCEED
+dir05_2_d1: SUCCEED
+dir05_2_d1_cnt: 626
+dir05_2_d2: SUCCEED
+dir05_2_d2_cnt: 626
+dir06: SUCCEED
+dir07: SUCCEED
+dir08: SUCCEED
+dir09: SUCCEED
+dir09_01: SUCCEED
+dir09_02: SUCCEED
+tel1_director: SUCCEED
+tel2_director: SUCCEED
+nom_docente: SUCCEED
+ape_docente: SUCCEED
+dni_docente: 626
+doc01: SUCCEED
+doc02: SUCCEED
+doc03: SUCCEED
+doc04: SUCCEED
+doc04_1: SUCCEED
+doc04_2: SUCCEED
+doc05: SUCCEED
+doc06: SUCCEED
+doc07: SUCCEED
+doc08: SUCCEED
+doc09: SUCCEED
+doc10: SUCCEED
+doc_grado_1: 325
+doc_grado_2: 325
+doc_grado_3: 325
+doc_grado_5: 325
+doc_grado_6: 325
+doc11_d1: 626
+doc11_d2: 626
+doc12_d1: 626
+doc12_d2: 626
+tel1_docente: SUCCEED
+tel2_docente: SUCCEED
+hoja2: SUCCEED
+dhoja2: SUCCEED
+nom_aplicador: SUCCEED
+ape_aplicador: SUCCEED
+dni_aplicador: 626
+apli01: SUCCEED
+apli02: SUCCEED
+apli03: SUCCEED
+apli04: SUCCEED
+apli05: SUCCEED
+apli06: SUCCEED
+apli07: SUCCEED
+apli08: SUCCEED
+apli09: SUCCEED
+apli10: SUCCEED
+apli11: SUCCEED
+apli12: SUCCEED
+apli13: SUCCEED
+apli14: SUCCEED
+apli_dia1_01: 61
+apli_dia1_02: 626
+apli_dia1_03: 626
+apli_dia1_04: 626
+apli_dia1_05: 626
+apli_dia1_06: 626
+apli_dia2_01: 61
+apli_dia2_02: 626
+apli_dia2_03: 626
+apli_dia2_04: 626
+apli_dia2_05: 626
+apli_dia2_06: 626
+apli16: SUCCEED
+tel1_aplicador: 626
+tel2_aplicador: 626
+con01_d1: SUCCEED
+con01_d1_cnt: 626
+con01_d2: SUCCEED
+con01_d2_cnt: 626
+con02_d1: SUCCEED
+con02_d2: SUCCEED
+con02_d1_1: SUCCEED
+con02_d2_1: SUCCEED
+con03_d1: SUCCEED
+con03_d2: SUCCEED
+con04_d1: SUCCEED
+con04_d2: SUCCEED
+con04_d1_1: SUCCEED
+con04_d2_1: SUCCEED
+con05_d1: SUCCEED
+con05_d2: SUCCEED
+con06_d1: SUCCEED
+con06_d1_cnt: 626
+con06_d2: SUCCEED
+con06_d2_cnt: 626
+con06_d1_1: SUCCEED
+con06_d2_1: SUCCEED
+doc_comu_nom: SUCCEED
+doc_comu_ape: SUCCEED
+doc_comu_dni: 626
+doc_mate_nom: SUCCEED
+doc_mate_ape: SUCCEED
+doc_mate_dni: 626
+time_d1_lec_01: 626
+time_d1_lec_02: 626
+time_d1_lec_03: 626
+time_d1_lec_04: 626
+time_d1_des_01: 626
+time_d1_des_02: 626
+time_d1_mat_01: 626
+time_d1_mat_02: 626
+time_d1_mat_03: 626
+time_d1_mat_04: 626
+time_d2_mat_01: 626
+time_d2_mat_02: 626
+time_d2_mat_03: 626
+time_d2_mat_04: 626
+time_d2_des_01: 626
+time_d2_des_02: 626
+time_d2_lec_01: 626
+time_d2_lec_02: 626
+time_d2_lec_03: 626
+time_d2_lec_04: 626
+hoja3: SUCCEED
+dhoja3: SUCCEED
+nom_asistente: SUCCEED
+ape_asistente: SUCCEED
+asis01: SUCCEED
+asis02: SUCCEED
+asis03: SUCCEED
+asis04: SUCCEED
+asis04_1: SUCCEED
+asis05: SUCCEED
+asis06: SUCCEED
+asis07: SUCCEED
+asis08: SUCCEED
+asis09: SUCCEED
+asis10: SUCCEED
+asis11: SUCCEED
+asis12: SUCCEED
+asis12_1: SUCCEED
+asis13: SUCCEED
+asis13_1: SUCCEED
+asis14: SUCCEED
+dni_asistente: 626
+tel1_asistente: 626
+tel2_asistente: 626
+nom_autoridad: SUCCEED
+ape_autoridad: SUCCEED
+no_apli01: 325
+no_apli02: 325
+no_apli03: 325
+no_apli04: 325
+no_apli05: 325
+no_apli06: 325
+no_apli07: 325
+no_apli08: 325
+no_apli09: 325
+no_apli10: 325
+no_apli11: 325
+no_apli12: 325
+no_apli13: 325
+no_apli14: 325
+dni_autoridad: 626
+tel1_autoridad: 626
+tel2_autoridad: 626
+hoja: 426
+dhoja: 136
+pos: SUCCEED
+cor_est: 211
+discap_presenta: SUCCEED
+discap_tipo: SUCCEED
+discap_en_nomina: SUCCEED
+dni_est: 262
+paterno: SUCCEED
+materno: SUCCEED
+nombre1: SUCCEED
+nombre2: SUCCEED
+sexo: SUCCEED
+len_mater: SUCCEED
+nacional: SUCCEED
+no_estudiante: 626
+forma_dia1: 626
+asis_dia1_lec: SUCCEED
+dia1_01: SUCCEED
+dia1_02: SUCCEED
+dia1_03: SUCCEED
+dia1_04: SUCCEED
+dia1_05: SUCCEED
+dia1_06: SUCCEED
+dia1_07: SUCCEED
+dia1_08: SUCCEED
+dia1_09: SUCCEED
+dia1_10: SUCCEED
+dia1_11: SUCCEED
+dia1_12: 626
+dia1_13: SUCCEED
+dia1_14: SUCCEED
+dia1_15: SUCCEED
+dia1_16: SUCCEED
+dia1_17: SUCCEED
+dia1_18: 626
+dia1_19: SUCCEED
+dia1_20: SUCCEED
+dia1_21: SUCCEED
+dia1_22: SUCCEED
+dia1_23: SUCCEED
+dia1_24: SUCCEED
+asis_dia1_mat: SUCCEED
+dia1_25: SUCCEED
+dia1_26: SUCCEED
+dia1_27: SUCCEED
+dia1_28: SUCCEED
+dia1_29: SUCCEED
+dia1_30: SUCCEED
+dia1_31: 626
+dia1_32: SUCCEED
+dia1_33: SUCCEED
+dia1_34: SUCCEED
+dia1_35: SUCCEED
+dia1_36: SUCCEED
+dia1_37: SUCCEED
+dia1_38: SUCCEED
+dia1_39: SUCCEED
+dia1_40: SUCCEED
+dia1_41: SUCCEED
+dia1_42: SUCCEED
+dia1_43: 626
+dia1_44: SUCCEED
+dia1_45: SUCCEED
+dia1_46: SUCCEED
+dia1_47: SUCCEED
+dia1_48: SUCCEED
+dia1_49: SUCCEED
+dia1_50: SUCCEED
+dia1_51: SUCCEED
+forma_dia2: 626
+asis_dia2_mat: SUCCEED
+dia2_01: SUCCEED
+dia2_02: SUCCEED
+dia2_03: SUCCEED
+dia2_04: SUCCEED
+dia2_05: SUCCEED
+dia2_06: SUCCEED
+dia2_07: 626
+dia2_08: SUCCEED
+dia2_09: SUCCEED
+dia2_10: SUCCEED
+dia2_11: SUCCEED
+dia2_12: SUCCEED
+dia2_13: SUCCEED
+dia2_14: SUCCEED
+dia2_15: SUCCEED
+dia2_16: SUCCEED
+dia2_17: SUCCEED
+dia2_18: SUCCEED
+dia2_19: 626
+dia2_20: SUCCEED
+dia2_21: SUCCEED
+dia2_22: SUCCEED
+dia2_23: SUCCEED
+dia2_24: SUCCEED
+dia2_25: SUCCEED
+asis_dia2_lec: SUCCEED
+dia2_26: SUCCEED
+dia2_27: SUCCEED
+dia2_28: SUCCEED
+dia2_29: SUCCEED
+dia2_30: SUCCEED
+dia2_31: SUCCEED
+dia2_32: SUCCEED
+dia2_33: SUCCEED
+dia2_34: SUCCEED
+dia2_35: SUCCEED
+dia2_36: SUCCEED
+dia2_37: 626
+dia2_38: SUCCEED
+dia2_39: SUCCEED
+dia2_40: SUCCEED
+dia2_41: SUCCEED
+dia2_42: SUCCEED
+dia2_43: 626
+dia2_44: SUCCEED
+dia2_45: SUCCEED
+dia2_46: SUCCEED
+dia2_47: SUCCEED
+dia2_48: SUCCEED
+dia2_49: SUCCEED
+dia2_50: SUCCEED
+dia2_51: SUCCEED

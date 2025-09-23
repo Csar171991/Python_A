@@ -1,0 +1,71 @@
+****PARA DESPLEGAR EN PRODDUCCIÓN*****
+
+
+la estructura de archivos debe tener la siguiente:
+
+shared/                                   <------------------------------- carpeta compartida donde se comunica el frontend y backend
+│
+├── input/
+│   ├── BD_762_FOAR 4P Muestral_1p/
+│   │   ├── base.txt
+│   │   └── diccionario.xlsx
+│   │
+│   ├── DD_754_FO-4P-05 Cuestionario al padre de familia 4P/
+│   │   ├── base.txt
+│   │   └── diccionario.xlsx
+│   │                                      <------------------- A medida que el usuario vaya cargando los inputs se crearán las carpertas con sus respectivos archivos
+│   ├── Cuestionario_del_aplicador/
+│   │   ├── base.txt
+│   │   └── diccionario.xlsx
+│   │
+│   └── etc/
+│       ├── base.txt
+│       └── diccionario.xlsx
+│
+├── files/			
+│
+└── queue/				
+    ├── app_bd/				<------------------------Automaticamente desde el frontend se enviaran el archivo.json que consumira el worker y activará el app_bd con seccion
+    │   ├── DD_754_FO-4P-05 Cuestionario al padre de familia 4P.json
+    │   ├── Cuestionario_del_aplicador.json
+    │   └── etc.json
+    │
+    └── app_bd2/			<------------------------Automaticamente desde el frontend se enviaran el archivo.json que consumira el worker y activará el app_bd2 sin seccion
+        ├── BD_762_FOAR 4P Muestral_1p.json
+        ├── Cuestionario_del_director.json
+        ├── Cuestionario_del_aplicador.json
+        └── etc.json
+
+Estructura del archivo .json
+           │
+           ├──{"job_id":"DD_754_FO-4P-05 Cuestionario al padre de familia 4P","seccion":"app_bd","progress":0,"status":1,"estado_validacion":1}
+           │
+           └──{"job_id":"Cuestionario_del_aplicador","seccion":"app_bd","progress":0,"status":1,"estado_validacion":1}
+
+
+depuracion_reglas_iniciales/		<----------------- Raíz del proyecto.
+		│
+		├── input/
+		│   ├── inventario.txt  
+		│   └── padron.xlsx	
+		│
+		├── output/ 	
+		│   ├── error_validacion/ 
+		│   ├── muestra/	
+		│   └── report/		
+		│       └── db_ingesta/ 
+		│
+		├── app_bd.py
+		├── app_bd2.py
+		├── worker.py
+		├── readme
+		└── requirements
+
+
+
+
+
+
+
+
+
