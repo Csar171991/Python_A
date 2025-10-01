@@ -11,7 +11,7 @@ database = DATABASE_PATH
 # Cargar
 df = pd.read_csv(database, delimiter='\t', encoding='latin1', dtype=str)
 
-# Normalizar campos
+# Normalizar
 df["sexo"] = df["sexo"].fillna("").astype(str).str.strip()
 df["paterno"] = df["paterno"].fillna("").astype(str).str.strip()
 df["materno"] = df["materno"].fillna("").astype(str).str.strip()
@@ -48,12 +48,12 @@ for idx, fila in df_filtrado.iterrows():
             "id_usuario": " "
         })
 
-# DataFrame final con inconsistencias
+# DataFrame final
 sexo_inconsistentes = pd.DataFrame(registros)
 
 print("Inconsistencias de campo SEXO:")
 print(sexo_inconsistentes.head())
 
-# Guardar en archivo
+# Guardar
 sexo_inconsistentes.to_csv("input/database/D2_datos.txt", sep="\t", index=False, encoding="latin1")
 

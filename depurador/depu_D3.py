@@ -8,7 +8,7 @@ registros = []
 # -- Archivo --
 database = DATABASE_PATH
 
-# Cargar toda la base
+# Cargar
 df = pd.read_csv(database, delimiter='\t', encoding='latin1', dtype=str)
 
 # Normalizar 
@@ -18,7 +18,7 @@ df["materno"] = df["materno"].fillna("").astype(str).str.strip()
 df["nombre1"] = df["nombre1"].fillna("").astype(str).str.strip()
 df["nombre2"] = df["nombre2"].fillna("").astype(str).str.strip()
 
-# --- Regex válido para len_mater: 1-4 o M ---
+# --- Regex válido para len_mater:---
 regex_len_mater = re.compile(r"^[1-4]$")
 
 # --- Filtrar filas donde hay alguno de ellos lleno ---
@@ -48,11 +48,11 @@ for idx, fila in df_filtrado.iterrows():
             "id_usuario": " "
         })
 
-# DataFrame final con inconsistencias
+# DataFrame final
 len_mater_inconsistentes = pd.DataFrame(registros)
 
 print("Inconsistencias de campo LEN_MATER:")
 print(len_mater_inconsistentes.head())
 
-# Guardar en archivo
+# Guardar
 len_mater_inconsistentes.to_csv("input/database/D3_datos.txt", sep="\t", index=False, encoding="latin1")

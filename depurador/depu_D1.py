@@ -10,12 +10,12 @@ registros = []
 # -- Archivo --
 database = DATABASE_PATH
 
-# Cargar toda la base
+# Cargar 
 df = pd.read_csv(database, delimiter='\t', encoding='latin1', dtype=str)
 
 regex_dni = re.compile(r"^\d{2}$")  
 
-# Normalizar campos
+# Normalizar
 df["cor_est"] = df["cor_est"].fillna("").astype(str).str.strip()
 df["asis_dia1_lec"] = df["asis_dia1_lec"].fillna("0").astype(str).str.strip()
 df["asis_dia1_mat"] = df["asis_dia1_mat"].fillna("0").astype(str).str.strip()
@@ -30,11 +30,6 @@ df_presentes = df[
     (df["asis_dia2_lec"] == "1")
 ]
 
-# # Excluir DNIs vacíos y "99999999"
-# df_presentes = df_presentes[
-#     (df_presentes["dni_est"] != "") &
-#     (df_presentes["dni_est"] != "99999999")
-# ]
 
 # --- Correlativos inválidos ---
 for idx, fila in df_presentes.iterrows():
@@ -55,11 +50,11 @@ for idx, fila in df_presentes.iterrows():
         })
 
 
-# DataFrame final con inconsistencias
+# DataFrame final
 cor_est_inconsistentes = pd.DataFrame(registros)
 
 print("Inconsistencias de correlativo estudiante:")
 print(cor_est_inconsistentes.head())
 
-# Guardar en archivo
+# Guardar
 cor_est_inconsistentes.to_csv("input/database/D1_datos.txt",sep="\t",index=False,encoding="latin1")
