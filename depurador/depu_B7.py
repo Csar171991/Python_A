@@ -72,7 +72,7 @@ print("Inconsistencias detectadas en docentes-grados:")
 print(df_inconsistencias.head())
 
 # Guardar en archivo
-df_inconsistencias.to_csv("D:/shared/input/BD_762_FOAR 4P Muestral_1p/B7_datos.txt",sep='\t', index=False, encoding='latin1')
+df_inconsistencias.to_csv("input/database/b7_datos.txt",sep='\t', index=False, encoding='latin1')
 
 # # --- Conexión a BD ---
 # conn = get_connection()
