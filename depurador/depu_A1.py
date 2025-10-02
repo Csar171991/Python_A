@@ -1,5 +1,6 @@
 import pandas as pd
 import re
+from conexion_bd import get_connection
 from path import DATABASE_PATH
 
 # --- Lista ---
