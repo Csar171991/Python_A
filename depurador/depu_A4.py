@@ -70,5 +70,5 @@ print("Filas inconsistentes en nombres:")
 print(nombres_inconsistentes.head())
 
 # --- Exportar ---
-nombres_inconsistentes.to_csv("D:/shared/input/BD_762_FOAR 4P Muestral_1p/A4_datos.txt",sep='\t',index=False,encoding='latin1')
+nombres_inconsistentes.to_csv("input/database/A4_datos.txt",sep='\t',index=False,encoding='latin1')
 
