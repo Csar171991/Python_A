@@ -4,7 +4,7 @@ import re
 from conexion_bd import get_connection
 from path import DATABASE_PATH
 
-# --- Leer archivo ---
+# --- Archivo ---
 database = DATABASE_PATH
 df = pd.read_csv(database, delimiter='\t', encoding='latin1', dtype=str)
 
@@ -65,7 +65,7 @@ for idx, fila in df.iterrows():
             "id_usuario": None
         })
 
-# --- DataFrame final ---
+# --- DataFrame ---
 df_inconsistencias = pd.DataFrame(registros)
 
 print("Inconsistencias detectadas en docentes-grados:")
