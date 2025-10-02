@@ -1,0 +1,3386 @@
+id_inconsistencia	cod_barra	columna	valor	nuevo_valor	estado_revision	departamento	compuesta	compuesta_values	id_usuario
+18	762010860601	dni_director	99999991		0	AREQUIPA	0		 
+18	762010202201	dni_director			0	UCAYALI	0		 
+18	762011089701	dni_director			0	LAMBAYEQUE	0		 
+18	762010424801	dni_director			0	LORETO	0		 
+18	762011995401	dni_director			0	LIMA	0		 
+18	762011066701	dni_director			0	LAMBAYEQUE	0		 
+18	762010501601	dni_director			0	AMAZONAS	0		 
+18	762010343201	dni_director			0	CAJAMARCA	0		 
+18	762010288101	dni_director			0	PUNO	0		 
+18	762011690701	dni_director			0	JUN�N	0		 
+18	762012308901	dni_director			0	LIMA	0		 
+18	762010331101	dni_director			0	CAJAMARCA	0		 
+18	762011986001	dni_director			0	LIMA	0		 
+18	762010465601	dni_director			0	LORETO	0		 
+18	762012302701	dni_director			0	LIMA	0		 
+18	762010221601	dni_director			0	UCAYALI	0		 
+18	762010081401	dni_director			0	CAJAMARCA	0		 
+18	762010215401	dni_director			0	UCAYALI	0		 
+18	762011482301	dni_director			0	LA LIBERTAD	0		 
+18	762010395601	dni_director			0	LORETO	0		 
+18	762010522701	dni_director			0	CUSCO	0		 
+18	762010868001	dni_director			0	AREQUIPA	0		 
+18	762011742901	dni_director			0	�NCASH	0		 
+18	762011095301	dni_director			0	LAMBAYEQUE	0		 
+18	762011547801	dni_director			0	HU�NUCO	0		 
+18	762011785501	dni_director			0	ICA	0		 
+18	762010534701	dni_director			0	HU�NUCO	0		 
+18	762011613601	dni_director			0	JUN�N	0		 
+18	762011735901	dni_director			0	�NCASH	0		 
+18	762011376801	dni_director			0	PIURA	0		 
+18	762010634201	dni_director			0	SAN MART�N	0		 
+18	762012093201	dni_director			0	LIMA	0		 
+18	762012084301	dni_director			0	LIMA	0		 
+18	762010487501	dni_director			0	SAN MART�N	0		 
+18	762010610601	dni_director			0	CAJAMARCA	0		 
+18	762012081401	dni_director			0	LIMA	0		 
+18	762010420301	dni_director			0	LORETO	0		 
+18	762011771901	dni_director			0	ICA	0		 
+18	762011259901	dni_director			0	PIURA	0		 
+18	762011837401	dni_director			0	PASCO	0		 
+18	762011111201	dni_director			0	AREQUIPA	0		 
+18	762011901001	dni_director			0	�NCASH	0		 
+18	762010651401	dni_director			0	PUNO	0		 
+18	762010868201	dni_director			0	AREQUIPA	0		 
+18	762011263701	dni_director			0	PIURA	0		 
+18	762010858801	dni_director			0	AREQUIPA	0		 
+18	762010401601	dni_director			0	AMAZONAS	0		 
+18	762010203301	dni_director			0	UCAYALI	0		 
+18	762011086701	dni_director			0	LAMBAYEQUE	0		 
+18	762012142101	dni_director			0	CALLAO	0		 
+18	762010548601	dni_director			0	PUNO	0		 
+18	762011629601	dni_director			0	HU�NUCO	0		 
+18	762011780301	dni_director			0	ICA	0		 
+18	762012085301	dni_director			0	LIMA	0		 
+18	762011380701	dni_director			0	PIURA	0		 
+18	762012056301	dni_director			0	LIMA	0		 
+18	762011026501	dni_director			0	MOQUEGUA	0		 
+18	762012117501	dni_director			0	LIMA	0		 
+18	762011925201	dni_director			0	JUN�N	0		 
+18	762011745101	dni_director			0	�NCASH	0		 
+18	762011668601	dni_director			0	JUN�N	0		 
+18	762010109501	dni_director			0	CAJAMARCA	0		 
+18	762010371301	dni_director			0	HU�NUCO	0		 
+18	762010585101	dni_director			0	SAN MART�N	0		 
+18	762010981001	dni_director			0	AYACUCHO	0		 
+18	762012081501	dni_director			0	LIMA	0		 
+18	762010697401	dni_director			0	MADRE DE DIOS	0		 
+18	762011425001	dni_director			0	PIURA	0		 
+18	762010912401	dni_director			0	LAMBAYEQUE	0		 
+18	762011361201	dni_director			0	PIURA	0		 
+18	762012015701	dni_director			0	LIMA	0		 
+18	762011205901	dni_director			0	LA LIBERTAD	0		 
+18	762010490401	dni_director			0	SAN MART�N	0		 
+18	762011682701	dni_director			0	JUN�N	0		 
+18	762011122401	dni_director			0	AREQUIPA	0		 
+18	762011705601	dni_director			0	HU�NUCO	0		 
+18	762010529101	dni_director			0	SAN MART�N	0		 
+18	762010787401	dni_director			0	AREQUIPA	0		 
+18	762010612001	dni_director			0	CAJAMARCA	0		 
+18	762011505901	dni_director			0	LA LIBERTAD	0		 
+18	762010696101	dni_director			0	MADRE DE DIOS	0		 
+18	762010152701	dni_director			0	CAJAMARCA	0		 
+18	762012038201	dni_director			0	LIMA	0		 
+18	762011464901	dni_director			0	LA LIBERTAD	0		 
+18	762011938001	dni_director			0	JUN�N	0		 
+18	762010642901	dni_director			0	CAJAMARCA	0		 
+18	762012252701	dni_director			0	LIMA	0		 
+18	762010048501	dni_director			0	SAN MART�N	0		 
+18	762012275701	dni_director			0	LIMA	0		 
+18	762011126901	dni_director			0	MOQUEGUA	0		 
+18	762010629901	dni_director			0	SAN MART�N	0		 
+18	762011196601	dni_director			0	LA LIBERTAD	0		 
+18	762010677301	dni_director			0	PUNO	0		 
+18	762010448801	dni_director			0	LORETO	0		 
+18	762010817901	dni_director			0	PIURA	0		 
+18	762010616801	dni_director			0	CAJAMARCA	0		 
+18	762010591101	dni_director			0	PUNO	0		 
+18	762010715001	dni_director			0	SAN MART�N	0		 
+18	762011325301	dni_director			0	LA LIBERTAD	0		 
+18	762011990301	dni_director			0	LIMA	0		 
+18	762010104801	dni_director			0	CAJAMARCA	0		 
+18	762012269601	dni_director			0	LIMA	0		 
+18	762011228801	dni_director			0	PIURA	0		 
+18	762011679301	dni_director			0	JUN�N	0		 
+18	762012231901	dni_director			0	LIMA	0		 
+18	762010545201	dni_director			0	PUNO	0		 
+18	762012081801	dni_director			0	LIMA	0		 
+18	762012062201	dni_director			0	LIMA	0		 
+18	762010453501	dni_director			0	LORETO	0		 
+18	762011109401	dni_director			0	AREQUIPA	0		 
+18	762011809601	dni_director			0	ICA	0		 
+18	762011094801	dni_director			0	LAMBAYEQUE	0		 
+18	762010939101	dni_director			0	LAMBAYEQUE	0		 
+18	762010128901	dni_director			0	CUSCO	0		 
+18	762010913201	dni_director			0	LAMBAYEQUE	0		 
+18	762011119701	dni_director			0	AREQUIPA	0		 
+18	762012085601	dni_director			0	LIMA	0		 
+18	762012254601	dni_director			0	LIMA	0		 
+18	762011074901	dni_director			0	LAMBAYEQUE	0		 
+18	762010341001	dni_director			0	CAJAMARCA	0		 
+18	762012205101	dni_director			0	LIMA	0		 
+18	762011536001	dni_director			0	LA LIBERTAD	0		 
+18	762011431501	dni_director			0	LA LIBERTAD	0		 
+18	762012151501	dni_director			0	CALLAO	0		 
+18	762010939601	dni_director			0	LAMBAYEQUE	0		 
+18	762010454401	dni_director			0	LORETO	0		 
+18	762011581501	dni_director			0	JUN�N	0		 
+18	762010325701	dni_director			0	CAJAMARCA	0		 
+18	762012089201	dni_director			0	LIMA	0		 
+18	762010236101	dni_director			0	CUSCO	0		 
+18	762010048501	dni_director			0	SAN MART�N	0		 
+18	762011577101	dni_director			0	JUN�N	0		 
+18	762011491501	dni_director			0	LA LIBERTAD	0		 
+18	762010257101	dni_director			0	CUSCO	0		 
+18	762010863701	dni_director			0	AREQUIPA	0		 
+18	762011936401	dni_director			0	JUN�N	0		 
+18	762010572901	dni_director			0	SAN MART�N	0		 
+18	762011506301	dni_director			0	LA LIBERTAD	0		 
+18	762011310301	dni_director			0	LA LIBERTAD	0		 
+18	762010971601	dni_director			0	APUR�MAC	0		 
+18	762010745601	dni_director			0	AMAZONAS	0		 
+18	762011411801	dni_director			0	PIURA	0		 
+18	762010184301	dni_director			0	UCAYALI	0		 
+18	762010853601	dni_director			0	AREQUIPA	0		 
+18	762011869701	dni_director			0	�NCASH	0		 
+18	762010921101	dni_director			0	LAMBAYEQUE	0		 
+18	762010778901	dni_director			0	APUR�MAC	0		 
+18	762010118301	dni_director			0	CUSCO	0		 
+18	762011813601	dni_director			0	ICA	0		 
+18	762011510201	dni_director			0	TUMBES	0		 
+18	762011196001	dni_director			0	LA LIBERTAD	0		 
+18	762010644901	dni_director			0	CAJAMARCA	0		 
+18	762011586801	dni_director			0	ICA	0		 
+18	762011601101	dni_director			0	ICA	0		 
+18	762011151901	dni_director			0	PIURA	0		 
+18	762012285801	dni_director			0	LIMA	0		 
+18	762011943001	dni_director			0	JUN�N	0		 
+18	762010115701	dni_director			0	CAJAMARCA	0		 
+18	762012086401	dni_director			0	LIMA	0		 
+18	762010302001	dni_director			0	CUSCO	0		 
+18	762010250301	dni_director			0	CUSCO	0		 
+18	762011181401	dni_director			0	PIURA	0		 
+18	762010427501	dni_director			0	LORETO	0		 
+18	762011227701	dni_director			0	PIURA	0		 
+18	762010999901	dni_director			0	PIURA	0		 
+18	762011076101	dni_director			0	LAMBAYEQUE	0		 
+18	762011672501	dni_director			0	JUN�N	0		 
+18	762012279701	dni_director			0	LIMA	0		 
+18	762010119301	dni_director			0	CUSCO	0		 
+18	762010108401	dni_director			0	CAJAMARCA	0		 
+18	762011544701	dni_director			0	TUMBES	0		 
+18	762012041201	dni_director			0	LIMA	0		 
+18	762012245801	dni_director			0	LIMA	0		 
+18	762010171001	dni_director			0	PUNO	0		 
+18	762012292301	dni_director			0	LIMA	0		 
+18	762011850901	dni_director			0	ICA	0		 
+18	762011970901	dni_director			0	LIMA	0		 
+18	762011244501	dni_director			0	PIURA	0		 
+18	762012014001	dni_director			0	LIMA	0		 
+18	762010104001	dni_director			0	CAJAMARCA	0		 
+18	762010566501	dni_director			0	LORETO	0		 
+18	762010392701	dni_director			0	LORETO	0		 
+18	762010109801	dni_director			0	CAJAMARCA	0		 
+18	762012220001	dni_director			0	LIMA	0		 
+18	762012137601	dni_director			0	CALLAO	0		 
+18	762010473301	dni_director			0	LORETO	0		 
+18	762011703801	dni_director			0	HU�NUCO	0		 
+18	762010019201	dni_director			0	CUSCO	0		 
+18	762010480501	dni_director			0	PUNO	0		 
+18	762012223601	dni_director			0	LIMA	0		 
+18	762012287801	dni_director			0	LIMA	0		 
+18	762010413601	dni_director			0	LORETO	0		 
+18	762010446601	dni_director			0	LORETO	0		 
+18	762010347701	dni_director			0	CUSCO	0		 
+18	762010627601	dni_director			0	SAN MART�N	0		 
+18	762011024201	dni_director			0	AYACUCHO	0		 
+18	762011566401	dni_director			0	�NCASH	0		 
+18	762012033701	dni_director			0	LIMA	0		 
+18	762011935101	dni_director			0	JUN�N	0		 
+18	762010997101	dni_director			0	PIURA	0		 
+18	762010008201	dni_director			0	LORETO	0		 
+18	762011788601	dni_director			0	JUN�N	0		 
+18	762010660001	dni_director			0	PUNO	0		 
+18	762011426701	dni_director			0	LA LIBERTAD	0		 
+18	762010573001	dni_director			0	SAN MART�N	0		 
+18	762011098401	dni_director			0	LAMBAYEQUE	0		 
+18	762011558401	dni_director			0	�NCASH	0		 
+18	762012237901	dni_director			0	LIMA	0		 
+18	762010836901	dni_director			0	AREQUIPA	0		 
+18	762010818101	dni_director			0	PIURA	0		 
+18	762011564001	dni_director			0	�NCASH	0		 
+18	762010894101	dni_director			0	LAMBAYEQUE	0		 
+18	762012269101	dni_director			0	LIMA	0		 
+18	762010807301	dni_director			0	PIURA	0		 
+18	762010048701	dni_director			0	SAN MART�N	0		 
+18	762010632301	dni_director			0	SAN MART�N	0		 
+18	762012161501	dni_director			0	CALLAO	0		 
+18	762010265701	dni_director			0	CAJAMARCA	0		 
+18	762011197401	dni_director			0	LA LIBERTAD	0		 
+18	762010555401	dni_director			0	CUSCO	0		 
+18	762012034501	dni_director			0	LIMA	0		 
+18	762011713301	dni_director			0	HU�NUCO	0		 
+18	762010992201	dni_director			0	AYACUCHO	0		 
+18	762010227201	dni_director			0	CUSCO	0		 
+18	762011970801	dni_director			0	LIMA	0		 
+18	762010294601	dni_director			0	SAN MART�N	0		 
+18	762012081001	dni_director			0	LIMA	0		 
+18	762011795601	dni_director			0	JUN�N	0		 
+18	762010128501	dni_director			0	CUSCO	0		 
+18	762010532001	dni_director			0	SAN MART�N	0		 
+18	762010522701	dni_director			0	CUSCO	0		 
+18	762011970301	dni_director			0	LIMA	0		 
+18	762010411501	dni_director			0	SAN MART�N	0		 
+18	762010630901	dni_director			0	SAN MART�N	0		 
+18	762011114401	dni_director			0	AREQUIPA	0		 
+18	762010964601	dni_director			0	AREQUIPA	0		 
+18	762011284101	dni_director			0	PIURA	0		 
+18	762010906901	dni_director			0	LAMBAYEQUE	0		 
+18	762011249601	dni_director			0	PIURA	0		 
+18	762011455001	dni_director			0	LA LIBERTAD	0		 
+18	762012114601	dni_director			0	LIMA	0		 
+18	762011325301	dni_director			0	LA LIBERTAD	0		 
+18	762011528401	dni_director			0	LA LIBERTAD	0		 
+18	762011076701	dni_director			0	LAMBAYEQUE	0		 
+18	762011716101	dni_director			0	HU�NUCO	0		 
+18	762011087901	dni_director			0	LAMBAYEQUE	0		 
+18	762010188901	dni_director			0	UCAYALI	0		 
+18	762011172901	dni_director			0	LA LIBERTAD	0		 
+18	762010776001	dni_director			0	AREQUIPA	0		 
+18	762010218701	dni_director			0	UCAYALI	0		 
+18	762011684201	dni_director			0	JUN�N	0		 
+18	762010078301	dni_director			0	CAJAMARCA	0		 
+18	762012249201	dni_director			0	LIMA	0		 
+18	762012219801	dni_director			0	LIMA	0		 
+18	762011733601	dni_director			0	�NCASH	0		 
+18	762011699701	dni_director			0	HU�NUCO	0		 
+18	762012200101	dni_director			0	LIMA	0		 
+18	762011488001	dni_director			0	LA LIBERTAD	0		 
+18	762011597901	dni_director			0	ICA	0		 
+18	762011665601	dni_director			0	JUN�N	0		 
+18	762010798101	dni_director			0	LA LIBERTAD	0		 
+18	762011807201	dni_director			0	HU�NUCO	0		 
+18	762010689201	dni_director			0	CAJAMARCA	0		 
+18	762011060701	dni_director			0	AYACUCHO	0		 
+18	762010844101	dni_director			0	AREQUIPA	0		 
+18	762011867301	dni_director			0	�NCASH	0		 
+18	762011224001	dni_director			0	PIURA	0		 
+18	762010050101	dni_director			0	SAN MART�N	0		 
+18	762012075001	dni_director			0	LIMA	0		 
+18	762010928701	dni_director			0	LAMBAYEQUE	0		 
+18	762010435301	dni_director			0	LORETO	0		 
+18	762010347101	dni_director			0	CAJAMARCA	0		 
+18	762010371801	dni_director			0	HU�NUCO	0		 
+18	762011345201	dni_director			0	PIURA	0		 
+18	762011774801	dni_director			0	ICA	0		 
+18	762011547801	dni_director			0	HU�NUCO	0		 
+18	762010101601	dni_director			0	CAJAMARCA	0		 
+18	762010039001	dni_director			0	PUNO	0		 
+18	762012145301	dni_director			0	CALLAO	0		 
+18	762011245001	dni_director			0	PIURA	0		 
+18	762010105901	dni_director			0	CAJAMARCA	0		 
+18	762011119601	dni_director			0	AREQUIPA	0		 
+18	762011834701	dni_director			0	PASCO	0		 
+18	762011805501	dni_director			0	HU�NUCO	0		 
+18	762011016801	dni_director			0	AYACUCHO	0		 
+18	762010366101	dni_director			0	SAN MART�N	0		 
+18	762011113901	dni_director			0	AREQUIPA	0		 
+18	762010106401	dni_director			0	CAJAMARCA	0		 
+18	762011161901	dni_director			0	LA LIBERTAD	0		 
+18	762011038601	dni_director			0	AREQUIPA	0		 
+18	762011222601	dni_director			0	PIURA	0		 
+18	762010882501	dni_director			0	LAMBAYEQUE	0		 
+18	762011107501	dni_director			0	AREQUIPA	0		 
+18	762011699501	dni_director			0	HU�NUCO	0		 
+18	762010316101	dni_director			0	SAN MART�N	0		 
+18	762011626801	dni_director			0	PASCO	0		 
+18	762011984801	dni_director			0	LIMA	0		 
+18	762010245301	dni_director			0	CUSCO	0		 
+18	762012038201	dni_director			0	LIMA	0		 
+18	762010747301	dni_director			0	AMAZONAS	0		 
+18	762011982201	dni_director			0	LIMA	0		 
+18	762011177101	dni_director			0	LA LIBERTAD	0		 
+18	762011795701	dni_director			0	JUN�N	0		 
+18	762011222401	dni_director			0	PIURA	0		 
+18	762010215401	dni_director			0	UCAYALI	0		 
+18	762010867201	dni_director			0	AREQUIPA	0		 
+18	762012078101	dni_director			0	LIMA	0		 
+18	762012248501	dni_director			0	LIMA	0		 
+18	762010087301	dni_director			0	CAJAMARCA	0		 
+18	762010605201	dni_director			0	CAJAMARCA	0		 
+18	762011347201	dni_director			0	AREQUIPA	0		 
+18	762011809301	dni_director			0	ICA	0		 
+18	762010884501	dni_director			0	LAMBAYEQUE	0		 
+18	762011145101	dni_director			0	PIURA	0		 
+18	762012013201	dni_director			0	LIMA	0		 
+18	762012233401	dni_director			0	LIMA	0		 
+18	762010427101	dni_director			0	LORETO	0		 
+18	762011554101	dni_director			0	HUANCAVELICA	0		 
+18	762012294101	dni_director			0	LIMA	0		 
+18	762010935101	dni_director			0	LAMBAYEQUE	0		 
+18	762012318801	dni_director			0	LIMA	0		 
+18	762011305201	dni_director			0	LA LIBERTAD	0		 
+18	762010396701	dni_director			0	LORETO	0		 
+18	762011336901	dni_director			0	PIURA	0		 
+18	762010489001	dni_director			0	SAN MART�N	0		 
+18	762012281001	dni_director			0	LIMA	0		 
+18	762012161601	dni_director			0	CALLAO	0		 
+18	762011336601	dni_director			0	PIURA	0		 
+18	762011786101	dni_director			0	ICA	0		 
+18	762010626901	dni_director			0	SAN MART�N	0		 
+18	762011534801	dni_director			0	LA LIBERTAD	0		 
+18	762012115301	dni_director			0	LIMA	0		 
+18	762011122701	dni_director			0	AREQUIPA	0		 
+18	762010429901	dni_director			0	LORETO	0		 
+18	762010525001	dni_director			0	SAN MART�N	0		 
+18	762011978501	dni_director			0	LIMA	0		 
+18	762011441001	dni_director			0	LA LIBERTAD	0		 
+18	762012274301	dni_director			0	LIMA	0		 
+18	762012312001	dni_director			0	LIMA	0		 
+18	762012232701	dni_director			0	LIMA	0		 
+18	762010832801	dni_director			0	AREQUIPA	0		 
+18	762011533201	dni_director			0	LA LIBERTAD	0		 
+18	762010006301	dni_director			0	LORETO	0		 
+18	762010389601	dni_director			0	LORETO	0		 
+18	762012161801	dni_director			0	CALLAO	0		 
+18	762012211601	dni_director			0	LIMA	0		 
+18	762010614001	dni_director			0	CAJAMARCA	0		 
+18	762010667301	dni_director			0	PUNO	0		 
+18	762012203701	dni_director			0	LIMA	0		 
+18	762012018501	dni_director			0	LIMA	0		 
+18	762011815401	dni_director			0	ICA	0		 
+18	762011681101	dni_director			0	JUN�N	0		 
+18	762010901801	dni_director			0	LAMBAYEQUE	0		 
+18	762011532701	dni_director			0	LA LIBERTAD	0		 
+18	762012217801	dni_director			0	LIMA	0		 
+18	762011160601	dni_director			0	PIURA	0		 
+18	762010516101	dni_director			0	UCAYALI	0		 
+18	762010210401	dni_director			0	UCAYALI	0		 
+18	762010054801	dni_director			0	SAN MART�N	0		 
+18	762010200501	dni_director			0	UCAYALI	0		 
+18	762011254201	dni_director			0	PIURA	0		 
+18	762011679401	dni_director			0	JUN�N	0		 
+18	762010949901	dni_director			0	APUR�MAC	0		 
+18	762010016801	dni_director			0	LORETO	0		 
+18	762010871001	dni_director			0	LA LIBERTAD	0		 
+18	762010680401	dni_director			0	PUNO	0		 
+18	762010665101	dni_director			0	PUNO	0		 
+18	762011869901	dni_director			0	�NCASH	0		 
+18	762012214701	dni_director			0	LIMA	0		 
+18	762012179201	dni_director			0	LIMA	0		 
+18	762012204601	dni_director			0	LIMA	0		 
+18	762012225701	dni_director			0	LIMA	0		 
+18	762012145301	dni_director			0	CALLAO	0		 
+18	762010362701	dni_director			0	SAN MART�N	0		 
+18	762011637501	dni_director			0	HUANCAVELICA	0		 
+18	762010996901	dni_director			0	PIURA	0		 
+18	762010773901	dni_director			0	AREQUIPA	0		 
+18	762010966801	dni_director			0	LA LIBERTAD	0		 
+18	762011858101	dni_director			0	ICA	0		 
+18	762011349201	dni_director			0	AREQUIPA	0		 
+18	762010071501	dni_director			0	CAJAMARCA	0		 
+18	762011402801	dni_director			0	TACNA	0		 
+18	762011136401	dni_director			0	PIURA	0		 
+18	762010454501	dni_director			0	LORETO	0		 
+18	762010415901	dni_director			0	LORETO	0		 
+18	762010878901	dni_director			0	LAMBAYEQUE	0		 
+18	762011717101	dni_director			0	HU�NUCO	0		 
+18	762010090701	dni_director			0	CAJAMARCA	0		 
+18	762010907901	dni_director			0	LAMBAYEQUE	0		 
+18	762010479701	dni_director			0	PUNO	0		 
+18	762011271701	dni_director			0	PIURA	0		 
+18	762010514601	dni_director			0	UCAYALI	0		 
+18	762011755501	dni_director			0	ICA	0		 
+18	762011724901	dni_director			0	HU�NUCO	0		 
+18	762011922601	dni_director			0	JUN�N	0		 
+18	762010119101	dni_director			0	CUSCO	0		 
+18	762011710901	dni_director			0	HU�NUCO	0		 
+18	762011449401	dni_director			0	LA LIBERTAD	0		 
+18	762011458901	dni_director			0	LA LIBERTAD	0		 
+18	762012241201	dni_director			0	LIMA	0		 
+18	762011664601	dni_director			0	JUN�N	0		 
+18	762010883701	dni_director			0	LAMBAYEQUE	0		 
+18	762011753301	dni_director			0	�NCASH	0		 
+18	762011862501	dni_director			0	�NCASH	0		 
+18	762012055801	dni_director			0	LIMA	0		 
+18	762010490301	dni_director			0	SAN MART�N	0		 
+18	762012246001	dni_director			0	LIMA	0		 
+18	762011508901	dni_director			0	TUMBES	0		 
+18	762010702101	dni_director			0	MADRE DE DIOS	0		 
+18	762010577901	dni_director			0	SAN MART�N	0		 
+18	762010207601	dni_director			0	UCAYALI	0		 
+18	762011962001	dni_director			0	JUN�N	0		 
+18	762011901001	dni_director			0	�NCASH	0		 
+18	762011604501	dni_director			0	ICA	0		 
+18	762011028501	dni_director			0	MOQUEGUA	0		 
+18	762011896301	dni_director			0	�NCASH	0		 
+18	762010138101	dni_director			0	CAJAMARCA	0		 
+18	762012302901	dni_director			0	LIMA	0		 
+18	762012026301	dni_director			0	LIMA	0		 
+18	762010120801	dni_director			0	CUSCO	0		 
+18	762011778601	dni_director			0	ICA	0		 
+18	762010703701	dni_director			0	MADRE DE DIOS	0		 
+18	762012133401	dni_director			0	CALLAO	0		 
+18	762011932001	dni_director			0	�NCASH	0		 
+18	762010085401	dni_director			0	CAJAMARCA	0		 
+18	762011448401	dni_director			0	LA LIBERTAD	0		 
+18	762010098801	dni_director			0	CAJAMARCA	0		 
+18	762010581601	dni_director			0	SAN MART�N	0		 
+18	762010759901	dni_director			0	APUR�MAC	0		 
+18	762010997901	dni_director			0	PIURA	0		 
+18	762010996001	dni_director			0	PIURA	0		 
+18	762011990901	dni_director			0	LIMA	0		 
+18	762011600001	dni_director			0	ICA	0		 
+18	762010200501	dni_director			0	UCAYALI	0		 
+18	762010541801	dni_director			0	PUNO	0		 
+18	762011521201	dni_director			0	TUMBES	0		 
+18	762010210601	dni_director			0	UCAYALI	0		 
+18	762010543801	dni_director			0	PUNO	0		 
+18	762010836401	dni_director			0	AREQUIPA	0		 
+18	762012299401	dni_director			0	LIMA	0		 
+18	762010122001	dni_director			0	CUSCO	0		 
+18	762011759801	dni_director			0	ICA	0		 
+18	762011435301	dni_director			0	LA LIBERTAD	0		 
+18	762011298101	dni_director			0	AREQUIPA	0		 
+18	762010624401	dni_director			0	SAN MART�N	0		 
+18	762010541901	dni_director			0	PUNO	0		 
+18	762012164501	dni_director			0	CALLAO	0		 
+18	762011850801	dni_director			0	ICA	0		 
+18	762010864201	dni_director			0	AREQUIPA	0		 
+18	762011989601	dni_director			0	LIMA	0		 
+18	762012081501	dni_director			0	LIMA	0		 
+18	762011564901	dni_director			0	�NCASH	0		 
+18	762012249701	dni_director			0	LIMA	0		 
+18	762011361401	dni_director			0	PIURA	0		 
+18	762010557201	dni_director			0	CUSCO	0		 
+18	762012217601	dni_director			0	LIMA	0		 
+18	762011977101	dni_director			0	LIMA	0		 
+18	762011814001	dni_director			0	ICA	0		 
+18	762010471101	dni_director			0	LORETO	0		 
+18	762011918801	dni_director			0	JUN�N	0		 
+18	762011282701	dni_director			0	PIURA	0		 
+18	762011415501	dni_director			0	PIURA	0		 
+18	762011513601	dni_director			0	TUMBES	0		 
+18	762012178101	dni_director			0	LIMA	0		 
+18	762010541801	dni_director			0	PUNO	0		 
+18	762010384501	dni_director			0	HU�NUCO	0		 
+18	762012154501	dni_director			0	CALLAO	0		 
+18	762010593701	dni_director			0	PUNO	0		 
+18	762011162301	dni_director			0	LA LIBERTAD	0		 
+18	762011600701	dni_director			0	ICA	0		 
+18	762011425501	dni_director			0	LA LIBERTAD	0		 
+18	762010258001	dni_director			0	CUSCO	0		 
+18	762012247701	dni_director			0	LIMA	0		 
+18	762011263801	dni_director			0	PIURA	0		 
+18	762010774101	dni_director			0	AREQUIPA	0		 
+18	762011874901	dni_director			0	�NCASH	0		 
+18	762010258401	dni_director			0	CUSCO	0		 
+18	762010957401	dni_director			0	LAMBAYEQUE	0		 
+18	762010581001	dni_director			0	SAN MART�N	0		 
+18	762012213901	dni_director			0	LIMA	0		 
+18	762012145801	dni_director			0	CALLAO	0		 
+18	762010418101	dni_director			0	LORETO	0		 
+18	762010783101	dni_director			0	APUR�MAC	0		 
+18	762010888201	dni_director			0	LAMBAYEQUE	0		 
+18	762010074001	dni_director			0	CAJAMARCA	0		 
+18	762012278701	dni_director			0	LIMA	0		 
+18	762011760701	dni_director			0	ICA	0		 
+18	762011815101	dni_director			0	ICA	0		 
+18	762011069701	dni_director			0	LAMBAYEQUE	0		 
+18	762010664501	dni_director			0	PUNO	0		 
+18	762011408001	dni_director			0	TACNA	0		 
+18	762012240201	dni_director			0	LIMA	0		 
+18	762010273801	dni_director			0	CAJAMARCA	0		 
+18	762010014901	dni_director			0	LORETO	0		 
+18	762012045501	dni_director			0	LIMA	0		 
+18	762010854201	dni_director			0	AREQUIPA	0		 
+18	762010543501	dni_director			0	PUNO	0		 
+18	762011214801	dni_director			0	AREQUIPA	0		 
+18	762011487101	dni_director			0	LA LIBERTAD	0		 
+18	762011127301	dni_director			0	MOQUEGUA	0		 
+18	762010095101	dni_director			0	CAJAMARCA	0		 
+18	762010114101	dni_director			0	CAJAMARCA	0		 
+18	762010800701	dni_director			0	LA LIBERTAD	0		 
+18	762011509501	dni_director			0	TUMBES	0		 
+18	762010874001	dni_director			0	LA LIBERTAD	0		 
+18	762011850301	dni_director			0	ICA	0		 
+18	762011051901	dni_director			0	CUSCO	0		 
+18	762012128201	dni_director			0	CALLAO	0		 
+18	762010537701	dni_director			0	HU�NUCO	0		 
+18	762010248101	dni_director			0	CUSCO	0		 
+18	762011147201	dni_director			0	PIURA	0		 
+18	762012292301	dni_director			0	LIMA	0		 
+18	762010393101	dni_director			0	LORETO	0		 
+18	762011353201	dni_director			0	AREQUIPA	0		 
+18	762011402101	dni_director			0	TACNA	0		 
+18	762010829101	dni_director			0	AREQUIPA	0		 
+18	762010198001	dni_director			0	UCAYALI	0		 
+18	762010162301	dni_director			0	CAJAMARCA	0		 
+18	762011983701	dni_director			0	LIMA	0		 
+18	762011417501	dni_director			0	PIURA	0		 
+18	762010234801	dni_director			0	CUSCO	0		 
+18	762010519401	dni_director			0	UCAYALI	0		 
+18	762011294001	dni_director			0	PIURA	0		 
+18	762012299501	dni_director			0	LIMA	0		 
+18	762010469601	dni_director			0	LORETO	0		 
+18	762010286001	dni_director			0	LORETO	0		 
+18	762011824501	dni_director			0	HU�NUCO	0		 
+18	762010823401	dni_director			0	AREQUIPA	0		 
+18	762011610101	dni_director			0	JUN�N	0		 
+18	762011124001	dni_director			0	MOQUEGUA	0		 
+18	762012136401	dni_director			0	CALLAO	0		 
+18	762012092501	dni_director			0	LIMA	0		 
+18	762011575201	dni_director			0	JUN�N	0		 
+18	762012309801	dni_director			0	LIMA	0		 
+18	762011081301	dni_director			0	LAMBAYEQUE	0		 
+18	762010740801	dni_director			0	AMAZONAS	0		 
+18	762011881001	dni_director			0	�NCASH	0		 
+18	762012013501	dni_director			0	LIMA	0		 
+18	762011900001	dni_director			0	�NCASH	0		 
+18	762010432401	dni_director			0	LORETO	0		 
+18	762012273301	dni_director			0	LIMA	0		 
+18	762011440501	dni_director			0	LA LIBERTAD	0		 
+18	762010786901	dni_director			0	AREQUIPA	0		 
+18	762011415901	dni_director			0	PIURA	0		 
+18	762010425801	dni_director			0	LORETO	0		 
+18	762010112901	dni_director			0	CAJAMARCA	0		 
+18	762012051201	dni_director			0	LIMA	0		 
+18	762010003501	dni_director			0	LORETO	0		 
+18	762010715201	dni_director			0	SAN MART�N	0		 
+18	762010012601	dni_director			0	LORETO	0		 
+18	762010882001	dni_director			0	LAMBAYEQUE	0		 
+18	762010838701	dni_director			0	AREQUIPA	0		 
+18	762011458701	dni_director			0	LA LIBERTAD	0		 
+18	762011857901	dni_director			0	ICA	0		 
+18	762012287801	dni_director			0	LIMA	0		 
+18	762010982901	dni_director			0	AYACUCHO	0		 
+18	762011585001	dni_director			0	JUN�N	0		 
+18	762010337501	dni_director			0	CAJAMARCA	0		 
+18	762011732601	dni_director			0	�NCASH	0		 
+18	762011038701	dni_director			0	AREQUIPA	0		 
+18	762011308901	dni_director			0	LA LIBERTAD	0		 
+18	762011245501	dni_director			0	PIURA	0		 
+18	762010585001	dni_director			0	SAN MART�N	0		 
+18	762010219301	dni_director			0	UCAYALI	0		 
+18	762010755701	dni_director			0	PUNO	0		 
+18	762010745701	dni_director			0	AMAZONAS	0		 
+18	762011978001	dni_director			0	LIMA	0		 
+18	762011282901	dni_director			0	PIURA	0		 
+18	762011963401	dni_director			0	�NCASH	0		 
+18	762010515801	dni_director			0	UCAYALI	0		 
+18	762011529201	dni_director			0	LA LIBERTAD	0		 
+18	762012197201	dni_director			0	LIMA	0		 
+18	762011756401	dni_director			0	ICA	0		 
+18	762010920201	dni_director			0	LAMBAYEQUE	0		 
+18	762010538401	dni_director			0	HU�NUCO	0		 
+18	762011057001	dni_director			0	AREQUIPA	0		 
+18	762011053201	dni_director			0	CUSCO	0		 
+18	762010305801	dni_director			0	CAJAMARCA	0		 
+18	762011274201	dni_director			0	PIURA	0		 
+18	762010990001	dni_director			0	AYACUCHO	0		 
+18	762012127801	dni_director			0	CALLAO	0		 
+18	762010040001	dni_director			0	PUNO	0		 
+18	762011010701	dni_director			0	PIURA	0		 
+18	762010436001	dni_director			0	LORETO	0		 
+18	762012178801	dni_director			0	LIMA	0		 
+18	762011949301	dni_director			0	HUANCAVELICA	0		 
+18	762011513901	dni_director			0	TUMBES	0		 
+18	762012165201	dni_director			0	CALLAO	0		 
+18	762010591801	dni_director			0	PUNO	0		 
+18	762010805601	dni_director			0	LA LIBERTAD	0		 
+18	762011615901	dni_director			0	JUN�N	0		 
+18	762011742201	dni_director			0	�NCASH	0		 
+18	762012138501	dni_director			0	CALLAO	0		 
+18	762010640901	dni_director			0	CAJAMARCA	0		 
+18	762011453901	dni_director			0	LA LIBERTAD	0		 
+18	762010544201	dni_director			0	PUNO	0		 
+18	762010519901	dni_director			0	UCAYALI	0		 
+18	762010404801	dni_director			0	SAN MART�N	0		 
+18	762010929501	dni_director			0	LAMBAYEQUE	0		 
+18	762011881401	dni_director			0	�NCASH	0		 
+18	762012264301	dni_director			0	LIMA	0		 
+18	762011521201	dni_director			0	TUMBES	0		 
+18	762010677201	dni_director			0	PUNO	0		 
+18	762011123601	dni_director			0	AREQUIPA	0		 
+18	762011028501	dni_director			0	MOQUEGUA	0		 
+18	762010218201	dni_director			0	UCAYALI	0		 
+18	762011133601	dni_director			0	PIURA	0		 
+18	762010803401	dni_director			0	LA LIBERTAD	0		 
+18	762011036101	dni_director			0	AREQUIPA	0		 
+18	762011213101	dni_director			0	AREQUIPA	0		 
+18	762011714901	dni_director			0	HU�NUCO	0		 
+18	762011155201	dni_director			0	PIURA	0		 
+18	762010312001	dni_director			0	CAJAMARCA	0		 
+18	762011567701	dni_director			0	JUN�N	0		 
+18	762011649801	dni_director			0	JUN�N	0		 
+18	762010179901	dni_director			0	CAJAMARCA	0		 
+18	762011505501	dni_director			0	LA LIBERTAD	0		 
+18	762012194801	dni_director			0	LIMA	0		 
+18	762011690001	dni_director			0	JUN�N	0		 
+18	762010849401	dni_director			0	AREQUIPA	0		 
+18	762011617901	dni_director			0	HUANCAVELICA	0		 
+18	762011303201	dni_director			0	LA LIBERTAD	0		 
+18	762011982001	dni_docente			0	LIMA	0		 
+18	762010062401	dni_docente			0	CAJAMARCA	0		 
+18	762010860601	dni_docente			0	AREQUIPA	0		 
+18	762010202201	dni_docente			0	UCAYALI	0		 
+18	762011089701	dni_docente			0	LAMBAYEQUE	0		 
+18	762010424801	dni_docente			0	LORETO	0		 
+18	762011995401	dni_docente			0	LIMA	0		 
+18	762011066701	dni_docente			0	LAMBAYEQUE	0		 
+18	762010501601	dni_docente			0	AMAZONAS	0		 
+18	762010343201	dni_docente			0	CAJAMARCA	0		 
+18	762010288101	dni_docente			0	PUNO	0		 
+18	762011690701	dni_docente			0	JUN�N	0		 
+18	762012308901	dni_docente			0	LIMA	0		 
+18	762010331101	dni_docente			0	CAJAMARCA	0		 
+18	762011986001	dni_docente			0	LIMA	0		 
+18	762010465601	dni_docente			0	LORETO	0		 
+18	762012302701	dni_docente			0	LIMA	0		 
+18	762010221601	dni_docente			0	UCAYALI	0		 
+18	762010081401	dni_docente			0	CAJAMARCA	0		 
+18	762010215401	dni_docente			0	UCAYALI	0		 
+18	762011482301	dni_docente			0	LA LIBERTAD	0		 
+18	762010395601	dni_docente			0	LORETO	0		 
+18	762010522701	dni_docente			0	CUSCO	0		 
+18	762010868001	dni_docente			0	AREQUIPA	0		 
+18	762011742901	dni_docente			0	�NCASH	0		 
+18	762011095301	dni_docente			0	LAMBAYEQUE	0		 
+18	762011547801	dni_docente			0	HU�NUCO	0		 
+18	762011785501	dni_docente			0	ICA	0		 
+18	762010534701	dni_docente			0	HU�NUCO	0		 
+18	762011613601	dni_docente			0	JUN�N	0		 
+18	762011735901	dni_docente			0	�NCASH	0		 
+18	762011376801	dni_docente			0	PIURA	0		 
+18	762010634201	dni_docente			0	SAN MART�N	0		 
+18	762012093201	dni_docente			0	LIMA	0		 
+18	762012084301	dni_docente			0	LIMA	0		 
+18	762010487501	dni_docente			0	SAN MART�N	0		 
+18	762010610601	dni_docente			0	CAJAMARCA	0		 
+18	762012081401	dni_docente			0	LIMA	0		 
+18	762010420301	dni_docente			0	LORETO	0		 
+18	762011771901	dni_docente			0	ICA	0		 
+18	762011259901	dni_docente			0	PIURA	0		 
+18	762011837401	dni_docente			0	PASCO	0		 
+18	762011111201	dni_docente			0	AREQUIPA	0		 
+18	762011901001	dni_docente			0	�NCASH	0		 
+18	762010651401	dni_docente			0	PUNO	0		 
+18	762010868201	dni_docente			0	AREQUIPA	0		 
+18	762011263701	dni_docente			0	PIURA	0		 
+18	762010858801	dni_docente			0	AREQUIPA	0		 
+18	762010401601	dni_docente			0	AMAZONAS	0		 
+18	762010203301	dni_docente			0	UCAYALI	0		 
+18	762011086701	dni_docente			0	LAMBAYEQUE	0		 
+18	762012142101	dni_docente			0	CALLAO	0		 
+18	762010548601	dni_docente			0	PUNO	0		 
+18	762011629601	dni_docente			0	HU�NUCO	0		 
+18	762011780301	dni_docente			0	ICA	0		 
+18	762012085301	dni_docente			0	LIMA	0		 
+18	762011380701	dni_docente			0	PIURA	0		 
+18	762012056301	dni_docente			0	LIMA	0		 
+18	762011026501	dni_docente			0	MOQUEGUA	0		 
+18	762012117501	dni_docente			0	LIMA	0		 
+18	762011925201	dni_docente			0	JUN�N	0		 
+18	762011745101	dni_docente			0	�NCASH	0		 
+18	762011668601	dni_docente			0	JUN�N	0		 
+18	762010109501	dni_docente			0	CAJAMARCA	0		 
+18	762010371301	dni_docente			0	HU�NUCO	0		 
+18	762010585101	dni_docente			0	SAN MART�N	0		 
+18	762010981001	dni_docente			0	AYACUCHO	0		 
+18	762012081501	dni_docente			0	LIMA	0		 
+18	762010697401	dni_docente			0	MADRE DE DIOS	0		 
+18	762011425001	dni_docente			0	PIURA	0		 
+18	762010912401	dni_docente			0	LAMBAYEQUE	0		 
+18	762011361201	dni_docente			0	PIURA	0		 
+18	762012015701	dni_docente			0	LIMA	0		 
+18	762011205901	dni_docente			0	LA LIBERTAD	0		 
+18	762010490401	dni_docente			0	SAN MART�N	0		 
+18	762011682701	dni_docente			0	JUN�N	0		 
+18	762011122401	dni_docente			0	AREQUIPA	0		 
+18	762011705601	dni_docente			0	HU�NUCO	0		 
+18	762010529101	dni_docente			0	SAN MART�N	0		 
+18	762010787401	dni_docente			0	AREQUIPA	0		 
+18	762010612001	dni_docente			0	CAJAMARCA	0		 
+18	762011505901	dni_docente			0	LA LIBERTAD	0		 
+18	762010696101	dni_docente			0	MADRE DE DIOS	0		 
+18	762010152701	dni_docente			0	CAJAMARCA	0		 
+18	762012038201	dni_docente			0	LIMA	0		 
+18	762011464901	dni_docente			0	LA LIBERTAD	0		 
+18	762011938001	dni_docente			0	JUN�N	0		 
+18	762010642901	dni_docente			0	CAJAMARCA	0		 
+18	762012252701	dni_docente			0	LIMA	0		 
+18	762010048501	dni_docente			0	SAN MART�N	0		 
+18	762012275701	dni_docente			0	LIMA	0		 
+18	762011126901	dni_docente			0	MOQUEGUA	0		 
+18	762010629901	dni_docente			0	SAN MART�N	0		 
+18	762011196601	dni_docente			0	LA LIBERTAD	0		 
+18	762010677301	dni_docente			0	PUNO	0		 
+18	762010448801	dni_docente			0	LORETO	0		 
+18	762010817901	dni_docente			0	PIURA	0		 
+18	762010616801	dni_docente			0	CAJAMARCA	0		 
+18	762010591101	dni_docente			0	PUNO	0		 
+18	762010715001	dni_docente			0	SAN MART�N	0		 
+18	762011325301	dni_docente			0	LA LIBERTAD	0		 
+18	762011990301	dni_docente			0	LIMA	0		 
+18	762010104801	dni_docente			0	CAJAMARCA	0		 
+18	762012269601	dni_docente			0	LIMA	0		 
+18	762011228801	dni_docente			0	PIURA	0		 
+18	762011679301	dni_docente			0	JUN�N	0		 
+18	762012231901	dni_docente			0	LIMA	0		 
+18	762010545201	dni_docente			0	PUNO	0		 
+18	762012081801	dni_docente			0	LIMA	0		 
+18	762012062201	dni_docente			0	LIMA	0		 
+18	762010453501	dni_docente			0	LORETO	0		 
+18	762011109401	dni_docente			0	AREQUIPA	0		 
+18	762011809601	dni_docente			0	ICA	0		 
+18	762011094801	dni_docente			0	LAMBAYEQUE	0		 
+18	762010939101	dni_docente			0	LAMBAYEQUE	0		 
+18	762010128901	dni_docente			0	CUSCO	0		 
+18	762010913201	dni_docente			0	LAMBAYEQUE	0		 
+18	762011119701	dni_docente			0	AREQUIPA	0		 
+18	762012085601	dni_docente			0	LIMA	0		 
+18	762012254601	dni_docente			0	LIMA	0		 
+18	762011074901	dni_docente			0	LAMBAYEQUE	0		 
+18	762010341001	dni_docente			0	CAJAMARCA	0		 
+18	762012205101	dni_docente			0	LIMA	0		 
+18	762011536001	dni_docente			0	LA LIBERTAD	0		 
+18	762011431501	dni_docente			0	LA LIBERTAD	0		 
+18	762012151501	dni_docente			0	CALLAO	0		 
+18	762010939601	dni_docente			0	LAMBAYEQUE	0		 
+18	762010454401	dni_docente			0	LORETO	0		 
+18	762011581501	dni_docente			0	JUN�N	0		 
+18	762010325701	dni_docente			0	CAJAMARCA	0		 
+18	762012089201	dni_docente			0	LIMA	0		 
+18	762010236101	dni_docente			0	CUSCO	0		 
+18	762010048501	dni_docente			0	SAN MART�N	0		 
+18	762011577101	dni_docente			0	JUN�N	0		 
+18	762011491501	dni_docente			0	LA LIBERTAD	0		 
+18	762010257101	dni_docente			0	CUSCO	0		 
+18	762010863701	dni_docente			0	AREQUIPA	0		 
+18	762011936401	dni_docente			0	JUN�N	0		 
+18	762010572901	dni_docente			0	SAN MART�N	0		 
+18	762011506301	dni_docente			0	LA LIBERTAD	0		 
+18	762011310301	dni_docente			0	LA LIBERTAD	0		 
+18	762010971601	dni_docente			0	APUR�MAC	0		 
+18	762010745601	dni_docente			0	AMAZONAS	0		 
+18	762011411801	dni_docente			0	PIURA	0		 
+18	762010184301	dni_docente			0	UCAYALI	0		 
+18	762010853601	dni_docente			0	AREQUIPA	0		 
+18	762011869701	dni_docente			0	�NCASH	0		 
+18	762010921101	dni_docente			0	LAMBAYEQUE	0		 
+18	762010778901	dni_docente			0	APUR�MAC	0		 
+18	762010118301	dni_docente			0	CUSCO	0		 
+18	762011813601	dni_docente			0	ICA	0		 
+18	762011510201	dni_docente			0	TUMBES	0		 
+18	762011196001	dni_docente			0	LA LIBERTAD	0		 
+18	762010644901	dni_docente			0	CAJAMARCA	0		 
+18	762011586801	dni_docente			0	ICA	0		 
+18	762011601101	dni_docente			0	ICA	0		 
+18	762011151901	dni_docente			0	PIURA	0		 
+18	762012285801	dni_docente			0	LIMA	0		 
+18	762011943001	dni_docente			0	JUN�N	0		 
+18	762010115701	dni_docente			0	CAJAMARCA	0		 
+18	762012086401	dni_docente			0	LIMA	0		 
+18	762010302001	dni_docente			0	CUSCO	0		 
+18	762010250301	dni_docente			0	CUSCO	0		 
+18	762011181401	dni_docente			0	PIURA	0		 
+18	762010427501	dni_docente			0	LORETO	0		 
+18	762011227701	dni_docente			0	PIURA	0		 
+18	762010999901	dni_docente			0	PIURA	0		 
+18	762011076101	dni_docente			0	LAMBAYEQUE	0		 
+18	762011672501	dni_docente			0	JUN�N	0		 
+18	762012279701	dni_docente			0	LIMA	0		 
+18	762010119301	dni_docente			0	CUSCO	0		 
+18	762010108401	dni_docente			0	CAJAMARCA	0		 
+18	762011544701	dni_docente			0	TUMBES	0		 
+18	762012041201	dni_docente			0	LIMA	0		 
+18	762012245801	dni_docente			0	LIMA	0		 
+18	762010171001	dni_docente			0	PUNO	0		 
+18	762012292301	dni_docente			0	LIMA	0		 
+18	762011850901	dni_docente			0	ICA	0		 
+18	762011970901	dni_docente			0	LIMA	0		 
+18	762011244501	dni_docente			0	PIURA	0		 
+18	762012014001	dni_docente			0	LIMA	0		 
+18	762010104001	dni_docente			0	CAJAMARCA	0		 
+18	762010566501	dni_docente			0	LORETO	0		 
+18	762010392701	dni_docente			0	LORETO	0		 
+18	762010109801	dni_docente			0	CAJAMARCA	0		 
+18	762012220001	dni_docente			0	LIMA	0		 
+18	762012137601	dni_docente			0	CALLAO	0		 
+18	762010473301	dni_docente			0	LORETO	0		 
+18	762011703801	dni_docente			0	HU�NUCO	0		 
+18	762010019201	dni_docente			0	CUSCO	0		 
+18	762010480501	dni_docente			0	PUNO	0		 
+18	762012223601	dni_docente			0	LIMA	0		 
+18	762012287801	dni_docente			0	LIMA	0		 
+18	762010413601	dni_docente			0	LORETO	0		 
+18	762010446601	dni_docente			0	LORETO	0		 
+18	762010347701	dni_docente			0	CUSCO	0		 
+18	762010627601	dni_docente			0	SAN MART�N	0		 
+18	762011024201	dni_docente			0	AYACUCHO	0		 
+18	762011566401	dni_docente			0	�NCASH	0		 
+18	762012033701	dni_docente			0	LIMA	0		 
+18	762011935101	dni_docente			0	JUN�N	0		 
+18	762010997101	dni_docente			0	PIURA	0		 
+18	762010008201	dni_docente			0	LORETO	0		 
+18	762011788601	dni_docente			0	JUN�N	0		 
+18	762010660001	dni_docente			0	PUNO	0		 
+18	762011426701	dni_docente			0	LA LIBERTAD	0		 
+18	762010573001	dni_docente			0	SAN MART�N	0		 
+18	762011098401	dni_docente			0	LAMBAYEQUE	0		 
+18	762011558401	dni_docente			0	�NCASH	0		 
+18	762012237901	dni_docente			0	LIMA	0		 
+18	762010836901	dni_docente			0	AREQUIPA	0		 
+18	762010818101	dni_docente			0	PIURA	0		 
+18	762011564001	dni_docente			0	�NCASH	0		 
+18	762010894101	dni_docente			0	LAMBAYEQUE	0		 
+18	762012269101	dni_docente			0	LIMA	0		 
+18	762010807301	dni_docente			0	PIURA	0		 
+18	762010048701	dni_docente			0	SAN MART�N	0		 
+18	762010632301	dni_docente			0	SAN MART�N	0		 
+18	762012161501	dni_docente			0	CALLAO	0		 
+18	762010265701	dni_docente			0	CAJAMARCA	0		 
+18	762011197401	dni_docente			0	LA LIBERTAD	0		 
+18	762010555401	dni_docente			0	CUSCO	0		 
+18	762012034501	dni_docente			0	LIMA	0		 
+18	762011713301	dni_docente			0	HU�NUCO	0		 
+18	762010992201	dni_docente			0	AYACUCHO	0		 
+18	762010227201	dni_docente			0	CUSCO	0		 
+18	762011970801	dni_docente			0	LIMA	0		 
+18	762010294601	dni_docente			0	SAN MART�N	0		 
+18	762012081001	dni_docente			0	LIMA	0		 
+18	762011795601	dni_docente			0	JUN�N	0		 
+18	762010128501	dni_docente			0	CUSCO	0		 
+18	762010532001	dni_docente			0	SAN MART�N	0		 
+18	762010522701	dni_docente			0	CUSCO	0		 
+18	762011970301	dni_docente			0	LIMA	0		 
+18	762010411501	dni_docente			0	SAN MART�N	0		 
+18	762010630901	dni_docente			0	SAN MART�N	0		 
+18	762011114401	dni_docente			0	AREQUIPA	0		 
+18	762010964601	dni_docente			0	AREQUIPA	0		 
+18	762011284101	dni_docente			0	PIURA	0		 
+18	762010906901	dni_docente			0	LAMBAYEQUE	0		 
+18	762011249601	dni_docente			0	PIURA	0		 
+18	762011455001	dni_docente			0	LA LIBERTAD	0		 
+18	762012114601	dni_docente			0	LIMA	0		 
+18	762011325301	dni_docente			0	LA LIBERTAD	0		 
+18	762011528401	dni_docente			0	LA LIBERTAD	0		 
+18	762011076701	dni_docente			0	LAMBAYEQUE	0		 
+18	762011716101	dni_docente			0	HU�NUCO	0		 
+18	762011087901	dni_docente			0	LAMBAYEQUE	0		 
+18	762010188901	dni_docente			0	UCAYALI	0		 
+18	762011172901	dni_docente			0	LA LIBERTAD	0		 
+18	762010776001	dni_docente			0	AREQUIPA	0		 
+18	762010218701	dni_docente			0	UCAYALI	0		 
+18	762011684201	dni_docente			0	JUN�N	0		 
+18	762010078301	dni_docente			0	CAJAMARCA	0		 
+18	762012249201	dni_docente			0	LIMA	0		 
+18	762012219801	dni_docente			0	LIMA	0		 
+18	762011733601	dni_docente			0	�NCASH	0		 
+18	762011699701	dni_docente			0	HU�NUCO	0		 
+18	762012200101	dni_docente			0	LIMA	0		 
+18	762011488001	dni_docente			0	LA LIBERTAD	0		 
+18	762011597901	dni_docente			0	ICA	0		 
+18	762011665601	dni_docente			0	JUN�N	0		 
+18	762010798101	dni_docente			0	LA LIBERTAD	0		 
+18	762011807201	dni_docente			0	HU�NUCO	0		 
+18	762010689201	dni_docente			0	CAJAMARCA	0		 
+18	762011060701	dni_docente			0	AYACUCHO	0		 
+18	762010844101	dni_docente			0	AREQUIPA	0		 
+18	762011867301	dni_docente			0	�NCASH	0		 
+18	762011224001	dni_docente			0	PIURA	0		 
+18	762010050101	dni_docente			0	SAN MART�N	0		 
+18	762012075001	dni_docente			0	LIMA	0		 
+18	762010928701	dni_docente			0	LAMBAYEQUE	0		 
+18	762010435301	dni_docente			0	LORETO	0		 
+18	762010347101	dni_docente			0	CAJAMARCA	0		 
+18	762010371801	dni_docente			0	HU�NUCO	0		 
+18	762011345201	dni_docente			0	PIURA	0		 
+18	762011774801	dni_docente			0	ICA	0		 
+18	762011547801	dni_docente			0	HU�NUCO	0		 
+18	762010101601	dni_docente			0	CAJAMARCA	0		 
+18	762010039001	dni_docente			0	PUNO	0		 
+18	762012145301	dni_docente			0	CALLAO	0		 
+18	762011245001	dni_docente			0	PIURA	0		 
+18	762010105901	dni_docente			0	CAJAMARCA	0		 
+18	762011119601	dni_docente			0	AREQUIPA	0		 
+18	762011834701	dni_docente			0	PASCO	0		 
+18	762011805501	dni_docente			0	HU�NUCO	0		 
+18	762011016801	dni_docente			0	AYACUCHO	0		 
+18	762010366101	dni_docente			0	SAN MART�N	0		 
+18	762011113901	dni_docente			0	AREQUIPA	0		 
+18	762010106401	dni_docente			0	CAJAMARCA	0		 
+18	762011161901	dni_docente			0	LA LIBERTAD	0		 
+18	762011038601	dni_docente			0	AREQUIPA	0		 
+18	762011222601	dni_docente			0	PIURA	0		 
+18	762010882501	dni_docente			0	LAMBAYEQUE	0		 
+18	762011107501	dni_docente			0	AREQUIPA	0		 
+18	762011699501	dni_docente			0	HU�NUCO	0		 
+18	762010316101	dni_docente			0	SAN MART�N	0		 
+18	762011626801	dni_docente			0	PASCO	0		 
+18	762011984801	dni_docente			0	LIMA	0		 
+18	762010245301	dni_docente			0	CUSCO	0		 
+18	762012038201	dni_docente			0	LIMA	0		 
+18	762010747301	dni_docente			0	AMAZONAS	0		 
+18	762011982201	dni_docente			0	LIMA	0		 
+18	762011177101	dni_docente			0	LA LIBERTAD	0		 
+18	762011795701	dni_docente			0	JUN�N	0		 
+18	762011222401	dni_docente			0	PIURA	0		 
+18	762010215401	dni_docente			0	UCAYALI	0		 
+18	762010867201	dni_docente			0	AREQUIPA	0		 
+18	762012078101	dni_docente			0	LIMA	0		 
+18	762012248501	dni_docente			0	LIMA	0		 
+18	762010087301	dni_docente			0	CAJAMARCA	0		 
+18	762010605201	dni_docente			0	CAJAMARCA	0		 
+18	762011347201	dni_docente			0	AREQUIPA	0		 
+18	762011809301	dni_docente			0	ICA	0		 
+18	762010884501	dni_docente			0	LAMBAYEQUE	0		 
+18	762011145101	dni_docente			0	PIURA	0		 
+18	762012013201	dni_docente			0	LIMA	0		 
+18	762012233401	dni_docente			0	LIMA	0		 
+18	762010427101	dni_docente			0	LORETO	0		 
+18	762011554101	dni_docente			0	HUANCAVELICA	0		 
+18	762012294101	dni_docente			0	LIMA	0		 
+18	762010935101	dni_docente			0	LAMBAYEQUE	0		 
+18	762012318801	dni_docente			0	LIMA	0		 
+18	762011305201	dni_docente			0	LA LIBERTAD	0		 
+18	762010396701	dni_docente			0	LORETO	0		 
+18	762011336901	dni_docente			0	PIURA	0		 
+18	762010489001	dni_docente			0	SAN MART�N	0		 
+18	762012281001	dni_docente			0	LIMA	0		 
+18	762012161601	dni_docente			0	CALLAO	0		 
+18	762011336601	dni_docente			0	PIURA	0		 
+18	762011786101	dni_docente			0	ICA	0		 
+18	762010626901	dni_docente			0	SAN MART�N	0		 
+18	762011534801	dni_docente			0	LA LIBERTAD	0		 
+18	762012115301	dni_docente			0	LIMA	0		 
+18	762011122701	dni_docente			0	AREQUIPA	0		 
+18	762010429901	dni_docente			0	LORETO	0		 
+18	762010525001	dni_docente			0	SAN MART�N	0		 
+18	762011978501	dni_docente			0	LIMA	0		 
+18	762011441001	dni_docente			0	LA LIBERTAD	0		 
+18	762012274301	dni_docente			0	LIMA	0		 
+18	762012312001	dni_docente			0	LIMA	0		 
+18	762012232701	dni_docente			0	LIMA	0		 
+18	762010832801	dni_docente			0	AREQUIPA	0		 
+18	762011533201	dni_docente			0	LA LIBERTAD	0		 
+18	762010006301	dni_docente			0	LORETO	0		 
+18	762010389601	dni_docente			0	LORETO	0		 
+18	762012161801	dni_docente			0	CALLAO	0		 
+18	762012211601	dni_docente			0	LIMA	0		 
+18	762010614001	dni_docente			0	CAJAMARCA	0		 
+18	762010667301	dni_docente			0	PUNO	0		 
+18	762012203701	dni_docente			0	LIMA	0		 
+18	762012018501	dni_docente			0	LIMA	0		 
+18	762011815401	dni_docente			0	ICA	0		 
+18	762011681101	dni_docente			0	JUN�N	0		 
+18	762010901801	dni_docente			0	LAMBAYEQUE	0		 
+18	762011532701	dni_docente			0	LA LIBERTAD	0		 
+18	762012217801	dni_docente			0	LIMA	0		 
+18	762011160601	dni_docente			0	PIURA	0		 
+18	762010516101	dni_docente			0	UCAYALI	0		 
+18	762010210401	dni_docente			0	UCAYALI	0		 
+18	762010054801	dni_docente			0	SAN MART�N	0		 
+18	762010200501	dni_docente			0	UCAYALI	0		 
+18	762011254201	dni_docente			0	PIURA	0		 
+18	762011679401	dni_docente			0	JUN�N	0		 
+18	762010949901	dni_docente			0	APUR�MAC	0		 
+18	762010016801	dni_docente			0	LORETO	0		 
+18	762010871001	dni_docente			0	LA LIBERTAD	0		 
+18	762010680401	dni_docente			0	PUNO	0		 
+18	762010665101	dni_docente			0	PUNO	0		 
+18	762011869901	dni_docente			0	�NCASH	0		 
+18	762012214701	dni_docente			0	LIMA	0		 
+18	762012179201	dni_docente			0	LIMA	0		 
+18	762012204601	dni_docente			0	LIMA	0		 
+18	762012225701	dni_docente			0	LIMA	0		 
+18	762012145301	dni_docente			0	CALLAO	0		 
+18	762010362701	dni_docente			0	SAN MART�N	0		 
+18	762011637501	dni_docente			0	HUANCAVELICA	0		 
+18	762010996901	dni_docente			0	PIURA	0		 
+18	762010773901	dni_docente			0	AREQUIPA	0		 
+18	762010966801	dni_docente			0	LA LIBERTAD	0		 
+18	762011858101	dni_docente			0	ICA	0		 
+18	762011349201	dni_docente			0	AREQUIPA	0		 
+18	762010071501	dni_docente			0	CAJAMARCA	0		 
+18	762011402801	dni_docente			0	TACNA	0		 
+18	762011136401	dni_docente			0	PIURA	0		 
+18	762010454501	dni_docente			0	LORETO	0		 
+18	762010415901	dni_docente			0	LORETO	0		 
+18	762010878901	dni_docente			0	LAMBAYEQUE	0		 
+18	762011717101	dni_docente			0	HU�NUCO	0		 
+18	762010090701	dni_docente			0	CAJAMARCA	0		 
+18	762010907901	dni_docente			0	LAMBAYEQUE	0		 
+18	762010479701	dni_docente			0	PUNO	0		 
+18	762011271701	dni_docente			0	PIURA	0		 
+18	762010514601	dni_docente			0	UCAYALI	0		 
+18	762011755501	dni_docente			0	ICA	0		 
+18	762011724901	dni_docente			0	HU�NUCO	0		 
+18	762011922601	dni_docente			0	JUN�N	0		 
+18	762010119101	dni_docente			0	CUSCO	0		 
+18	762011710901	dni_docente			0	HU�NUCO	0		 
+18	762011449401	dni_docente			0	LA LIBERTAD	0		 
+18	762011458901	dni_docente			0	LA LIBERTAD	0		 
+18	762012241201	dni_docente			0	LIMA	0		 
+18	762011664601	dni_docente			0	JUN�N	0		 
+18	762010883701	dni_docente			0	LAMBAYEQUE	0		 
+18	762011753301	dni_docente			0	�NCASH	0		 
+18	762011862501	dni_docente			0	�NCASH	0		 
+18	762012055801	dni_docente			0	LIMA	0		 
+18	762010490301	dni_docente			0	SAN MART�N	0		 
+18	762012246001	dni_docente			0	LIMA	0		 
+18	762011508901	dni_docente			0	TUMBES	0		 
+18	762010702101	dni_docente			0	MADRE DE DIOS	0		 
+18	762010577901	dni_docente			0	SAN MART�N	0		 
+18	762010207601	dni_docente			0	UCAYALI	0		 
+18	762011962001	dni_docente			0	JUN�N	0		 
+18	762011901001	dni_docente			0	�NCASH	0		 
+18	762011604501	dni_docente			0	ICA	0		 
+18	762011028501	dni_docente			0	MOQUEGUA	0		 
+18	762011896301	dni_docente			0	�NCASH	0		 
+18	762010138101	dni_docente			0	CAJAMARCA	0		 
+18	762012302901	dni_docente			0	LIMA	0		 
+18	762012026301	dni_docente			0	LIMA	0		 
+18	762010120801	dni_docente			0	CUSCO	0		 
+18	762011778601	dni_docente			0	ICA	0		 
+18	762010703701	dni_docente			0	MADRE DE DIOS	0		 
+18	762012133401	dni_docente			0	CALLAO	0		 
+18	762011932001	dni_docente			0	�NCASH	0		 
+18	762010085401	dni_docente			0	CAJAMARCA	0		 
+18	762011448401	dni_docente			0	LA LIBERTAD	0		 
+18	762010098801	dni_docente			0	CAJAMARCA	0		 
+18	762010581601	dni_docente			0	SAN MART�N	0		 
+18	762010759901	dni_docente			0	APUR�MAC	0		 
+18	762010997901	dni_docente			0	PIURA	0		 
+18	762010996001	dni_docente			0	PIURA	0		 
+18	762011990901	dni_docente			0	LIMA	0		 
+18	762011600001	dni_docente			0	ICA	0		 
+18	762010200501	dni_docente			0	UCAYALI	0		 
+18	762010541801	dni_docente			0	PUNO	0		 
+18	762011521201	dni_docente			0	TUMBES	0		 
+18	762010210601	dni_docente			0	UCAYALI	0		 
+18	762010543801	dni_docente			0	PUNO	0		 
+18	762010836401	dni_docente			0	AREQUIPA	0		 
+18	762012299401	dni_docente			0	LIMA	0		 
+18	762010122001	dni_docente			0	CUSCO	0		 
+18	762011759801	dni_docente			0	ICA	0		 
+18	762011435301	dni_docente			0	LA LIBERTAD	0		 
+18	762011298101	dni_docente			0	AREQUIPA	0		 
+18	762010624401	dni_docente			0	SAN MART�N	0		 
+18	762010541901	dni_docente			0	PUNO	0		 
+18	762012164501	dni_docente			0	CALLAO	0		 
+18	762011850801	dni_docente			0	ICA	0		 
+18	762010864201	dni_docente			0	AREQUIPA	0		 
+18	762011989601	dni_docente			0	LIMA	0		 
+18	762012081501	dni_docente			0	LIMA	0		 
+18	762011564901	dni_docente			0	�NCASH	0		 
+18	762012249701	dni_docente			0	LIMA	0		 
+18	762011361401	dni_docente			0	PIURA	0		 
+18	762010557201	dni_docente			0	CUSCO	0		 
+18	762012217601	dni_docente			0	LIMA	0		 
+18	762011977101	dni_docente			0	LIMA	0		 
+18	762011814001	dni_docente			0	ICA	0		 
+18	762010471101	dni_docente			0	LORETO	0		 
+18	762011918801	dni_docente			0	JUN�N	0		 
+18	762011282701	dni_docente			0	PIURA	0		 
+18	762011415501	dni_docente			0	PIURA	0		 
+18	762011513601	dni_docente			0	TUMBES	0		 
+18	762012178101	dni_docente			0	LIMA	0		 
+18	762010541801	dni_docente			0	PUNO	0		 
+18	762010384501	dni_docente			0	HU�NUCO	0		 
+18	762012154501	dni_docente			0	CALLAO	0		 
+18	762010593701	dni_docente			0	PUNO	0		 
+18	762011162301	dni_docente			0	LA LIBERTAD	0		 
+18	762011600701	dni_docente			0	ICA	0		 
+18	762011425501	dni_docente			0	LA LIBERTAD	0		 
+18	762010258001	dni_docente			0	CUSCO	0		 
+18	762012247701	dni_docente			0	LIMA	0		 
+18	762011263801	dni_docente			0	PIURA	0		 
+18	762010774101	dni_docente			0	AREQUIPA	0		 
+18	762011874901	dni_docente			0	�NCASH	0		 
+18	762010258401	dni_docente			0	CUSCO	0		 
+18	762010957401	dni_docente			0	LAMBAYEQUE	0		 
+18	762010581001	dni_docente			0	SAN MART�N	0		 
+18	762012213901	dni_docente			0	LIMA	0		 
+18	762012145801	dni_docente			0	CALLAO	0		 
+18	762010418101	dni_docente			0	LORETO	0		 
+18	762010783101	dni_docente			0	APUR�MAC	0		 
+18	762010888201	dni_docente			0	LAMBAYEQUE	0		 
+18	762010074001	dni_docente			0	CAJAMARCA	0		 
+18	762012278701	dni_docente			0	LIMA	0		 
+18	762011760701	dni_docente			0	ICA	0		 
+18	762011815101	dni_docente			0	ICA	0		 
+18	762011069701	dni_docente			0	LAMBAYEQUE	0		 
+18	762010664501	dni_docente			0	PUNO	0		 
+18	762011408001	dni_docente			0	TACNA	0		 
+18	762012240201	dni_docente			0	LIMA	0		 
+18	762010273801	dni_docente			0	CAJAMARCA	0		 
+18	762010014901	dni_docente			0	LORETO	0		 
+18	762012045501	dni_docente			0	LIMA	0		 
+18	762010854201	dni_docente			0	AREQUIPA	0		 
+18	762010543501	dni_docente			0	PUNO	0		 
+18	762011214801	dni_docente			0	AREQUIPA	0		 
+18	762011487101	dni_docente			0	LA LIBERTAD	0		 
+18	762011127301	dni_docente			0	MOQUEGUA	0		 
+18	762010095101	dni_docente			0	CAJAMARCA	0		 
+18	762010114101	dni_docente			0	CAJAMARCA	0		 
+18	762010800701	dni_docente			0	LA LIBERTAD	0		 
+18	762011509501	dni_docente			0	TUMBES	0		 
+18	762010874001	dni_docente			0	LA LIBERTAD	0		 
+18	762011850301	dni_docente			0	ICA	0		 
+18	762011051901	dni_docente			0	CUSCO	0		 
+18	762012128201	dni_docente			0	CALLAO	0		 
+18	762010537701	dni_docente			0	HU�NUCO	0		 
+18	762010248101	dni_docente			0	CUSCO	0		 
+18	762011147201	dni_docente			0	PIURA	0		 
+18	762012292301	dni_docente			0	LIMA	0		 
+18	762010393101	dni_docente			0	LORETO	0		 
+18	762011353201	dni_docente			0	AREQUIPA	0		 
+18	762011402101	dni_docente			0	TACNA	0		 
+18	762010829101	dni_docente			0	AREQUIPA	0		 
+18	762010198001	dni_docente			0	UCAYALI	0		 
+18	762010162301	dni_docente			0	CAJAMARCA	0		 
+18	762011983701	dni_docente			0	LIMA	0		 
+18	762011417501	dni_docente			0	PIURA	0		 
+18	762010234801	dni_docente			0	CUSCO	0		 
+18	762010519401	dni_docente			0	UCAYALI	0		 
+18	762011294001	dni_docente			0	PIURA	0		 
+18	762012299501	dni_docente			0	LIMA	0		 
+18	762010469601	dni_docente			0	LORETO	0		 
+18	762010286001	dni_docente			0	LORETO	0		 
+18	762011824501	dni_docente			0	HU�NUCO	0		 
+18	762010823401	dni_docente			0	AREQUIPA	0		 
+18	762011610101	dni_docente			0	JUN�N	0		 
+18	762011124001	dni_docente			0	MOQUEGUA	0		 
+18	762012136401	dni_docente			0	CALLAO	0		 
+18	762012092501	dni_docente			0	LIMA	0		 
+18	762011575201	dni_docente			0	JUN�N	0		 
+18	762012309801	dni_docente			0	LIMA	0		 
+18	762011081301	dni_docente			0	LAMBAYEQUE	0		 
+18	762010740801	dni_docente			0	AMAZONAS	0		 
+18	762011881001	dni_docente			0	�NCASH	0		 
+18	762012013501	dni_docente			0	LIMA	0		 
+18	762011900001	dni_docente			0	�NCASH	0		 
+18	762010432401	dni_docente			0	LORETO	0		 
+18	762012273301	dni_docente			0	LIMA	0		 
+18	762011440501	dni_docente			0	LA LIBERTAD	0		 
+18	762010786901	dni_docente			0	AREQUIPA	0		 
+18	762011415901	dni_docente			0	PIURA	0		 
+18	762010425801	dni_docente			0	LORETO	0		 
+18	762010112901	dni_docente			0	CAJAMARCA	0		 
+18	762012051201	dni_docente			0	LIMA	0		 
+18	762010003501	dni_docente			0	LORETO	0		 
+18	762010715201	dni_docente			0	SAN MART�N	0		 
+18	762010012601	dni_docente			0	LORETO	0		 
+18	762010882001	dni_docente			0	LAMBAYEQUE	0		 
+18	762010838701	dni_docente			0	AREQUIPA	0		 
+18	762011458701	dni_docente			0	LA LIBERTAD	0		 
+18	762011857901	dni_docente			0	ICA	0		 
+18	762012287801	dni_docente			0	LIMA	0		 
+18	762010982901	dni_docente			0	AYACUCHO	0		 
+18	762011585001	dni_docente			0	JUN�N	0		 
+18	762010337501	dni_docente			0	CAJAMARCA	0		 
+18	762011732601	dni_docente			0	�NCASH	0		 
+18	762011038701	dni_docente			0	AREQUIPA	0		 
+18	762011308901	dni_docente			0	LA LIBERTAD	0		 
+18	762011245501	dni_docente			0	PIURA	0		 
+18	762010585001	dni_docente			0	SAN MART�N	0		 
+18	762010219301	dni_docente			0	UCAYALI	0		 
+18	762010755701	dni_docente			0	PUNO	0		 
+18	762010745701	dni_docente			0	AMAZONAS	0		 
+18	762011978001	dni_docente			0	LIMA	0		 
+18	762011282901	dni_docente			0	PIURA	0		 
+18	762011963401	dni_docente			0	�NCASH	0		 
+18	762010515801	dni_docente			0	UCAYALI	0		 
+18	762011529201	dni_docente			0	LA LIBERTAD	0		 
+18	762012197201	dni_docente			0	LIMA	0		 
+18	762011756401	dni_docente			0	ICA	0		 
+18	762010920201	dni_docente			0	LAMBAYEQUE	0		 
+18	762010538401	dni_docente			0	HU�NUCO	0		 
+18	762011057001	dni_docente			0	AREQUIPA	0		 
+18	762011053201	dni_docente			0	CUSCO	0		 
+18	762010305801	dni_docente			0	CAJAMARCA	0		 
+18	762011274201	dni_docente			0	PIURA	0		 
+18	762010990001	dni_docente			0	AYACUCHO	0		 
+18	762012127801	dni_docente			0	CALLAO	0		 
+18	762010040001	dni_docente			0	PUNO	0		 
+18	762011010701	dni_docente			0	PIURA	0		 
+18	762010436001	dni_docente			0	LORETO	0		 
+18	762012178801	dni_docente			0	LIMA	0		 
+18	762011949301	dni_docente			0	HUANCAVELICA	0		 
+18	762011513901	dni_docente			0	TUMBES	0		 
+18	762012165201	dni_docente			0	CALLAO	0		 
+18	762010591801	dni_docente			0	PUNO	0		 
+18	762010805601	dni_docente			0	LA LIBERTAD	0		 
+18	762011615901	dni_docente			0	JUN�N	0		 
+18	762011742201	dni_docente			0	�NCASH	0		 
+18	762012138501	dni_docente			0	CALLAO	0		 
+18	762010640901	dni_docente			0	CAJAMARCA	0		 
+18	762011453901	dni_docente			0	LA LIBERTAD	0		 
+18	762010544201	dni_docente			0	PUNO	0		 
+18	762010519901	dni_docente			0	UCAYALI	0		 
+18	762010404801	dni_docente			0	SAN MART�N	0		 
+18	762010929501	dni_docente			0	LAMBAYEQUE	0		 
+18	762011881401	dni_docente			0	�NCASH	0		 
+18	762012264301	dni_docente			0	LIMA	0		 
+18	762011521201	dni_docente			0	TUMBES	0		 
+18	762010677201	dni_docente			0	PUNO	0		 
+18	762011123601	dni_docente			0	AREQUIPA	0		 
+18	762011028501	dni_docente			0	MOQUEGUA	0		 
+18	762010218201	dni_docente			0	UCAYALI	0		 
+18	762011133601	dni_docente			0	PIURA	0		 
+18	762010803401	dni_docente			0	LA LIBERTAD	0		 
+18	762011036101	dni_docente			0	AREQUIPA	0		 
+18	762011213101	dni_docente			0	AREQUIPA	0		 
+18	762011714901	dni_docente			0	HU�NUCO	0		 
+18	762011155201	dni_docente			0	PIURA	0		 
+18	762010312001	dni_docente			0	CAJAMARCA	0		 
+18	762011567701	dni_docente			0	JUN�N	0		 
+18	762011649801	dni_docente			0	JUN�N	0		 
+18	762010179901	dni_docente			0	CAJAMARCA	0		 
+18	762011505501	dni_docente			0	LA LIBERTAD	0		 
+18	762012194801	dni_docente			0	LIMA	0		 
+18	762011690001	dni_docente			0	JUN�N	0		 
+18	762010849401	dni_docente			0	AREQUIPA	0		 
+18	762011617901	dni_docente			0	HUANCAVELICA	0		 
+18	762011303201	dni_docente			0	LA LIBERTAD	0		 
+18	762011982001	dni_aplicador			0	LIMA	0		 
+18	762010062401	dni_aplicador			0	CAJAMARCA	0		 
+18	762010860601	dni_aplicador	4765289212		0	AREQUIPA	0		 
+18	762010202201	dni_aplicador			0	UCAYALI	0		 
+18	762011089701	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762010424801	dni_aplicador			0	LORETO	0		 
+18	762011995401	dni_aplicador			0	LIMA	0		 
+18	762011066701	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762010501601	dni_aplicador			0	AMAZONAS	0		 
+18	762010343201	dni_aplicador			0	CAJAMARCA	0		 
+18	762010288101	dni_aplicador			0	PUNO	0		 
+18	762011690701	dni_aplicador			0	JUN�N	0		 
+18	762012308901	dni_aplicador			0	LIMA	0		 
+18	762010331101	dni_aplicador			0	CAJAMARCA	0		 
+18	762011986001	dni_aplicador			0	LIMA	0		 
+18	762010465601	dni_aplicador			0	LORETO	0		 
+18	762012302701	dni_aplicador			0	LIMA	0		 
+18	762010221601	dni_aplicador			0	UCAYALI	0		 
+18	762010081401	dni_aplicador			0	CAJAMARCA	0		 
+18	762010215401	dni_aplicador			0	UCAYALI	0		 
+18	762011482301	dni_aplicador			0	LA LIBERTAD	0		 
+18	762010395601	dni_aplicador			0	LORETO	0		 
+18	762010522701	dni_aplicador			0	CUSCO	0		 
+18	762010868001	dni_aplicador			0	AREQUIPA	0		 
+18	762011742901	dni_aplicador			0	�NCASH	0		 
+18	762011095301	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762011547801	dni_aplicador			0	HU�NUCO	0		 
+18	762011785501	dni_aplicador			0	ICA	0		 
+18	762010534701	dni_aplicador			0	HU�NUCO	0		 
+18	762011613601	dni_aplicador			0	JUN�N	0		 
+18	762011735901	dni_aplicador			0	�NCASH	0		 
+18	762011376801	dni_aplicador			0	PIURA	0		 
+18	762010634201	dni_aplicador			0	SAN MART�N	0		 
+18	762012093201	dni_aplicador			0	LIMA	0		 
+18	762012084301	dni_aplicador			0	LIMA	0		 
+18	762010487501	dni_aplicador			0	SAN MART�N	0		 
+18	762010610601	dni_aplicador			0	CAJAMARCA	0		 
+18	762012081401	dni_aplicador			0	LIMA	0		 
+18	762010420301	dni_aplicador			0	LORETO	0		 
+18	762011771901	dni_aplicador			0	ICA	0		 
+18	762011259901	dni_aplicador			0	PIURA	0		 
+18	762011837401	dni_aplicador			0	PASCO	0		 
+18	762011111201	dni_aplicador			0	AREQUIPA	0		 
+18	762011901001	dni_aplicador			0	�NCASH	0		 
+18	762010651401	dni_aplicador			0	PUNO	0		 
+18	762010868201	dni_aplicador			0	AREQUIPA	0		 
+18	762011263701	dni_aplicador			0	PIURA	0		 
+18	762010858801	dni_aplicador			0	AREQUIPA	0		 
+18	762010401601	dni_aplicador			0	AMAZONAS	0		 
+18	762010203301	dni_aplicador			0	UCAYALI	0		 
+18	762011086701	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762012142101	dni_aplicador			0	CALLAO	0		 
+18	762010548601	dni_aplicador			0	PUNO	0		 
+18	762011629601	dni_aplicador			0	HU�NUCO	0		 
+18	762011780301	dni_aplicador			0	ICA	0		 
+18	762012085301	dni_aplicador			0	LIMA	0		 
+18	762011380701	dni_aplicador			0	PIURA	0		 
+18	762012056301	dni_aplicador			0	LIMA	0		 
+18	762011026501	dni_aplicador			0	MOQUEGUA	0		 
+18	762012117501	dni_aplicador			0	LIMA	0		 
+18	762011925201	dni_aplicador			0	JUN�N	0		 
+18	762011745101	dni_aplicador			0	�NCASH	0		 
+18	762011668601	dni_aplicador			0	JUN�N	0		 
+18	762010109501	dni_aplicador			0	CAJAMARCA	0		 
+18	762010371301	dni_aplicador			0	HU�NUCO	0		 
+18	762010585101	dni_aplicador			0	SAN MART�N	0		 
+18	762010981001	dni_aplicador			0	AYACUCHO	0		 
+18	762012081501	dni_aplicador			0	LIMA	0		 
+18	762010697401	dni_aplicador			0	MADRE DE DIOS	0		 
+18	762011425001	dni_aplicador			0	PIURA	0		 
+18	762010912401	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762011361201	dni_aplicador			0	PIURA	0		 
+18	762012015701	dni_aplicador			0	LIMA	0		 
+18	762011205901	dni_aplicador			0	LA LIBERTAD	0		 
+18	762010490401	dni_aplicador			0	SAN MART�N	0		 
+18	762011682701	dni_aplicador			0	JUN�N	0		 
+18	762011122401	dni_aplicador			0	AREQUIPA	0		 
+18	762011705601	dni_aplicador			0	HU�NUCO	0		 
+18	762010529101	dni_aplicador			0	SAN MART�N	0		 
+18	762010787401	dni_aplicador			0	AREQUIPA	0		 
+18	762010612001	dni_aplicador			0	CAJAMARCA	0		 
+18	762011505901	dni_aplicador			0	LA LIBERTAD	0		 
+18	762010696101	dni_aplicador			0	MADRE DE DIOS	0		 
+18	762010152701	dni_aplicador			0	CAJAMARCA	0		 
+18	762012038201	dni_aplicador			0	LIMA	0		 
+18	762011464901	dni_aplicador			0	LA LIBERTAD	0		 
+18	762011938001	dni_aplicador			0	JUN�N	0		 
+18	762010642901	dni_aplicador			0	CAJAMARCA	0		 
+18	762012252701	dni_aplicador			0	LIMA	0		 
+18	762010048501	dni_aplicador			0	SAN MART�N	0		 
+18	762012275701	dni_aplicador			0	LIMA	0		 
+18	762011126901	dni_aplicador			0	MOQUEGUA	0		 
+18	762010629901	dni_aplicador			0	SAN MART�N	0		 
+18	762011196601	dni_aplicador			0	LA LIBERTAD	0		 
+18	762010677301	dni_aplicador			0	PUNO	0		 
+18	762010448801	dni_aplicador			0	LORETO	0		 
+18	762010817901	dni_aplicador			0	PIURA	0		 
+18	762010616801	dni_aplicador			0	CAJAMARCA	0		 
+18	762010591101	dni_aplicador			0	PUNO	0		 
+18	762010715001	dni_aplicador			0	SAN MART�N	0		 
+18	762011325301	dni_aplicador			0	LA LIBERTAD	0		 
+18	762011990301	dni_aplicador			0	LIMA	0		 
+18	762010104801	dni_aplicador			0	CAJAMARCA	0		 
+18	762012269601	dni_aplicador			0	LIMA	0		 
+18	762011228801	dni_aplicador			0	PIURA	0		 
+18	762011679301	dni_aplicador			0	JUN�N	0		 
+18	762012231901	dni_aplicador			0	LIMA	0		 
+18	762010545201	dni_aplicador			0	PUNO	0		 
+18	762012081801	dni_aplicador			0	LIMA	0		 
+18	762012062201	dni_aplicador			0	LIMA	0		 
+18	762010453501	dni_aplicador			0	LORETO	0		 
+18	762011109401	dni_aplicador			0	AREQUIPA	0		 
+18	762011809601	dni_aplicador			0	ICA	0		 
+18	762011094801	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762010939101	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762010128901	dni_aplicador			0	CUSCO	0		 
+18	762010913201	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762011119701	dni_aplicador			0	AREQUIPA	0		 
+18	762012085601	dni_aplicador			0	LIMA	0		 
+18	762012254601	dni_aplicador			0	LIMA	0		 
+18	762011074901	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762010341001	dni_aplicador			0	CAJAMARCA	0		 
+18	762012205101	dni_aplicador			0	LIMA	0		 
+18	762011536001	dni_aplicador			0	LA LIBERTAD	0		 
+18	762011431501	dni_aplicador			0	LA LIBERTAD	0		 
+18	762012151501	dni_aplicador			0	CALLAO	0		 
+18	762010939601	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762010454401	dni_aplicador			0	LORETO	0		 
+18	762011581501	dni_aplicador			0	JUN�N	0		 
+18	762010325701	dni_aplicador			0	CAJAMARCA	0		 
+18	762012089201	dni_aplicador			0	LIMA	0		 
+18	762010236101	dni_aplicador			0	CUSCO	0		 
+18	762010048501	dni_aplicador			0	SAN MART�N	0		 
+18	762011577101	dni_aplicador			0	JUN�N	0		 
+18	762011491501	dni_aplicador			0	LA LIBERTAD	0		 
+18	762010257101	dni_aplicador			0	CUSCO	0		 
+18	762010863701	dni_aplicador			0	AREQUIPA	0		 
+18	762011936401	dni_aplicador			0	JUN�N	0		 
+18	762010572901	dni_aplicador			0	SAN MART�N	0		 
+18	762011506301	dni_aplicador			0	LA LIBERTAD	0		 
+18	762011310301	dni_aplicador			0	LA LIBERTAD	0		 
+18	762010971601	dni_aplicador			0	APUR�MAC	0		 
+18	762010745601	dni_aplicador			0	AMAZONAS	0		 
+18	762011411801	dni_aplicador			0	PIURA	0		 
+18	762010184301	dni_aplicador			0	UCAYALI	0		 
+18	762010853601	dni_aplicador			0	AREQUIPA	0		 
+18	762011869701	dni_aplicador			0	�NCASH	0		 
+18	762010921101	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762010778901	dni_aplicador			0	APUR�MAC	0		 
+18	762010118301	dni_aplicador			0	CUSCO	0		 
+18	762011813601	dni_aplicador			0	ICA	0		 
+18	762011510201	dni_aplicador			0	TUMBES	0		 
+18	762011196001	dni_aplicador			0	LA LIBERTAD	0		 
+18	762010644901	dni_aplicador			0	CAJAMARCA	0		 
+18	762011586801	dni_aplicador			0	ICA	0		 
+18	762011601101	dni_aplicador			0	ICA	0		 
+18	762011151901	dni_aplicador			0	PIURA	0		 
+18	762012285801	dni_aplicador			0	LIMA	0		 
+18	762011943001	dni_aplicador			0	JUN�N	0		 
+18	762010115701	dni_aplicador			0	CAJAMARCA	0		 
+18	762012086401	dni_aplicador			0	LIMA	0		 
+18	762010302001	dni_aplicador			0	CUSCO	0		 
+18	762010250301	dni_aplicador			0	CUSCO	0		 
+18	762011181401	dni_aplicador			0	PIURA	0		 
+18	762010427501	dni_aplicador			0	LORETO	0		 
+18	762011227701	dni_aplicador			0	PIURA	0		 
+18	762010999901	dni_aplicador			0	PIURA	0		 
+18	762011076101	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762011672501	dni_aplicador			0	JUN�N	0		 
+18	762012279701	dni_aplicador			0	LIMA	0		 
+18	762010119301	dni_aplicador			0	CUSCO	0		 
+18	762010108401	dni_aplicador			0	CAJAMARCA	0		 
+18	762011544701	dni_aplicador			0	TUMBES	0		 
+18	762012041201	dni_aplicador			0	LIMA	0		 
+18	762012245801	dni_aplicador			0	LIMA	0		 
+18	762010171001	dni_aplicador			0	PUNO	0		 
+18	762012292301	dni_aplicador			0	LIMA	0		 
+18	762011850901	dni_aplicador			0	ICA	0		 
+18	762011970901	dni_aplicador			0	LIMA	0		 
+18	762011244501	dni_aplicador			0	PIURA	0		 
+18	762012014001	dni_aplicador			0	LIMA	0		 
+18	762010104001	dni_aplicador			0	CAJAMARCA	0		 
+18	762010566501	dni_aplicador			0	LORETO	0		 
+18	762010392701	dni_aplicador			0	LORETO	0		 
+18	762010109801	dni_aplicador			0	CAJAMARCA	0		 
+18	762012220001	dni_aplicador			0	LIMA	0		 
+18	762012137601	dni_aplicador			0	CALLAO	0		 
+18	762010473301	dni_aplicador			0	LORETO	0		 
+18	762011703801	dni_aplicador			0	HU�NUCO	0		 
+18	762010019201	dni_aplicador			0	CUSCO	0		 
+18	762010480501	dni_aplicador			0	PUNO	0		 
+18	762012223601	dni_aplicador			0	LIMA	0		 
+18	762012287801	dni_aplicador			0	LIMA	0		 
+18	762010413601	dni_aplicador			0	LORETO	0		 
+18	762010446601	dni_aplicador			0	LORETO	0		 
+18	762010347701	dni_aplicador			0	CUSCO	0		 
+18	762010627601	dni_aplicador			0	SAN MART�N	0		 
+18	762011024201	dni_aplicador			0	AYACUCHO	0		 
+18	762011566401	dni_aplicador			0	�NCASH	0		 
+18	762012033701	dni_aplicador			0	LIMA	0		 
+18	762011935101	dni_aplicador			0	JUN�N	0		 
+18	762010997101	dni_aplicador			0	PIURA	0		 
+18	762010008201	dni_aplicador			0	LORETO	0		 
+18	762011788601	dni_aplicador			0	JUN�N	0		 
+18	762010660001	dni_aplicador			0	PUNO	0		 
+18	762011426701	dni_aplicador			0	LA LIBERTAD	0		 
+18	762010573001	dni_aplicador			0	SAN MART�N	0		 
+18	762011098401	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762011558401	dni_aplicador			0	�NCASH	0		 
+18	762012237901	dni_aplicador			0	LIMA	0		 
+18	762010836901	dni_aplicador			0	AREQUIPA	0		 
+18	762010818101	dni_aplicador			0	PIURA	0		 
+18	762011564001	dni_aplicador			0	�NCASH	0		 
+18	762010894101	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762012269101	dni_aplicador			0	LIMA	0		 
+18	762010807301	dni_aplicador			0	PIURA	0		 
+18	762010048701	dni_aplicador			0	SAN MART�N	0		 
+18	762010632301	dni_aplicador			0	SAN MART�N	0		 
+18	762012161501	dni_aplicador			0	CALLAO	0		 
+18	762010265701	dni_aplicador			0	CAJAMARCA	0		 
+18	762011197401	dni_aplicador			0	LA LIBERTAD	0		 
+18	762010555401	dni_aplicador			0	CUSCO	0		 
+18	762012034501	dni_aplicador			0	LIMA	0		 
+18	762011713301	dni_aplicador			0	HU�NUCO	0		 
+18	762010992201	dni_aplicador			0	AYACUCHO	0		 
+18	762010227201	dni_aplicador			0	CUSCO	0		 
+18	762011970801	dni_aplicador			0	LIMA	0		 
+18	762010294601	dni_aplicador			0	SAN MART�N	0		 
+18	762012081001	dni_aplicador			0	LIMA	0		 
+18	762011795601	dni_aplicador			0	JUN�N	0		 
+18	762010128501	dni_aplicador			0	CUSCO	0		 
+18	762010532001	dni_aplicador			0	SAN MART�N	0		 
+18	762010522701	dni_aplicador			0	CUSCO	0		 
+18	762011970301	dni_aplicador			0	LIMA	0		 
+18	762010411501	dni_aplicador			0	SAN MART�N	0		 
+18	762010630901	dni_aplicador			0	SAN MART�N	0		 
+18	762011114401	dni_aplicador			0	AREQUIPA	0		 
+18	762010964601	dni_aplicador			0	AREQUIPA	0		 
+18	762011284101	dni_aplicador			0	PIURA	0		 
+18	762010906901	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762011249601	dni_aplicador			0	PIURA	0		 
+18	762011455001	dni_aplicador			0	LA LIBERTAD	0		 
+18	762012114601	dni_aplicador			0	LIMA	0		 
+18	762011325301	dni_aplicador			0	LA LIBERTAD	0		 
+18	762011528401	dni_aplicador			0	LA LIBERTAD	0		 
+18	762011076701	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762011716101	dni_aplicador			0	HU�NUCO	0		 
+18	762011087901	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762010188901	dni_aplicador			0	UCAYALI	0		 
+18	762011172901	dni_aplicador			0	LA LIBERTAD	0		 
+18	762010776001	dni_aplicador			0	AREQUIPA	0		 
+18	762010218701	dni_aplicador			0	UCAYALI	0		 
+18	762011684201	dni_aplicador			0	JUN�N	0		 
+18	762010078301	dni_aplicador			0	CAJAMARCA	0		 
+18	762012249201	dni_aplicador			0	LIMA	0		 
+18	762012219801	dni_aplicador			0	LIMA	0		 
+18	762011733601	dni_aplicador			0	�NCASH	0		 
+18	762011699701	dni_aplicador			0	HU�NUCO	0		 
+18	762012200101	dni_aplicador			0	LIMA	0		 
+18	762011488001	dni_aplicador			0	LA LIBERTAD	0		 
+18	762011597901	dni_aplicador			0	ICA	0		 
+18	762011665601	dni_aplicador			0	JUN�N	0		 
+18	762010798101	dni_aplicador			0	LA LIBERTAD	0		 
+18	762011807201	dni_aplicador			0	HU�NUCO	0		 
+18	762010689201	dni_aplicador			0	CAJAMARCA	0		 
+18	762011060701	dni_aplicador			0	AYACUCHO	0		 
+18	762010844101	dni_aplicador			0	AREQUIPA	0		 
+18	762011867301	dni_aplicador			0	�NCASH	0		 
+18	762011224001	dni_aplicador			0	PIURA	0		 
+18	762010050101	dni_aplicador			0	SAN MART�N	0		 
+18	762012075001	dni_aplicador			0	LIMA	0		 
+18	762010928701	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762010435301	dni_aplicador			0	LORETO	0		 
+18	762010347101	dni_aplicador			0	CAJAMARCA	0		 
+18	762010371801	dni_aplicador			0	HU�NUCO	0		 
+18	762011345201	dni_aplicador			0	PIURA	0		 
+18	762011774801	dni_aplicador			0	ICA	0		 
+18	762011547801	dni_aplicador			0	HU�NUCO	0		 
+18	762010101601	dni_aplicador			0	CAJAMARCA	0		 
+18	762010039001	dni_aplicador			0	PUNO	0		 
+18	762012145301	dni_aplicador			0	CALLAO	0		 
+18	762011245001	dni_aplicador			0	PIURA	0		 
+18	762010105901	dni_aplicador			0	CAJAMARCA	0		 
+18	762011119601	dni_aplicador			0	AREQUIPA	0		 
+18	762011834701	dni_aplicador			0	PASCO	0		 
+18	762011805501	dni_aplicador			0	HU�NUCO	0		 
+18	762011016801	dni_aplicador			0	AYACUCHO	0		 
+18	762010366101	dni_aplicador			0	SAN MART�N	0		 
+18	762011113901	dni_aplicador			0	AREQUIPA	0		 
+18	762010106401	dni_aplicador			0	CAJAMARCA	0		 
+18	762011161901	dni_aplicador			0	LA LIBERTAD	0		 
+18	762011038601	dni_aplicador			0	AREQUIPA	0		 
+18	762011222601	dni_aplicador			0	PIURA	0		 
+18	762010882501	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762011107501	dni_aplicador			0	AREQUIPA	0		 
+18	762011699501	dni_aplicador			0	HU�NUCO	0		 
+18	762010316101	dni_aplicador			0	SAN MART�N	0		 
+18	762011626801	dni_aplicador			0	PASCO	0		 
+18	762011984801	dni_aplicador			0	LIMA	0		 
+18	762010245301	dni_aplicador			0	CUSCO	0		 
+18	762012038201	dni_aplicador			0	LIMA	0		 
+18	762010747301	dni_aplicador			0	AMAZONAS	0		 
+18	762011982201	dni_aplicador			0	LIMA	0		 
+18	762011177101	dni_aplicador			0	LA LIBERTAD	0		 
+18	762011795701	dni_aplicador			0	JUN�N	0		 
+18	762011222401	dni_aplicador			0	PIURA	0		 
+18	762010215401	dni_aplicador			0	UCAYALI	0		 
+18	762010867201	dni_aplicador			0	AREQUIPA	0		 
+18	762012078101	dni_aplicador			0	LIMA	0		 
+18	762012248501	dni_aplicador			0	LIMA	0		 
+18	762010087301	dni_aplicador			0	CAJAMARCA	0		 
+18	762010605201	dni_aplicador			0	CAJAMARCA	0		 
+18	762011347201	dni_aplicador			0	AREQUIPA	0		 
+18	762011809301	dni_aplicador			0	ICA	0		 
+18	762010884501	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762011145101	dni_aplicador			0	PIURA	0		 
+18	762012013201	dni_aplicador			0	LIMA	0		 
+18	762012233401	dni_aplicador			0	LIMA	0		 
+18	762010427101	dni_aplicador			0	LORETO	0		 
+18	762011554101	dni_aplicador			0	HUANCAVELICA	0		 
+18	762012294101	dni_aplicador			0	LIMA	0		 
+18	762010935101	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762012318801	dni_aplicador			0	LIMA	0		 
+18	762011305201	dni_aplicador			0	LA LIBERTAD	0		 
+18	762010396701	dni_aplicador			0	LORETO	0		 
+18	762011336901	dni_aplicador			0	PIURA	0		 
+18	762010489001	dni_aplicador			0	SAN MART�N	0		 
+18	762012281001	dni_aplicador			0	LIMA	0		 
+18	762012161601	dni_aplicador			0	CALLAO	0		 
+18	762011336601	dni_aplicador			0	PIURA	0		 
+18	762011786101	dni_aplicador			0	ICA	0		 
+18	762010626901	dni_aplicador			0	SAN MART�N	0		 
+18	762011534801	dni_aplicador			0	LA LIBERTAD	0		 
+18	762012115301	dni_aplicador			0	LIMA	0		 
+18	762011122701	dni_aplicador			0	AREQUIPA	0		 
+18	762010429901	dni_aplicador			0	LORETO	0		 
+18	762010525001	dni_aplicador			0	SAN MART�N	0		 
+18	762011978501	dni_aplicador			0	LIMA	0		 
+18	762011441001	dni_aplicador			0	LA LIBERTAD	0		 
+18	762012274301	dni_aplicador			0	LIMA	0		 
+18	762012312001	dni_aplicador			0	LIMA	0		 
+18	762012232701	dni_aplicador			0	LIMA	0		 
+18	762010832801	dni_aplicador			0	AREQUIPA	0		 
+18	762011533201	dni_aplicador			0	LA LIBERTAD	0		 
+18	762010006301	dni_aplicador			0	LORETO	0		 
+18	762010389601	dni_aplicador			0	LORETO	0		 
+18	762012161801	dni_aplicador			0	CALLAO	0		 
+18	762012211601	dni_aplicador			0	LIMA	0		 
+18	762010614001	dni_aplicador			0	CAJAMARCA	0		 
+18	762010667301	dni_aplicador			0	PUNO	0		 
+18	762012203701	dni_aplicador			0	LIMA	0		 
+18	762012018501	dni_aplicador			0	LIMA	0		 
+18	762011815401	dni_aplicador			0	ICA	0		 
+18	762011681101	dni_aplicador			0	JUN�N	0		 
+18	762010901801	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762011532701	dni_aplicador			0	LA LIBERTAD	0		 
+18	762012217801	dni_aplicador			0	LIMA	0		 
+18	762011160601	dni_aplicador			0	PIURA	0		 
+18	762010516101	dni_aplicador			0	UCAYALI	0		 
+18	762010210401	dni_aplicador			0	UCAYALI	0		 
+18	762010054801	dni_aplicador			0	SAN MART�N	0		 
+18	762010200501	dni_aplicador			0	UCAYALI	0		 
+18	762011254201	dni_aplicador			0	PIURA	0		 
+18	762011679401	dni_aplicador			0	JUN�N	0		 
+18	762010949901	dni_aplicador			0	APUR�MAC	0		 
+18	762010016801	dni_aplicador			0	LORETO	0		 
+18	762010871001	dni_aplicador			0	LA LIBERTAD	0		 
+18	762010680401	dni_aplicador			0	PUNO	0		 
+18	762010665101	dni_aplicador			0	PUNO	0		 
+18	762011869901	dni_aplicador			0	�NCASH	0		 
+18	762012214701	dni_aplicador			0	LIMA	0		 
+18	762012179201	dni_aplicador			0	LIMA	0		 
+18	762012204601	dni_aplicador			0	LIMA	0		 
+18	762012225701	dni_aplicador			0	LIMA	0		 
+18	762012145301	dni_aplicador			0	CALLAO	0		 
+18	762010362701	dni_aplicador			0	SAN MART�N	0		 
+18	762011637501	dni_aplicador			0	HUANCAVELICA	0		 
+18	762010996901	dni_aplicador			0	PIURA	0		 
+18	762010773901	dni_aplicador			0	AREQUIPA	0		 
+18	762010966801	dni_aplicador			0	LA LIBERTAD	0		 
+18	762011858101	dni_aplicador			0	ICA	0		 
+18	762011349201	dni_aplicador			0	AREQUIPA	0		 
+18	762010071501	dni_aplicador			0	CAJAMARCA	0		 
+18	762011402801	dni_aplicador			0	TACNA	0		 
+18	762011136401	dni_aplicador			0	PIURA	0		 
+18	762010454501	dni_aplicador			0	LORETO	0		 
+18	762010415901	dni_aplicador			0	LORETO	0		 
+18	762010878901	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762011717101	dni_aplicador			0	HU�NUCO	0		 
+18	762010090701	dni_aplicador			0	CAJAMARCA	0		 
+18	762010907901	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762010479701	dni_aplicador			0	PUNO	0		 
+18	762011271701	dni_aplicador			0	PIURA	0		 
+18	762010514601	dni_aplicador			0	UCAYALI	0		 
+18	762011755501	dni_aplicador			0	ICA	0		 
+18	762011724901	dni_aplicador			0	HU�NUCO	0		 
+18	762011922601	dni_aplicador			0	JUN�N	0		 
+18	762010119101	dni_aplicador			0	CUSCO	0		 
+18	762011710901	dni_aplicador			0	HU�NUCO	0		 
+18	762011449401	dni_aplicador			0	LA LIBERTAD	0		 
+18	762011458901	dni_aplicador			0	LA LIBERTAD	0		 
+18	762012241201	dni_aplicador			0	LIMA	0		 
+18	762011664601	dni_aplicador			0	JUN�N	0		 
+18	762010883701	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762011753301	dni_aplicador			0	�NCASH	0		 
+18	762011862501	dni_aplicador			0	�NCASH	0		 
+18	762012055801	dni_aplicador			0	LIMA	0		 
+18	762010490301	dni_aplicador			0	SAN MART�N	0		 
+18	762012246001	dni_aplicador			0	LIMA	0		 
+18	762011508901	dni_aplicador			0	TUMBES	0		 
+18	762010702101	dni_aplicador			0	MADRE DE DIOS	0		 
+18	762010577901	dni_aplicador			0	SAN MART�N	0		 
+18	762010207601	dni_aplicador			0	UCAYALI	0		 
+18	762011962001	dni_aplicador			0	JUN�N	0		 
+18	762011901001	dni_aplicador			0	�NCASH	0		 
+18	762011604501	dni_aplicador			0	ICA	0		 
+18	762011028501	dni_aplicador			0	MOQUEGUA	0		 
+18	762011896301	dni_aplicador			0	�NCASH	0		 
+18	762010138101	dni_aplicador			0	CAJAMARCA	0		 
+18	762012302901	dni_aplicador			0	LIMA	0		 
+18	762012026301	dni_aplicador			0	LIMA	0		 
+18	762010120801	dni_aplicador			0	CUSCO	0		 
+18	762011778601	dni_aplicador			0	ICA	0		 
+18	762010703701	dni_aplicador			0	MADRE DE DIOS	0		 
+18	762012133401	dni_aplicador			0	CALLAO	0		 
+18	762011932001	dni_aplicador			0	�NCASH	0		 
+18	762010085401	dni_aplicador			0	CAJAMARCA	0		 
+18	762011448401	dni_aplicador			0	LA LIBERTAD	0		 
+18	762010098801	dni_aplicador			0	CAJAMARCA	0		 
+18	762010581601	dni_aplicador			0	SAN MART�N	0		 
+18	762010759901	dni_aplicador			0	APUR�MAC	0		 
+18	762010997901	dni_aplicador			0	PIURA	0		 
+18	762010996001	dni_aplicador			0	PIURA	0		 
+18	762011990901	dni_aplicador			0	LIMA	0		 
+18	762011600001	dni_aplicador			0	ICA	0		 
+18	762010200501	dni_aplicador			0	UCAYALI	0		 
+18	762010541801	dni_aplicador			0	PUNO	0		 
+18	762011521201	dni_aplicador			0	TUMBES	0		 
+18	762010210601	dni_aplicador			0	UCAYALI	0		 
+18	762010543801	dni_aplicador			0	PUNO	0		 
+18	762010836401	dni_aplicador			0	AREQUIPA	0		 
+18	762012299401	dni_aplicador			0	LIMA	0		 
+18	762010122001	dni_aplicador			0	CUSCO	0		 
+18	762011759801	dni_aplicador			0	ICA	0		 
+18	762011435301	dni_aplicador			0	LA LIBERTAD	0		 
+18	762011298101	dni_aplicador			0	AREQUIPA	0		 
+18	762010624401	dni_aplicador			0	SAN MART�N	0		 
+18	762010541901	dni_aplicador			0	PUNO	0		 
+18	762012164501	dni_aplicador			0	CALLAO	0		 
+18	762011850801	dni_aplicador			0	ICA	0		 
+18	762010864201	dni_aplicador			0	AREQUIPA	0		 
+18	762011989601	dni_aplicador			0	LIMA	0		 
+18	762012081501	dni_aplicador			0	LIMA	0		 
+18	762011564901	dni_aplicador			0	�NCASH	0		 
+18	762012249701	dni_aplicador			0	LIMA	0		 
+18	762011361401	dni_aplicador			0	PIURA	0		 
+18	762010557201	dni_aplicador			0	CUSCO	0		 
+18	762012217601	dni_aplicador			0	LIMA	0		 
+18	762011977101	dni_aplicador			0	LIMA	0		 
+18	762011814001	dni_aplicador			0	ICA	0		 
+18	762010471101	dni_aplicador			0	LORETO	0		 
+18	762011918801	dni_aplicador			0	JUN�N	0		 
+18	762011282701	dni_aplicador			0	PIURA	0		 
+18	762011415501	dni_aplicador			0	PIURA	0		 
+18	762011513601	dni_aplicador			0	TUMBES	0		 
+18	762012178101	dni_aplicador			0	LIMA	0		 
+18	762010541801	dni_aplicador			0	PUNO	0		 
+18	762010384501	dni_aplicador			0	HU�NUCO	0		 
+18	762012154501	dni_aplicador			0	CALLAO	0		 
+18	762010593701	dni_aplicador			0	PUNO	0		 
+18	762011162301	dni_aplicador			0	LA LIBERTAD	0		 
+18	762011600701	dni_aplicador			0	ICA	0		 
+18	762011425501	dni_aplicador			0	LA LIBERTAD	0		 
+18	762010258001	dni_aplicador			0	CUSCO	0		 
+18	762012247701	dni_aplicador			0	LIMA	0		 
+18	762011263801	dni_aplicador			0	PIURA	0		 
+18	762010774101	dni_aplicador			0	AREQUIPA	0		 
+18	762011874901	dni_aplicador			0	�NCASH	0		 
+18	762010258401	dni_aplicador			0	CUSCO	0		 
+18	762010957401	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762010581001	dni_aplicador			0	SAN MART�N	0		 
+18	762012213901	dni_aplicador			0	LIMA	0		 
+18	762012145801	dni_aplicador			0	CALLAO	0		 
+18	762010418101	dni_aplicador			0	LORETO	0		 
+18	762010783101	dni_aplicador			0	APUR�MAC	0		 
+18	762010888201	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762010074001	dni_aplicador			0	CAJAMARCA	0		 
+18	762012278701	dni_aplicador			0	LIMA	0		 
+18	762011760701	dni_aplicador			0	ICA	0		 
+18	762011815101	dni_aplicador			0	ICA	0		 
+18	762011069701	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762010664501	dni_aplicador			0	PUNO	0		 
+18	762011408001	dni_aplicador			0	TACNA	0		 
+18	762012240201	dni_aplicador			0	LIMA	0		 
+18	762010273801	dni_aplicador			0	CAJAMARCA	0		 
+18	762010014901	dni_aplicador			0	LORETO	0		 
+18	762012045501	dni_aplicador			0	LIMA	0		 
+18	762010854201	dni_aplicador			0	AREQUIPA	0		 
+18	762010543501	dni_aplicador			0	PUNO	0		 
+18	762011214801	dni_aplicador			0	AREQUIPA	0		 
+18	762011487101	dni_aplicador			0	LA LIBERTAD	0		 
+18	762011127301	dni_aplicador			0	MOQUEGUA	0		 
+18	762010095101	dni_aplicador			0	CAJAMARCA	0		 
+18	762010114101	dni_aplicador			0	CAJAMARCA	0		 
+18	762010800701	dni_aplicador			0	LA LIBERTAD	0		 
+18	762011509501	dni_aplicador			0	TUMBES	0		 
+18	762010874001	dni_aplicador			0	LA LIBERTAD	0		 
+18	762011850301	dni_aplicador			0	ICA	0		 
+18	762011051901	dni_aplicador			0	CUSCO	0		 
+18	762012128201	dni_aplicador			0	CALLAO	0		 
+18	762010537701	dni_aplicador			0	HU�NUCO	0		 
+18	762010248101	dni_aplicador			0	CUSCO	0		 
+18	762011147201	dni_aplicador			0	PIURA	0		 
+18	762012292301	dni_aplicador			0	LIMA	0		 
+18	762010393101	dni_aplicador			0	LORETO	0		 
+18	762011353201	dni_aplicador			0	AREQUIPA	0		 
+18	762011402101	dni_aplicador			0	TACNA	0		 
+18	762010829101	dni_aplicador			0	AREQUIPA	0		 
+18	762010198001	dni_aplicador			0	UCAYALI	0		 
+18	762010162301	dni_aplicador			0	CAJAMARCA	0		 
+18	762011983701	dni_aplicador			0	LIMA	0		 
+18	762011417501	dni_aplicador			0	PIURA	0		 
+18	762010234801	dni_aplicador			0	CUSCO	0		 
+18	762010519401	dni_aplicador			0	UCAYALI	0		 
+18	762011294001	dni_aplicador			0	PIURA	0		 
+18	762012299501	dni_aplicador			0	LIMA	0		 
+18	762010469601	dni_aplicador			0	LORETO	0		 
+18	762010286001	dni_aplicador			0	LORETO	0		 
+18	762011824501	dni_aplicador			0	HU�NUCO	0		 
+18	762010823401	dni_aplicador			0	AREQUIPA	0		 
+18	762011610101	dni_aplicador			0	JUN�N	0		 
+18	762011124001	dni_aplicador			0	MOQUEGUA	0		 
+18	762012136401	dni_aplicador			0	CALLAO	0		 
+18	762012092501	dni_aplicador			0	LIMA	0		 
+18	762011575201	dni_aplicador			0	JUN�N	0		 
+18	762012309801	dni_aplicador			0	LIMA	0		 
+18	762011081301	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762010740801	dni_aplicador			0	AMAZONAS	0		 
+18	762011881001	dni_aplicador			0	�NCASH	0		 
+18	762012013501	dni_aplicador			0	LIMA	0		 
+18	762011900001	dni_aplicador			0	�NCASH	0		 
+18	762010432401	dni_aplicador			0	LORETO	0		 
+18	762012273301	dni_aplicador			0	LIMA	0		 
+18	762011440501	dni_aplicador			0	LA LIBERTAD	0		 
+18	762010786901	dni_aplicador			0	AREQUIPA	0		 
+18	762011415901	dni_aplicador			0	PIURA	0		 
+18	762010425801	dni_aplicador			0	LORETO	0		 
+18	762010112901	dni_aplicador			0	CAJAMARCA	0		 
+18	762012051201	dni_aplicador			0	LIMA	0		 
+18	762010003501	dni_aplicador			0	LORETO	0		 
+18	762010715201	dni_aplicador			0	SAN MART�N	0		 
+18	762010012601	dni_aplicador			0	LORETO	0		 
+18	762010882001	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762010838701	dni_aplicador			0	AREQUIPA	0		 
+18	762011458701	dni_aplicador			0	LA LIBERTAD	0		 
+18	762011857901	dni_aplicador			0	ICA	0		 
+18	762012287801	dni_aplicador			0	LIMA	0		 
+18	762010982901	dni_aplicador			0	AYACUCHO	0		 
+18	762011585001	dni_aplicador			0	JUN�N	0		 
+18	762010337501	dni_aplicador			0	CAJAMARCA	0		 
+18	762011732601	dni_aplicador			0	�NCASH	0		 
+18	762011038701	dni_aplicador			0	AREQUIPA	0		 
+18	762011308901	dni_aplicador			0	LA LIBERTAD	0		 
+18	762011245501	dni_aplicador			0	PIURA	0		 
+18	762010585001	dni_aplicador			0	SAN MART�N	0		 
+18	762010219301	dni_aplicador			0	UCAYALI	0		 
+18	762010755701	dni_aplicador			0	PUNO	0		 
+18	762010745701	dni_aplicador			0	AMAZONAS	0		 
+18	762011978001	dni_aplicador			0	LIMA	0		 
+18	762011282901	dni_aplicador			0	PIURA	0		 
+18	762011963401	dni_aplicador			0	�NCASH	0		 
+18	762010515801	dni_aplicador			0	UCAYALI	0		 
+18	762011529201	dni_aplicador			0	LA LIBERTAD	0		 
+18	762012197201	dni_aplicador			0	LIMA	0		 
+18	762011756401	dni_aplicador			0	ICA	0		 
+18	762010920201	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762010538401	dni_aplicador			0	HU�NUCO	0		 
+18	762011057001	dni_aplicador			0	AREQUIPA	0		 
+18	762011053201	dni_aplicador			0	CUSCO	0		 
+18	762010305801	dni_aplicador			0	CAJAMARCA	0		 
+18	762011274201	dni_aplicador			0	PIURA	0		 
+18	762010990001	dni_aplicador			0	AYACUCHO	0		 
+18	762012127801	dni_aplicador			0	CALLAO	0		 
+18	762010040001	dni_aplicador			0	PUNO	0		 
+18	762011010701	dni_aplicador			0	PIURA	0		 
+18	762010436001	dni_aplicador			0	LORETO	0		 
+18	762012178801	dni_aplicador			0	LIMA	0		 
+18	762011949301	dni_aplicador			0	HUANCAVELICA	0		 
+18	762011513901	dni_aplicador			0	TUMBES	0		 
+18	762012165201	dni_aplicador			0	CALLAO	0		 
+18	762010591801	dni_aplicador			0	PUNO	0		 
+18	762010805601	dni_aplicador			0	LA LIBERTAD	0		 
+18	762011615901	dni_aplicador			0	JUN�N	0		 
+18	762011742201	dni_aplicador			0	�NCASH	0		 
+18	762012138501	dni_aplicador			0	CALLAO	0		 
+18	762010640901	dni_aplicador			0	CAJAMARCA	0		 
+18	762011453901	dni_aplicador			0	LA LIBERTAD	0		 
+18	762010544201	dni_aplicador			0	PUNO	0		 
+18	762010519901	dni_aplicador			0	UCAYALI	0		 
+18	762010404801	dni_aplicador			0	SAN MART�N	0		 
+18	762010929501	dni_aplicador			0	LAMBAYEQUE	0		 
+18	762011881401	dni_aplicador			0	�NCASH	0		 
+18	762012264301	dni_aplicador			0	LIMA	0		 
+18	762011521201	dni_aplicador			0	TUMBES	0		 
+18	762010677201	dni_aplicador			0	PUNO	0		 
+18	762011123601	dni_aplicador			0	AREQUIPA	0		 
+18	762011028501	dni_aplicador			0	MOQUEGUA	0		 
+18	762010218201	dni_aplicador			0	UCAYALI	0		 
+18	762011133601	dni_aplicador			0	PIURA	0		 
+18	762010803401	dni_aplicador			0	LA LIBERTAD	0		 
+18	762011036101	dni_aplicador			0	AREQUIPA	0		 
+18	762011213101	dni_aplicador			0	AREQUIPA	0		 
+18	762011714901	dni_aplicador			0	HU�NUCO	0		 
+18	762011155201	dni_aplicador			0	PIURA	0		 
+18	762010312001	dni_aplicador			0	CAJAMARCA	0		 
+18	762011567701	dni_aplicador			0	JUN�N	0		 
+18	762011649801	dni_aplicador			0	JUN�N	0		 
+18	762010179901	dni_aplicador			0	CAJAMARCA	0		 
+18	762011505501	dni_aplicador			0	LA LIBERTAD	0		 
+18	762012194801	dni_aplicador			0	LIMA	0		 
+18	762011690001	dni_aplicador			0	JUN�N	0		 
+18	762010849401	dni_aplicador			0	AREQUIPA	0		 
+18	762011617901	dni_aplicador			0	HUANCAVELICA	0		 
+18	762011303201	dni_aplicador			0	LA LIBERTAD	0		 
+18	762011982001	dni_asistente			0	LIMA	0		 
+18	762010062401	dni_asistente			0	CAJAMARCA	0		 
+18	762010860601	dni_asistente			0	AREQUIPA	0		 
+18	762010202201	dni_asistente			0	UCAYALI	0		 
+18	762011089701	dni_asistente			0	LAMBAYEQUE	0		 
+18	762010424801	dni_asistente			0	LORETO	0		 
+18	762011995401	dni_asistente			0	LIMA	0		 
+18	762011066701	dni_asistente			0	LAMBAYEQUE	0		 
+18	762010501601	dni_asistente			0	AMAZONAS	0		 
+18	762010343201	dni_asistente			0	CAJAMARCA	0		 
+18	762010288101	dni_asistente			0	PUNO	0		 
+18	762011690701	dni_asistente			0	JUN�N	0		 
+18	762012308901	dni_asistente			0	LIMA	0		 
+18	762010331101	dni_asistente			0	CAJAMARCA	0		 
+18	762011986001	dni_asistente			0	LIMA	0		 
+18	762010465601	dni_asistente			0	LORETO	0		 
+18	762012302701	dni_asistente			0	LIMA	0		 
+18	762010221601	dni_asistente			0	UCAYALI	0		 
+18	762010081401	dni_asistente			0	CAJAMARCA	0		 
+18	762010215401	dni_asistente			0	UCAYALI	0		 
+18	762011482301	dni_asistente			0	LA LIBERTAD	0		 
+18	762010395601	dni_asistente			0	LORETO	0		 
+18	762010522701	dni_asistente			0	CUSCO	0		 
+18	762010868001	dni_asistente			0	AREQUIPA	0		 
+18	762011742901	dni_asistente			0	�NCASH	0		 
+18	762011095301	dni_asistente			0	LAMBAYEQUE	0		 
+18	762011547801	dni_asistente			0	HU�NUCO	0		 
+18	762011785501	dni_asistente			0	ICA	0		 
+18	762010534701	dni_asistente			0	HU�NUCO	0		 
+18	762011613601	dni_asistente			0	JUN�N	0		 
+18	762011735901	dni_asistente			0	�NCASH	0		 
+18	762011376801	dni_asistente			0	PIURA	0		 
+18	762010634201	dni_asistente			0	SAN MART�N	0		 
+18	762012093201	dni_asistente			0	LIMA	0		 
+18	762012084301	dni_asistente			0	LIMA	0		 
+18	762010487501	dni_asistente			0	SAN MART�N	0		 
+18	762010610601	dni_asistente			0	CAJAMARCA	0		 
+18	762012081401	dni_asistente			0	LIMA	0		 
+18	762010420301	dni_asistente			0	LORETO	0		 
+18	762011771901	dni_asistente			0	ICA	0		 
+18	762011259901	dni_asistente			0	PIURA	0		 
+18	762011837401	dni_asistente			0	PASCO	0		 
+18	762011111201	dni_asistente			0	AREQUIPA	0		 
+18	762011901001	dni_asistente			0	�NCASH	0		 
+18	762010651401	dni_asistente			0	PUNO	0		 
+18	762010868201	dni_asistente			0	AREQUIPA	0		 
+18	762011263701	dni_asistente			0	PIURA	0		 
+18	762010858801	dni_asistente			0	AREQUIPA	0		 
+18	762010401601	dni_asistente			0	AMAZONAS	0		 
+18	762010203301	dni_asistente			0	UCAYALI	0		 
+18	762011086701	dni_asistente			0	LAMBAYEQUE	0		 
+18	762012142101	dni_asistente			0	CALLAO	0		 
+18	762010548601	dni_asistente			0	PUNO	0		 
+18	762011629601	dni_asistente			0	HU�NUCO	0		 
+18	762011780301	dni_asistente			0	ICA	0		 
+18	762012085301	dni_asistente			0	LIMA	0		 
+18	762011380701	dni_asistente			0	PIURA	0		 
+18	762012056301	dni_asistente			0	LIMA	0		 
+18	762011026501	dni_asistente			0	MOQUEGUA	0		 
+18	762012117501	dni_asistente			0	LIMA	0		 
+18	762011925201	dni_asistente			0	JUN�N	0		 
+18	762011745101	dni_asistente			0	�NCASH	0		 
+18	762011668601	dni_asistente			0	JUN�N	0		 
+18	762010109501	dni_asistente			0	CAJAMARCA	0		 
+18	762010371301	dni_asistente			0	HU�NUCO	0		 
+18	762010585101	dni_asistente			0	SAN MART�N	0		 
+18	762010981001	dni_asistente			0	AYACUCHO	0		 
+18	762012081501	dni_asistente			0	LIMA	0		 
+18	762010697401	dni_asistente			0	MADRE DE DIOS	0		 
+18	762011425001	dni_asistente			0	PIURA	0		 
+18	762010912401	dni_asistente			0	LAMBAYEQUE	0		 
+18	762011361201	dni_asistente			0	PIURA	0		 
+18	762012015701	dni_asistente			0	LIMA	0		 
+18	762011205901	dni_asistente			0	LA LIBERTAD	0		 
+18	762010490401	dni_asistente			0	SAN MART�N	0		 
+18	762011682701	dni_asistente			0	JUN�N	0		 
+18	762011122401	dni_asistente			0	AREQUIPA	0		 
+18	762011705601	dni_asistente			0	HU�NUCO	0		 
+18	762010529101	dni_asistente			0	SAN MART�N	0		 
+18	762010787401	dni_asistente			0	AREQUIPA	0		 
+18	762010612001	dni_asistente			0	CAJAMARCA	0		 
+18	762011505901	dni_asistente			0	LA LIBERTAD	0		 
+18	762010696101	dni_asistente			0	MADRE DE DIOS	0		 
+18	762010152701	dni_asistente			0	CAJAMARCA	0		 
+18	762012038201	dni_asistente			0	LIMA	0		 
+18	762011464901	dni_asistente			0	LA LIBERTAD	0		 
+18	762011938001	dni_asistente			0	JUN�N	0		 
+18	762010642901	dni_asistente			0	CAJAMARCA	0		 
+18	762012252701	dni_asistente			0	LIMA	0		 
+18	762010048501	dni_asistente			0	SAN MART�N	0		 
+18	762012275701	dni_asistente			0	LIMA	0		 
+18	762011126901	dni_asistente			0	MOQUEGUA	0		 
+18	762010629901	dni_asistente			0	SAN MART�N	0		 
+18	762011196601	dni_asistente			0	LA LIBERTAD	0		 
+18	762010677301	dni_asistente			0	PUNO	0		 
+18	762010448801	dni_asistente			0	LORETO	0		 
+18	762010817901	dni_asistente			0	PIURA	0		 
+18	762010616801	dni_asistente			0	CAJAMARCA	0		 
+18	762010591101	dni_asistente			0	PUNO	0		 
+18	762010715001	dni_asistente			0	SAN MART�N	0		 
+18	762011325301	dni_asistente			0	LA LIBERTAD	0		 
+18	762011990301	dni_asistente			0	LIMA	0		 
+18	762010104801	dni_asistente			0	CAJAMARCA	0		 
+18	762012269601	dni_asistente			0	LIMA	0		 
+18	762011228801	dni_asistente			0	PIURA	0		 
+18	762011679301	dni_asistente			0	JUN�N	0		 
+18	762012231901	dni_asistente			0	LIMA	0		 
+18	762010545201	dni_asistente			0	PUNO	0		 
+18	762012081801	dni_asistente			0	LIMA	0		 
+18	762012062201	dni_asistente			0	LIMA	0		 
+18	762010453501	dni_asistente			0	LORETO	0		 
+18	762011109401	dni_asistente			0	AREQUIPA	0		 
+18	762011809601	dni_asistente			0	ICA	0		 
+18	762011094801	dni_asistente			0	LAMBAYEQUE	0		 
+18	762010939101	dni_asistente			0	LAMBAYEQUE	0		 
+18	762010128901	dni_asistente			0	CUSCO	0		 
+18	762010913201	dni_asistente			0	LAMBAYEQUE	0		 
+18	762011119701	dni_asistente			0	AREQUIPA	0		 
+18	762012085601	dni_asistente			0	LIMA	0		 
+18	762012254601	dni_asistente			0	LIMA	0		 
+18	762011074901	dni_asistente			0	LAMBAYEQUE	0		 
+18	762010341001	dni_asistente			0	CAJAMARCA	0		 
+18	762012205101	dni_asistente			0	LIMA	0		 
+18	762011536001	dni_asistente			0	LA LIBERTAD	0		 
+18	762011431501	dni_asistente			0	LA LIBERTAD	0		 
+18	762012151501	dni_asistente			0	CALLAO	0		 
+18	762010939601	dni_asistente			0	LAMBAYEQUE	0		 
+18	762010454401	dni_asistente			0	LORETO	0		 
+18	762011581501	dni_asistente			0	JUN�N	0		 
+18	762010325701	dni_asistente			0	CAJAMARCA	0		 
+18	762012089201	dni_asistente			0	LIMA	0		 
+18	762010236101	dni_asistente			0	CUSCO	0		 
+18	762010048501	dni_asistente			0	SAN MART�N	0		 
+18	762011577101	dni_asistente			0	JUN�N	0		 
+18	762011491501	dni_asistente			0	LA LIBERTAD	0		 
+18	762010257101	dni_asistente			0	CUSCO	0		 
+18	762010863701	dni_asistente			0	AREQUIPA	0		 
+18	762011936401	dni_asistente			0	JUN�N	0		 
+18	762010572901	dni_asistente			0	SAN MART�N	0		 
+18	762011506301	dni_asistente			0	LA LIBERTAD	0		 
+18	762011310301	dni_asistente			0	LA LIBERTAD	0		 
+18	762010971601	dni_asistente			0	APUR�MAC	0		 
+18	762010745601	dni_asistente			0	AMAZONAS	0		 
+18	762011411801	dni_asistente			0	PIURA	0		 
+18	762010184301	dni_asistente			0	UCAYALI	0		 
+18	762010853601	dni_asistente			0	AREQUIPA	0		 
+18	762011869701	dni_asistente			0	�NCASH	0		 
+18	762010921101	dni_asistente			0	LAMBAYEQUE	0		 
+18	762010778901	dni_asistente			0	APUR�MAC	0		 
+18	762010118301	dni_asistente			0	CUSCO	0		 
+18	762011813601	dni_asistente			0	ICA	0		 
+18	762011510201	dni_asistente			0	TUMBES	0		 
+18	762011196001	dni_asistente			0	LA LIBERTAD	0		 
+18	762010644901	dni_asistente			0	CAJAMARCA	0		 
+18	762011586801	dni_asistente			0	ICA	0		 
+18	762011601101	dni_asistente			0	ICA	0		 
+18	762011151901	dni_asistente			0	PIURA	0		 
+18	762012285801	dni_asistente			0	LIMA	0		 
+18	762011943001	dni_asistente			0	JUN�N	0		 
+18	762010115701	dni_asistente			0	CAJAMARCA	0		 
+18	762012086401	dni_asistente			0	LIMA	0		 
+18	762010302001	dni_asistente			0	CUSCO	0		 
+18	762010250301	dni_asistente			0	CUSCO	0		 
+18	762011181401	dni_asistente			0	PIURA	0		 
+18	762010427501	dni_asistente			0	LORETO	0		 
+18	762011227701	dni_asistente			0	PIURA	0		 
+18	762010999901	dni_asistente			0	PIURA	0		 
+18	762011076101	dni_asistente			0	LAMBAYEQUE	0		 
+18	762011672501	dni_asistente			0	JUN�N	0		 
+18	762012279701	dni_asistente			0	LIMA	0		 
+18	762010119301	dni_asistente			0	CUSCO	0		 
+18	762010108401	dni_asistente			0	CAJAMARCA	0		 
+18	762011544701	dni_asistente			0	TUMBES	0		 
+18	762012041201	dni_asistente			0	LIMA	0		 
+18	762012245801	dni_asistente			0	LIMA	0		 
+18	762010171001	dni_asistente			0	PUNO	0		 
+18	762012292301	dni_asistente			0	LIMA	0		 
+18	762011850901	dni_asistente			0	ICA	0		 
+18	762011970901	dni_asistente			0	LIMA	0		 
+18	762011244501	dni_asistente			0	PIURA	0		 
+18	762012014001	dni_asistente			0	LIMA	0		 
+18	762010104001	dni_asistente			0	CAJAMARCA	0		 
+18	762010566501	dni_asistente			0	LORETO	0		 
+18	762010392701	dni_asistente			0	LORETO	0		 
+18	762010109801	dni_asistente			0	CAJAMARCA	0		 
+18	762012220001	dni_asistente			0	LIMA	0		 
+18	762012137601	dni_asistente			0	CALLAO	0		 
+18	762010473301	dni_asistente			0	LORETO	0		 
+18	762011703801	dni_asistente			0	HU�NUCO	0		 
+18	762010019201	dni_asistente			0	CUSCO	0		 
+18	762010480501	dni_asistente			0	PUNO	0		 
+18	762012223601	dni_asistente			0	LIMA	0		 
+18	762012287801	dni_asistente			0	LIMA	0		 
+18	762010413601	dni_asistente			0	LORETO	0		 
+18	762010446601	dni_asistente			0	LORETO	0		 
+18	762010347701	dni_asistente			0	CUSCO	0		 
+18	762010627601	dni_asistente			0	SAN MART�N	0		 
+18	762011024201	dni_asistente			0	AYACUCHO	0		 
+18	762011566401	dni_asistente			0	�NCASH	0		 
+18	762012033701	dni_asistente			0	LIMA	0		 
+18	762011935101	dni_asistente			0	JUN�N	0		 
+18	762010997101	dni_asistente			0	PIURA	0		 
+18	762010008201	dni_asistente			0	LORETO	0		 
+18	762011788601	dni_asistente			0	JUN�N	0		 
+18	762010660001	dni_asistente			0	PUNO	0		 
+18	762011426701	dni_asistente			0	LA LIBERTAD	0		 
+18	762010573001	dni_asistente			0	SAN MART�N	0		 
+18	762011098401	dni_asistente			0	LAMBAYEQUE	0		 
+18	762011558401	dni_asistente			0	�NCASH	0		 
+18	762012237901	dni_asistente			0	LIMA	0		 
+18	762010836901	dni_asistente			0	AREQUIPA	0		 
+18	762010818101	dni_asistente			0	PIURA	0		 
+18	762011564001	dni_asistente			0	�NCASH	0		 
+18	762010894101	dni_asistente			0	LAMBAYEQUE	0		 
+18	762012269101	dni_asistente			0	LIMA	0		 
+18	762010807301	dni_asistente			0	PIURA	0		 
+18	762010048701	dni_asistente			0	SAN MART�N	0		 
+18	762010632301	dni_asistente			0	SAN MART�N	0		 
+18	762012161501	dni_asistente			0	CALLAO	0		 
+18	762010265701	dni_asistente			0	CAJAMARCA	0		 
+18	762011197401	dni_asistente			0	LA LIBERTAD	0		 
+18	762010555401	dni_asistente			0	CUSCO	0		 
+18	762012034501	dni_asistente			0	LIMA	0		 
+18	762011713301	dni_asistente			0	HU�NUCO	0		 
+18	762010992201	dni_asistente			0	AYACUCHO	0		 
+18	762010227201	dni_asistente			0	CUSCO	0		 
+18	762011970801	dni_asistente			0	LIMA	0		 
+18	762010294601	dni_asistente			0	SAN MART�N	0		 
+18	762012081001	dni_asistente			0	LIMA	0		 
+18	762011795601	dni_asistente			0	JUN�N	0		 
+18	762010128501	dni_asistente			0	CUSCO	0		 
+18	762010532001	dni_asistente			0	SAN MART�N	0		 
+18	762010522701	dni_asistente			0	CUSCO	0		 
+18	762011970301	dni_asistente			0	LIMA	0		 
+18	762010411501	dni_asistente			0	SAN MART�N	0		 
+18	762010630901	dni_asistente			0	SAN MART�N	0		 
+18	762011114401	dni_asistente			0	AREQUIPA	0		 
+18	762010964601	dni_asistente			0	AREQUIPA	0		 
+18	762011284101	dni_asistente			0	PIURA	0		 
+18	762010906901	dni_asistente			0	LAMBAYEQUE	0		 
+18	762011249601	dni_asistente			0	PIURA	0		 
+18	762011455001	dni_asistente			0	LA LIBERTAD	0		 
+18	762012114601	dni_asistente			0	LIMA	0		 
+18	762011325301	dni_asistente			0	LA LIBERTAD	0		 
+18	762011528401	dni_asistente			0	LA LIBERTAD	0		 
+18	762011076701	dni_asistente			0	LAMBAYEQUE	0		 
+18	762011716101	dni_asistente			0	HU�NUCO	0		 
+18	762011087901	dni_asistente			0	LAMBAYEQUE	0		 
+18	762010188901	dni_asistente			0	UCAYALI	0		 
+18	762011172901	dni_asistente			0	LA LIBERTAD	0		 
+18	762010776001	dni_asistente			0	AREQUIPA	0		 
+18	762010218701	dni_asistente			0	UCAYALI	0		 
+18	762011684201	dni_asistente			0	JUN�N	0		 
+18	762010078301	dni_asistente			0	CAJAMARCA	0		 
+18	762012249201	dni_asistente			0	LIMA	0		 
+18	762012219801	dni_asistente			0	LIMA	0		 
+18	762011733601	dni_asistente			0	�NCASH	0		 
+18	762011699701	dni_asistente			0	HU�NUCO	0		 
+18	762012200101	dni_asistente			0	LIMA	0		 
+18	762011488001	dni_asistente			0	LA LIBERTAD	0		 
+18	762011597901	dni_asistente			0	ICA	0		 
+18	762011665601	dni_asistente			0	JUN�N	0		 
+18	762010798101	dni_asistente			0	LA LIBERTAD	0		 
+18	762011807201	dni_asistente			0	HU�NUCO	0		 
+18	762010689201	dni_asistente			0	CAJAMARCA	0		 
+18	762011060701	dni_asistente			0	AYACUCHO	0		 
+18	762010844101	dni_asistente			0	AREQUIPA	0		 
+18	762011867301	dni_asistente			0	�NCASH	0		 
+18	762011224001	dni_asistente			0	PIURA	0		 
+18	762010050101	dni_asistente			0	SAN MART�N	0		 
+18	762012075001	dni_asistente			0	LIMA	0		 
+18	762010928701	dni_asistente			0	LAMBAYEQUE	0		 
+18	762010435301	dni_asistente			0	LORETO	0		 
+18	762010347101	dni_asistente			0	CAJAMARCA	0		 
+18	762010371801	dni_asistente			0	HU�NUCO	0		 
+18	762011345201	dni_asistente			0	PIURA	0		 
+18	762011774801	dni_asistente			0	ICA	0		 
+18	762011547801	dni_asistente			0	HU�NUCO	0		 
+18	762010101601	dni_asistente			0	CAJAMARCA	0		 
+18	762010039001	dni_asistente			0	PUNO	0		 
+18	762012145301	dni_asistente			0	CALLAO	0		 
+18	762011245001	dni_asistente			0	PIURA	0		 
+18	762010105901	dni_asistente			0	CAJAMARCA	0		 
+18	762011119601	dni_asistente			0	AREQUIPA	0		 
+18	762011834701	dni_asistente			0	PASCO	0		 
+18	762011805501	dni_asistente			0	HU�NUCO	0		 
+18	762011016801	dni_asistente			0	AYACUCHO	0		 
+18	762010366101	dni_asistente			0	SAN MART�N	0		 
+18	762011113901	dni_asistente			0	AREQUIPA	0		 
+18	762010106401	dni_asistente			0	CAJAMARCA	0		 
+18	762011161901	dni_asistente			0	LA LIBERTAD	0		 
+18	762011038601	dni_asistente			0	AREQUIPA	0		 
+18	762011222601	dni_asistente			0	PIURA	0		 
+18	762010882501	dni_asistente			0	LAMBAYEQUE	0		 
+18	762011107501	dni_asistente			0	AREQUIPA	0		 
+18	762011699501	dni_asistente			0	HU�NUCO	0		 
+18	762010316101	dni_asistente			0	SAN MART�N	0		 
+18	762011626801	dni_asistente			0	PASCO	0		 
+18	762011984801	dni_asistente			0	LIMA	0		 
+18	762010245301	dni_asistente			0	CUSCO	0		 
+18	762012038201	dni_asistente			0	LIMA	0		 
+18	762010747301	dni_asistente			0	AMAZONAS	0		 
+18	762011982201	dni_asistente			0	LIMA	0		 
+18	762011177101	dni_asistente			0	LA LIBERTAD	0		 
+18	762011795701	dni_asistente			0	JUN�N	0		 
+18	762011222401	dni_asistente			0	PIURA	0		 
+18	762010215401	dni_asistente			0	UCAYALI	0		 
+18	762010867201	dni_asistente			0	AREQUIPA	0		 
+18	762012078101	dni_asistente			0	LIMA	0		 
+18	762012248501	dni_asistente			0	LIMA	0		 
+18	762010087301	dni_asistente			0	CAJAMARCA	0		 
+18	762010605201	dni_asistente			0	CAJAMARCA	0		 
+18	762011347201	dni_asistente			0	AREQUIPA	0		 
+18	762011809301	dni_asistente			0	ICA	0		 
+18	762010884501	dni_asistente			0	LAMBAYEQUE	0		 
+18	762011145101	dni_asistente			0	PIURA	0		 
+18	762012013201	dni_asistente			0	LIMA	0		 
+18	762012233401	dni_asistente			0	LIMA	0		 
+18	762010427101	dni_asistente			0	LORETO	0		 
+18	762011554101	dni_asistente			0	HUANCAVELICA	0		 
+18	762012294101	dni_asistente			0	LIMA	0		 
+18	762010935101	dni_asistente			0	LAMBAYEQUE	0		 
+18	762012318801	dni_asistente			0	LIMA	0		 
+18	762011305201	dni_asistente			0	LA LIBERTAD	0		 
+18	762010396701	dni_asistente			0	LORETO	0		 
+18	762011336901	dni_asistente			0	PIURA	0		 
+18	762010489001	dni_asistente			0	SAN MART�N	0		 
+18	762012281001	dni_asistente			0	LIMA	0		 
+18	762012161601	dni_asistente			0	CALLAO	0		 
+18	762011336601	dni_asistente			0	PIURA	0		 
+18	762011786101	dni_asistente			0	ICA	0		 
+18	762010626901	dni_asistente			0	SAN MART�N	0		 
+18	762011534801	dni_asistente			0	LA LIBERTAD	0		 
+18	762012115301	dni_asistente			0	LIMA	0		 
+18	762011122701	dni_asistente			0	AREQUIPA	0		 
+18	762010429901	dni_asistente			0	LORETO	0		 
+18	762010525001	dni_asistente			0	SAN MART�N	0		 
+18	762011978501	dni_asistente			0	LIMA	0		 
+18	762011441001	dni_asistente			0	LA LIBERTAD	0		 
+18	762012274301	dni_asistente			0	LIMA	0		 
+18	762012312001	dni_asistente			0	LIMA	0		 
+18	762012232701	dni_asistente			0	LIMA	0		 
+18	762010832801	dni_asistente			0	AREQUIPA	0		 
+18	762011533201	dni_asistente			0	LA LIBERTAD	0		 
+18	762010006301	dni_asistente			0	LORETO	0		 
+18	762010389601	dni_asistente			0	LORETO	0		 
+18	762012161801	dni_asistente			0	CALLAO	0		 
+18	762012211601	dni_asistente			0	LIMA	0		 
+18	762010614001	dni_asistente			0	CAJAMARCA	0		 
+18	762010667301	dni_asistente			0	PUNO	0		 
+18	762012203701	dni_asistente			0	LIMA	0		 
+18	762012018501	dni_asistente			0	LIMA	0		 
+18	762011815401	dni_asistente			0	ICA	0		 
+18	762011681101	dni_asistente			0	JUN�N	0		 
+18	762010901801	dni_asistente			0	LAMBAYEQUE	0		 
+18	762011532701	dni_asistente			0	LA LIBERTAD	0		 
+18	762012217801	dni_asistente			0	LIMA	0		 
+18	762011160601	dni_asistente			0	PIURA	0		 
+18	762010516101	dni_asistente			0	UCAYALI	0		 
+18	762010210401	dni_asistente			0	UCAYALI	0		 
+18	762010054801	dni_asistente			0	SAN MART�N	0		 
+18	762010200501	dni_asistente			0	UCAYALI	0		 
+18	762011254201	dni_asistente			0	PIURA	0		 
+18	762011679401	dni_asistente			0	JUN�N	0		 
+18	762010949901	dni_asistente			0	APUR�MAC	0		 
+18	762010016801	dni_asistente			0	LORETO	0		 
+18	762010871001	dni_asistente			0	LA LIBERTAD	0		 
+18	762010680401	dni_asistente			0	PUNO	0		 
+18	762010665101	dni_asistente			0	PUNO	0		 
+18	762011869901	dni_asistente			0	�NCASH	0		 
+18	762012214701	dni_asistente			0	LIMA	0		 
+18	762012179201	dni_asistente			0	LIMA	0		 
+18	762012204601	dni_asistente			0	LIMA	0		 
+18	762012225701	dni_asistente			0	LIMA	0		 
+18	762012145301	dni_asistente			0	CALLAO	0		 
+18	762010362701	dni_asistente			0	SAN MART�N	0		 
+18	762011637501	dni_asistente			0	HUANCAVELICA	0		 
+18	762010996901	dni_asistente			0	PIURA	0		 
+18	762010773901	dni_asistente			0	AREQUIPA	0		 
+18	762010966801	dni_asistente			0	LA LIBERTAD	0		 
+18	762011858101	dni_asistente			0	ICA	0		 
+18	762011349201	dni_asistente			0	AREQUIPA	0		 
+18	762010071501	dni_asistente			0	CAJAMARCA	0		 
+18	762011402801	dni_asistente			0	TACNA	0		 
+18	762011136401	dni_asistente			0	PIURA	0		 
+18	762010454501	dni_asistente			0	LORETO	0		 
+18	762010415901	dni_asistente			0	LORETO	0		 
+18	762010878901	dni_asistente			0	LAMBAYEQUE	0		 
+18	762011717101	dni_asistente			0	HU�NUCO	0		 
+18	762010090701	dni_asistente			0	CAJAMARCA	0		 
+18	762010907901	dni_asistente			0	LAMBAYEQUE	0		 
+18	762010479701	dni_asistente			0	PUNO	0		 
+18	762011271701	dni_asistente			0	PIURA	0		 
+18	762010514601	dni_asistente			0	UCAYALI	0		 
+18	762011755501	dni_asistente			0	ICA	0		 
+18	762011724901	dni_asistente			0	HU�NUCO	0		 
+18	762011922601	dni_asistente			0	JUN�N	0		 
+18	762010119101	dni_asistente			0	CUSCO	0		 
+18	762011710901	dni_asistente			0	HU�NUCO	0		 
+18	762011449401	dni_asistente			0	LA LIBERTAD	0		 
+18	762011458901	dni_asistente			0	LA LIBERTAD	0		 
+18	762012241201	dni_asistente			0	LIMA	0		 
+18	762011664601	dni_asistente			0	JUN�N	0		 
+18	762010883701	dni_asistente			0	LAMBAYEQUE	0		 
+18	762011753301	dni_asistente			0	�NCASH	0		 
+18	762011862501	dni_asistente			0	�NCASH	0		 
+18	762012055801	dni_asistente			0	LIMA	0		 
+18	762010490301	dni_asistente			0	SAN MART�N	0		 
+18	762012246001	dni_asistente			0	LIMA	0		 
+18	762011508901	dni_asistente			0	TUMBES	0		 
+18	762010702101	dni_asistente			0	MADRE DE DIOS	0		 
+18	762010577901	dni_asistente			0	SAN MART�N	0		 
+18	762010207601	dni_asistente			0	UCAYALI	0		 
+18	762011962001	dni_asistente			0	JUN�N	0		 
+18	762011901001	dni_asistente			0	�NCASH	0		 
+18	762011604501	dni_asistente			0	ICA	0		 
+18	762011028501	dni_asistente			0	MOQUEGUA	0		 
+18	762011896301	dni_asistente			0	�NCASH	0		 
+18	762010138101	dni_asistente			0	CAJAMARCA	0		 
+18	762012302901	dni_asistente			0	LIMA	0		 
+18	762012026301	dni_asistente			0	LIMA	0		 
+18	762010120801	dni_asistente			0	CUSCO	0		 
+18	762011778601	dni_asistente			0	ICA	0		 
+18	762010703701	dni_asistente			0	MADRE DE DIOS	0		 
+18	762012133401	dni_asistente			0	CALLAO	0		 
+18	762011932001	dni_asistente			0	�NCASH	0		 
+18	762010085401	dni_asistente			0	CAJAMARCA	0		 
+18	762011448401	dni_asistente			0	LA LIBERTAD	0		 
+18	762010098801	dni_asistente			0	CAJAMARCA	0		 
+18	762010581601	dni_asistente			0	SAN MART�N	0		 
+18	762010759901	dni_asistente			0	APUR�MAC	0		 
+18	762010997901	dni_asistente			0	PIURA	0		 
+18	762010996001	dni_asistente			0	PIURA	0		 
+18	762011990901	dni_asistente			0	LIMA	0		 
+18	762011600001	dni_asistente			0	ICA	0		 
+18	762010200501	dni_asistente			0	UCAYALI	0		 
+18	762010541801	dni_asistente			0	PUNO	0		 
+18	762011521201	dni_asistente			0	TUMBES	0		 
+18	762010210601	dni_asistente			0	UCAYALI	0		 
+18	762010543801	dni_asistente			0	PUNO	0		 
+18	762010836401	dni_asistente			0	AREQUIPA	0		 
+18	762012299401	dni_asistente			0	LIMA	0		 
+18	762010122001	dni_asistente			0	CUSCO	0		 
+18	762011759801	dni_asistente			0	ICA	0		 
+18	762011435301	dni_asistente			0	LA LIBERTAD	0		 
+18	762011298101	dni_asistente			0	AREQUIPA	0		 
+18	762010624401	dni_asistente			0	SAN MART�N	0		 
+18	762010541901	dni_asistente			0	PUNO	0		 
+18	762012164501	dni_asistente			0	CALLAO	0		 
+18	762011850801	dni_asistente			0	ICA	0		 
+18	762010864201	dni_asistente			0	AREQUIPA	0		 
+18	762011989601	dni_asistente			0	LIMA	0		 
+18	762012081501	dni_asistente			0	LIMA	0		 
+18	762011564901	dni_asistente			0	�NCASH	0		 
+18	762012249701	dni_asistente			0	LIMA	0		 
+18	762011361401	dni_asistente			0	PIURA	0		 
+18	762010557201	dni_asistente			0	CUSCO	0		 
+18	762012217601	dni_asistente			0	LIMA	0		 
+18	762011977101	dni_asistente			0	LIMA	0		 
+18	762011814001	dni_asistente			0	ICA	0		 
+18	762010471101	dni_asistente			0	LORETO	0		 
+18	762011918801	dni_asistente			0	JUN�N	0		 
+18	762011282701	dni_asistente			0	PIURA	0		 
+18	762011415501	dni_asistente			0	PIURA	0		 
+18	762011513601	dni_asistente			0	TUMBES	0		 
+18	762012178101	dni_asistente			0	LIMA	0		 
+18	762010541801	dni_asistente			0	PUNO	0		 
+18	762010384501	dni_asistente			0	HU�NUCO	0		 
+18	762012154501	dni_asistente			0	CALLAO	0		 
+18	762010593701	dni_asistente			0	PUNO	0		 
+18	762011162301	dni_asistente			0	LA LIBERTAD	0		 
+18	762011600701	dni_asistente			0	ICA	0		 
+18	762011425501	dni_asistente			0	LA LIBERTAD	0		 
+18	762010258001	dni_asistente			0	CUSCO	0		 
+18	762012247701	dni_asistente			0	LIMA	0		 
+18	762011263801	dni_asistente			0	PIURA	0		 
+18	762010774101	dni_asistente			0	AREQUIPA	0		 
+18	762011874901	dni_asistente			0	�NCASH	0		 
+18	762010258401	dni_asistente			0	CUSCO	0		 
+18	762010957401	dni_asistente			0	LAMBAYEQUE	0		 
+18	762010581001	dni_asistente			0	SAN MART�N	0		 
+18	762012213901	dni_asistente			0	LIMA	0		 
+18	762012145801	dni_asistente			0	CALLAO	0		 
+18	762010418101	dni_asistente			0	LORETO	0		 
+18	762010783101	dni_asistente			0	APUR�MAC	0		 
+18	762010888201	dni_asistente			0	LAMBAYEQUE	0		 
+18	762010074001	dni_asistente			0	CAJAMARCA	0		 
+18	762012278701	dni_asistente			0	LIMA	0		 
+18	762011760701	dni_asistente			0	ICA	0		 
+18	762011815101	dni_asistente			0	ICA	0		 
+18	762011069701	dni_asistente			0	LAMBAYEQUE	0		 
+18	762010664501	dni_asistente			0	PUNO	0		 
+18	762011408001	dni_asistente			0	TACNA	0		 
+18	762012240201	dni_asistente			0	LIMA	0		 
+18	762010273801	dni_asistente			0	CAJAMARCA	0		 
+18	762010014901	dni_asistente			0	LORETO	0		 
+18	762012045501	dni_asistente			0	LIMA	0		 
+18	762010854201	dni_asistente			0	AREQUIPA	0		 
+18	762010543501	dni_asistente			0	PUNO	0		 
+18	762011214801	dni_asistente			0	AREQUIPA	0		 
+18	762011487101	dni_asistente			0	LA LIBERTAD	0		 
+18	762011127301	dni_asistente			0	MOQUEGUA	0		 
+18	762010095101	dni_asistente			0	CAJAMARCA	0		 
+18	762010114101	dni_asistente			0	CAJAMARCA	0		 
+18	762010800701	dni_asistente			0	LA LIBERTAD	0		 
+18	762011509501	dni_asistente			0	TUMBES	0		 
+18	762010874001	dni_asistente			0	LA LIBERTAD	0		 
+18	762011850301	dni_asistente			0	ICA	0		 
+18	762011051901	dni_asistente			0	CUSCO	0		 
+18	762012128201	dni_asistente			0	CALLAO	0		 
+18	762010537701	dni_asistente			0	HU�NUCO	0		 
+18	762010248101	dni_asistente			0	CUSCO	0		 
+18	762011147201	dni_asistente			0	PIURA	0		 
+18	762012292301	dni_asistente			0	LIMA	0		 
+18	762010393101	dni_asistente			0	LORETO	0		 
+18	762011353201	dni_asistente			0	AREQUIPA	0		 
+18	762011402101	dni_asistente			0	TACNA	0		 
+18	762010829101	dni_asistente			0	AREQUIPA	0		 
+18	762010198001	dni_asistente			0	UCAYALI	0		 
+18	762010162301	dni_asistente			0	CAJAMARCA	0		 
+18	762011983701	dni_asistente			0	LIMA	0		 
+18	762011417501	dni_asistente			0	PIURA	0		 
+18	762010234801	dni_asistente			0	CUSCO	0		 
+18	762010519401	dni_asistente			0	UCAYALI	0		 
+18	762011294001	dni_asistente			0	PIURA	0		 
+18	762012299501	dni_asistente			0	LIMA	0		 
+18	762010469601	dni_asistente			0	LORETO	0		 
+18	762010286001	dni_asistente			0	LORETO	0		 
+18	762011824501	dni_asistente			0	HU�NUCO	0		 
+18	762010823401	dni_asistente			0	AREQUIPA	0		 
+18	762011610101	dni_asistente			0	JUN�N	0		 
+18	762011124001	dni_asistente			0	MOQUEGUA	0		 
+18	762012136401	dni_asistente			0	CALLAO	0		 
+18	762012092501	dni_asistente			0	LIMA	0		 
+18	762011575201	dni_asistente			0	JUN�N	0		 
+18	762012309801	dni_asistente			0	LIMA	0		 
+18	762011081301	dni_asistente			0	LAMBAYEQUE	0		 
+18	762010740801	dni_asistente			0	AMAZONAS	0		 
+18	762011881001	dni_asistente			0	�NCASH	0		 
+18	762012013501	dni_asistente			0	LIMA	0		 
+18	762011900001	dni_asistente			0	�NCASH	0		 
+18	762010432401	dni_asistente			0	LORETO	0		 
+18	762012273301	dni_asistente			0	LIMA	0		 
+18	762011440501	dni_asistente			0	LA LIBERTAD	0		 
+18	762010786901	dni_asistente			0	AREQUIPA	0		 
+18	762011415901	dni_asistente			0	PIURA	0		 
+18	762010425801	dni_asistente			0	LORETO	0		 
+18	762010112901	dni_asistente			0	CAJAMARCA	0		 
+18	762012051201	dni_asistente			0	LIMA	0		 
+18	762010003501	dni_asistente			0	LORETO	0		 
+18	762010715201	dni_asistente			0	SAN MART�N	0		 
+18	762010012601	dni_asistente			0	LORETO	0		 
+18	762010882001	dni_asistente			0	LAMBAYEQUE	0		 
+18	762010838701	dni_asistente			0	AREQUIPA	0		 
+18	762011458701	dni_asistente			0	LA LIBERTAD	0		 
+18	762011857901	dni_asistente			0	ICA	0		 
+18	762012287801	dni_asistente			0	LIMA	0		 
+18	762010982901	dni_asistente			0	AYACUCHO	0		 
+18	762011585001	dni_asistente			0	JUN�N	0		 
+18	762010337501	dni_asistente			0	CAJAMARCA	0		 
+18	762011732601	dni_asistente			0	�NCASH	0		 
+18	762011038701	dni_asistente			0	AREQUIPA	0		 
+18	762011308901	dni_asistente			0	LA LIBERTAD	0		 
+18	762011245501	dni_asistente			0	PIURA	0		 
+18	762010585001	dni_asistente			0	SAN MART�N	0		 
+18	762010219301	dni_asistente			0	UCAYALI	0		 
+18	762010755701	dni_asistente			0	PUNO	0		 
+18	762010745701	dni_asistente			0	AMAZONAS	0		 
+18	762011978001	dni_asistente			0	LIMA	0		 
+18	762011282901	dni_asistente			0	PIURA	0		 
+18	762011963401	dni_asistente			0	�NCASH	0		 
+18	762010515801	dni_asistente			0	UCAYALI	0		 
+18	762011529201	dni_asistente			0	LA LIBERTAD	0		 
+18	762012197201	dni_asistente			0	LIMA	0		 
+18	762011756401	dni_asistente			0	ICA	0		 
+18	762010920201	dni_asistente			0	LAMBAYEQUE	0		 
+18	762010538401	dni_asistente			0	HU�NUCO	0		 
+18	762011057001	dni_asistente			0	AREQUIPA	0		 
+18	762011053201	dni_asistente			0	CUSCO	0		 
+18	762010305801	dni_asistente			0	CAJAMARCA	0		 
+18	762011274201	dni_asistente			0	PIURA	0		 
+18	762010990001	dni_asistente			0	AYACUCHO	0		 
+18	762012127801	dni_asistente			0	CALLAO	0		 
+18	762010040001	dni_asistente			0	PUNO	0		 
+18	762011010701	dni_asistente			0	PIURA	0		 
+18	762010436001	dni_asistente			0	LORETO	0		 
+18	762012178801	dni_asistente			0	LIMA	0		 
+18	762011949301	dni_asistente			0	HUANCAVELICA	0		 
+18	762011513901	dni_asistente			0	TUMBES	0		 
+18	762012165201	dni_asistente			0	CALLAO	0		 
+18	762010591801	dni_asistente			0	PUNO	0		 
+18	762010805601	dni_asistente			0	LA LIBERTAD	0		 
+18	762011615901	dni_asistente			0	JUN�N	0		 
+18	762011742201	dni_asistente			0	�NCASH	0		 
+18	762012138501	dni_asistente			0	CALLAO	0		 
+18	762010640901	dni_asistente			0	CAJAMARCA	0		 
+18	762011453901	dni_asistente			0	LA LIBERTAD	0		 
+18	762010544201	dni_asistente			0	PUNO	0		 
+18	762010519901	dni_asistente			0	UCAYALI	0		 
+18	762010404801	dni_asistente			0	SAN MART�N	0		 
+18	762010929501	dni_asistente			0	LAMBAYEQUE	0		 
+18	762011881401	dni_asistente			0	�NCASH	0		 
+18	762012264301	dni_asistente			0	LIMA	0		 
+18	762011521201	dni_asistente			0	TUMBES	0		 
+18	762010677201	dni_asistente			0	PUNO	0		 
+18	762011123601	dni_asistente			0	AREQUIPA	0		 
+18	762011028501	dni_asistente			0	MOQUEGUA	0		 
+18	762010218201	dni_asistente			0	UCAYALI	0		 
+18	762011133601	dni_asistente			0	PIURA	0		 
+18	762010803401	dni_asistente			0	LA LIBERTAD	0		 
+18	762011036101	dni_asistente			0	AREQUIPA	0		 
+18	762011213101	dni_asistente			0	AREQUIPA	0		 
+18	762011714901	dni_asistente			0	HU�NUCO	0		 
+18	762011155201	dni_asistente			0	PIURA	0		 
+18	762010312001	dni_asistente			0	CAJAMARCA	0		 
+18	762011567701	dni_asistente			0	JUN�N	0		 
+18	762011649801	dni_asistente			0	JUN�N	0		 
+18	762010179901	dni_asistente			0	CAJAMARCA	0		 
+18	762011505501	dni_asistente			0	LA LIBERTAD	0		 
+18	762012194801	dni_asistente			0	LIMA	0		 
+18	762011690001	dni_asistente			0	JUN�N	0		 
+18	762010849401	dni_asistente			0	AREQUIPA	0		 
+18	762011617901	dni_asistente			0	HUANCAVELICA	0		 
+18	762011303201	dni_asistente			0	LA LIBERTAD	0		 
+18	762010958401	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762012109001	dni_autoridad			0	LIMA	0		 
+18	762011982001	dni_autoridad			0	LIMA	0		 
+18	762010062401	dni_autoridad			0	CAJAMARCA	0		 
+18	762010860601	dni_autoridad			0	AREQUIPA	0		 
+18	762010202201	dni_autoridad			0	UCAYALI	0		 
+18	762011089701	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762010424801	dni_autoridad			0	LORETO	0		 
+18	762011995401	dni_autoridad			0	LIMA	0		 
+18	762011066701	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762010501601	dni_autoridad			0	AMAZONAS	0		 
+18	762010343201	dni_autoridad			0	CAJAMARCA	0		 
+18	762010288101	dni_autoridad			0	PUNO	0		 
+18	762011690701	dni_autoridad			0	JUN�N	0		 
+18	762012308901	dni_autoridad			0	LIMA	0		 
+18	762010331101	dni_autoridad			0	CAJAMARCA	0		 
+18	762011986001	dni_autoridad			0	LIMA	0		 
+18	762010465601	dni_autoridad			0	LORETO	0		 
+18	762012302701	dni_autoridad			0	LIMA	0		 
+18	762010221601	dni_autoridad			0	UCAYALI	0		 
+18	762010081401	dni_autoridad			0	CAJAMARCA	0		 
+18	762010215401	dni_autoridad			0	UCAYALI	0		 
+18	762011482301	dni_autoridad			0	LA LIBERTAD	0		 
+18	762010395601	dni_autoridad			0	LORETO	0		 
+18	762010522701	dni_autoridad			0	CUSCO	0		 
+18	762010868001	dni_autoridad			0	AREQUIPA	0		 
+18	762011742901	dni_autoridad			0	�NCASH	0		 
+18	762011095301	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762011547801	dni_autoridad			0	HU�NUCO	0		 
+18	762011785501	dni_autoridad			0	ICA	0		 
+18	762010534701	dni_autoridad			0	HU�NUCO	0		 
+18	762011613601	dni_autoridad			0	JUN�N	0		 
+18	762011735901	dni_autoridad			0	�NCASH	0		 
+18	762011376801	dni_autoridad			0	PIURA	0		 
+18	762010634201	dni_autoridad			0	SAN MART�N	0		 
+18	762012093201	dni_autoridad			0	LIMA	0		 
+18	762012084301	dni_autoridad			0	LIMA	0		 
+18	762010487501	dni_autoridad			0	SAN MART�N	0		 
+18	762010610601	dni_autoridad			0	CAJAMARCA	0		 
+18	762012081401	dni_autoridad			0	LIMA	0		 
+18	762010420301	dni_autoridad			0	LORETO	0		 
+18	762011771901	dni_autoridad			0	ICA	0		 
+18	762011259901	dni_autoridad			0	PIURA	0		 
+18	762011837401	dni_autoridad			0	PASCO	0		 
+18	762011111201	dni_autoridad			0	AREQUIPA	0		 
+18	762011901001	dni_autoridad			0	�NCASH	0		 
+18	762010651401	dni_autoridad			0	PUNO	0		 
+18	762010868201	dni_autoridad			0	AREQUIPA	0		 
+18	762011263701	dni_autoridad			0	PIURA	0		 
+18	762010858801	dni_autoridad			0	AREQUIPA	0		 
+18	762010401601	dni_autoridad			0	AMAZONAS	0		 
+18	762010203301	dni_autoridad			0	UCAYALI	0		 
+18	762011086701	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762012142101	dni_autoridad			0	CALLAO	0		 
+18	762010548601	dni_autoridad			0	PUNO	0		 
+18	762011629601	dni_autoridad			0	HU�NUCO	0		 
+18	762011780301	dni_autoridad			0	ICA	0		 
+18	762012085301	dni_autoridad			0	LIMA	0		 
+18	762011380701	dni_autoridad			0	PIURA	0		 
+18	762012056301	dni_autoridad			0	LIMA	0		 
+18	762011026501	dni_autoridad			0	MOQUEGUA	0		 
+18	762012117501	dni_autoridad			0	LIMA	0		 
+18	762011925201	dni_autoridad			0	JUN�N	0		 
+18	762011745101	dni_autoridad			0	�NCASH	0		 
+18	762011668601	dni_autoridad			0	JUN�N	0		 
+18	762010109501	dni_autoridad			0	CAJAMARCA	0		 
+18	762010371301	dni_autoridad			0	HU�NUCO	0		 
+18	762010585101	dni_autoridad			0	SAN MART�N	0		 
+18	762010981001	dni_autoridad			0	AYACUCHO	0		 
+18	762012081501	dni_autoridad			0	LIMA	0		 
+18	762010697401	dni_autoridad			0	MADRE DE DIOS	0		 
+18	762011425001	dni_autoridad			0	PIURA	0		 
+18	762010912401	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762011361201	dni_autoridad			0	PIURA	0		 
+18	762012015701	dni_autoridad			0	LIMA	0		 
+18	762011205901	dni_autoridad			0	LA LIBERTAD	0		 
+18	762010490401	dni_autoridad			0	SAN MART�N	0		 
+18	762011682701	dni_autoridad			0	JUN�N	0		 
+18	762011122401	dni_autoridad			0	AREQUIPA	0		 
+18	762011705601	dni_autoridad			0	HU�NUCO	0		 
+18	762010529101	dni_autoridad			0	SAN MART�N	0		 
+18	762010787401	dni_autoridad			0	AREQUIPA	0		 
+18	762010612001	dni_autoridad			0	CAJAMARCA	0		 
+18	762011505901	dni_autoridad			0	LA LIBERTAD	0		 
+18	762010696101	dni_autoridad			0	MADRE DE DIOS	0		 
+18	762010152701	dni_autoridad			0	CAJAMARCA	0		 
+18	762012038201	dni_autoridad			0	LIMA	0		 
+18	762011464901	dni_autoridad			0	LA LIBERTAD	0		 
+18	762011938001	dni_autoridad			0	JUN�N	0		 
+18	762010642901	dni_autoridad			0	CAJAMARCA	0		 
+18	762012252701	dni_autoridad			0	LIMA	0		 
+18	762010048501	dni_autoridad			0	SAN MART�N	0		 
+18	762012275701	dni_autoridad			0	LIMA	0		 
+18	762011126901	dni_autoridad			0	MOQUEGUA	0		 
+18	762010629901	dni_autoridad			0	SAN MART�N	0		 
+18	762011196601	dni_autoridad			0	LA LIBERTAD	0		 
+18	762010677301	dni_autoridad			0	PUNO	0		 
+18	762010448801	dni_autoridad			0	LORETO	0		 
+18	762010817901	dni_autoridad			0	PIURA	0		 
+18	762010616801	dni_autoridad			0	CAJAMARCA	0		 
+18	762010591101	dni_autoridad			0	PUNO	0		 
+18	762010715001	dni_autoridad			0	SAN MART�N	0		 
+18	762011325301	dni_autoridad			0	LA LIBERTAD	0		 
+18	762011990301	dni_autoridad			0	LIMA	0		 
+18	762010104801	dni_autoridad			0	CAJAMARCA	0		 
+18	762012269601	dni_autoridad			0	LIMA	0		 
+18	762011228801	dni_autoridad			0	PIURA	0		 
+18	762011679301	dni_autoridad			0	JUN�N	0		 
+18	762012231901	dni_autoridad			0	LIMA	0		 
+18	762010545201	dni_autoridad			0	PUNO	0		 
+18	762012081801	dni_autoridad			0	LIMA	0		 
+18	762012062201	dni_autoridad			0	LIMA	0		 
+18	762010453501	dni_autoridad			0	LORETO	0		 
+18	762011109401	dni_autoridad			0	AREQUIPA	0		 
+18	762011809601	dni_autoridad			0	ICA	0		 
+18	762011094801	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762010939101	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762010128901	dni_autoridad			0	CUSCO	0		 
+18	762010913201	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762011119701	dni_autoridad			0	AREQUIPA	0		 
+18	762012085601	dni_autoridad			0	LIMA	0		 
+18	762012254601	dni_autoridad			0	LIMA	0		 
+18	762011074901	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762010341001	dni_autoridad			0	CAJAMARCA	0		 
+18	762012205101	dni_autoridad			0	LIMA	0		 
+18	762011536001	dni_autoridad			0	LA LIBERTAD	0		 
+18	762011431501	dni_autoridad			0	LA LIBERTAD	0		 
+18	762012151501	dni_autoridad			0	CALLAO	0		 
+18	762010939601	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762010454401	dni_autoridad			0	LORETO	0		 
+18	762011581501	dni_autoridad			0	JUN�N	0		 
+18	762010325701	dni_autoridad			0	CAJAMARCA	0		 
+18	762012089201	dni_autoridad			0	LIMA	0		 
+18	762010236101	dni_autoridad			0	CUSCO	0		 
+18	762010048501	dni_autoridad			0	SAN MART�N	0		 
+18	762011577101	dni_autoridad			0	JUN�N	0		 
+18	762011491501	dni_autoridad			0	LA LIBERTAD	0		 
+18	762010257101	dni_autoridad			0	CUSCO	0		 
+18	762010863701	dni_autoridad			0	AREQUIPA	0		 
+18	762011936401	dni_autoridad			0	JUN�N	0		 
+18	762010572901	dni_autoridad			0	SAN MART�N	0		 
+18	762011506301	dni_autoridad			0	LA LIBERTAD	0		 
+18	762011310301	dni_autoridad			0	LA LIBERTAD	0		 
+18	762010971601	dni_autoridad			0	APUR�MAC	0		 
+18	762010745601	dni_autoridad			0	AMAZONAS	0		 
+18	762011411801	dni_autoridad			0	PIURA	0		 
+18	762010184301	dni_autoridad			0	UCAYALI	0		 
+18	762010853601	dni_autoridad			0	AREQUIPA	0		 
+18	762011869701	dni_autoridad			0	�NCASH	0		 
+18	762010921101	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762010778901	dni_autoridad			0	APUR�MAC	0		 
+18	762010118301	dni_autoridad			0	CUSCO	0		 
+18	762011813601	dni_autoridad			0	ICA	0		 
+18	762011510201	dni_autoridad			0	TUMBES	0		 
+18	762011196001	dni_autoridad			0	LA LIBERTAD	0		 
+18	762010644901	dni_autoridad			0	CAJAMARCA	0		 
+18	762011586801	dni_autoridad			0	ICA	0		 
+18	762011601101	dni_autoridad			0	ICA	0		 
+18	762011151901	dni_autoridad			0	PIURA	0		 
+18	762012285801	dni_autoridad			0	LIMA	0		 
+18	762011943001	dni_autoridad			0	JUN�N	0		 
+18	762010115701	dni_autoridad			0	CAJAMARCA	0		 
+18	762012086401	dni_autoridad			0	LIMA	0		 
+18	762010302001	dni_autoridad			0	CUSCO	0		 
+18	762010250301	dni_autoridad			0	CUSCO	0		 
+18	762011181401	dni_autoridad			0	PIURA	0		 
+18	762010427501	dni_autoridad			0	LORETO	0		 
+18	762011227701	dni_autoridad			0	PIURA	0		 
+18	762010999901	dni_autoridad			0	PIURA	0		 
+18	762011076101	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762011672501	dni_autoridad			0	JUN�N	0		 
+18	762012279701	dni_autoridad			0	LIMA	0		 
+18	762010119301	dni_autoridad			0	CUSCO	0		 
+18	762010108401	dni_autoridad			0	CAJAMARCA	0		 
+18	762011544701	dni_autoridad			0	TUMBES	0		 
+18	762012041201	dni_autoridad			0	LIMA	0		 
+18	762012245801	dni_autoridad			0	LIMA	0		 
+18	762010171001	dni_autoridad			0	PUNO	0		 
+18	762012292301	dni_autoridad			0	LIMA	0		 
+18	762011850901	dni_autoridad			0	ICA	0		 
+18	762011970901	dni_autoridad			0	LIMA	0		 
+18	762011244501	dni_autoridad			0	PIURA	0		 
+18	762012014001	dni_autoridad			0	LIMA	0		 
+18	762010104001	dni_autoridad			0	CAJAMARCA	0		 
+18	762010566501	dni_autoridad			0	LORETO	0		 
+18	762010392701	dni_autoridad			0	LORETO	0		 
+18	762010109801	dni_autoridad			0	CAJAMARCA	0		 
+18	762012220001	dni_autoridad			0	LIMA	0		 
+18	762012137601	dni_autoridad			0	CALLAO	0		 
+18	762010473301	dni_autoridad			0	LORETO	0		 
+18	762011703801	dni_autoridad			0	HU�NUCO	0		 
+18	762010019201	dni_autoridad			0	CUSCO	0		 
+18	762010480501	dni_autoridad			0	PUNO	0		 
+18	762012223601	dni_autoridad			0	LIMA	0		 
+18	762012287801	dni_autoridad			0	LIMA	0		 
+18	762010413601	dni_autoridad			0	LORETO	0		 
+18	762010446601	dni_autoridad			0	LORETO	0		 
+18	762010347701	dni_autoridad			0	CUSCO	0		 
+18	762010627601	dni_autoridad			0	SAN MART�N	0		 
+18	762011024201	dni_autoridad			0	AYACUCHO	0		 
+18	762011566401	dni_autoridad			0	�NCASH	0		 
+18	762012033701	dni_autoridad			0	LIMA	0		 
+18	762011935101	dni_autoridad			0	JUN�N	0		 
+18	762010997101	dni_autoridad			0	PIURA	0		 
+18	762010008201	dni_autoridad			0	LORETO	0		 
+18	762011788601	dni_autoridad			0	JUN�N	0		 
+18	762010660001	dni_autoridad			0	PUNO	0		 
+18	762011426701	dni_autoridad			0	LA LIBERTAD	0		 
+18	762010573001	dni_autoridad			0	SAN MART�N	0		 
+18	762011098401	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762011558401	dni_autoridad			0	�NCASH	0		 
+18	762012237901	dni_autoridad			0	LIMA	0		 
+18	762010836901	dni_autoridad			0	AREQUIPA	0		 
+18	762010818101	dni_autoridad			0	PIURA	0		 
+18	762011564001	dni_autoridad			0	�NCASH	0		 
+18	762010894101	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762012269101	dni_autoridad			0	LIMA	0		 
+18	762010807301	dni_autoridad			0	PIURA	0		 
+18	762010048701	dni_autoridad			0	SAN MART�N	0		 
+18	762010632301	dni_autoridad			0	SAN MART�N	0		 
+18	762012161501	dni_autoridad			0	CALLAO	0		 
+18	762010265701	dni_autoridad			0	CAJAMARCA	0		 
+18	762011197401	dni_autoridad			0	LA LIBERTAD	0		 
+18	762010555401	dni_autoridad			0	CUSCO	0		 
+18	762012034501	dni_autoridad			0	LIMA	0		 
+18	762011713301	dni_autoridad			0	HU�NUCO	0		 
+18	762010992201	dni_autoridad			0	AYACUCHO	0		 
+18	762010227201	dni_autoridad			0	CUSCO	0		 
+18	762011970801	dni_autoridad			0	LIMA	0		 
+18	762010294601	dni_autoridad			0	SAN MART�N	0		 
+18	762012081001	dni_autoridad			0	LIMA	0		 
+18	762011795601	dni_autoridad			0	JUN�N	0		 
+18	762010128501	dni_autoridad			0	CUSCO	0		 
+18	762010532001	dni_autoridad			0	SAN MART�N	0		 
+18	762010522701	dni_autoridad			0	CUSCO	0		 
+18	762011970301	dni_autoridad			0	LIMA	0		 
+18	762010411501	dni_autoridad			0	SAN MART�N	0		 
+18	762010630901	dni_autoridad			0	SAN MART�N	0		 
+18	762011114401	dni_autoridad			0	AREQUIPA	0		 
+18	762010964601	dni_autoridad			0	AREQUIPA	0		 
+18	762011284101	dni_autoridad			0	PIURA	0		 
+18	762010906901	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762011249601	dni_autoridad			0	PIURA	0		 
+18	762011455001	dni_autoridad			0	LA LIBERTAD	0		 
+18	762012114601	dni_autoridad			0	LIMA	0		 
+18	762011325301	dni_autoridad			0	LA LIBERTAD	0		 
+18	762011528401	dni_autoridad			0	LA LIBERTAD	0		 
+18	762011076701	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762011716101	dni_autoridad			0	HU�NUCO	0		 
+18	762011087901	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762010188901	dni_autoridad			0	UCAYALI	0		 
+18	762011172901	dni_autoridad			0	LA LIBERTAD	0		 
+18	762010776001	dni_autoridad			0	AREQUIPA	0		 
+18	762010218701	dni_autoridad			0	UCAYALI	0		 
+18	762011684201	dni_autoridad			0	JUN�N	0		 
+18	762010078301	dni_autoridad			0	CAJAMARCA	0		 
+18	762012249201	dni_autoridad			0	LIMA	0		 
+18	762012219801	dni_autoridad			0	LIMA	0		 
+18	762011733601	dni_autoridad			0	�NCASH	0		 
+18	762011699701	dni_autoridad			0	HU�NUCO	0		 
+18	762012200101	dni_autoridad			0	LIMA	0		 
+18	762011488001	dni_autoridad			0	LA LIBERTAD	0		 
+18	762011597901	dni_autoridad			0	ICA	0		 
+18	762011665601	dni_autoridad			0	JUN�N	0		 
+18	762010798101	dni_autoridad			0	LA LIBERTAD	0		 
+18	762011807201	dni_autoridad			0	HU�NUCO	0		 
+18	762010689201	dni_autoridad			0	CAJAMARCA	0		 
+18	762011060701	dni_autoridad			0	AYACUCHO	0		 
+18	762010844101	dni_autoridad			0	AREQUIPA	0		 
+18	762011867301	dni_autoridad			0	�NCASH	0		 
+18	762011224001	dni_autoridad			0	PIURA	0		 
+18	762010050101	dni_autoridad			0	SAN MART�N	0		 
+18	762012075001	dni_autoridad			0	LIMA	0		 
+18	762010928701	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762010435301	dni_autoridad			0	LORETO	0		 
+18	762010347101	dni_autoridad			0	CAJAMARCA	0		 
+18	762010371801	dni_autoridad			0	HU�NUCO	0		 
+18	762011345201	dni_autoridad			0	PIURA	0		 
+18	762011774801	dni_autoridad			0	ICA	0		 
+18	762011547801	dni_autoridad			0	HU�NUCO	0		 
+18	762010101601	dni_autoridad			0	CAJAMARCA	0		 
+18	762010039001	dni_autoridad			0	PUNO	0		 
+18	762012145301	dni_autoridad			0	CALLAO	0		 
+18	762011245001	dni_autoridad			0	PIURA	0		 
+18	762010105901	dni_autoridad			0	CAJAMARCA	0		 
+18	762011119601	dni_autoridad			0	AREQUIPA	0		 
+18	762011834701	dni_autoridad			0	PASCO	0		 
+18	762011805501	dni_autoridad			0	HU�NUCO	0		 
+18	762011016801	dni_autoridad			0	AYACUCHO	0		 
+18	762010366101	dni_autoridad			0	SAN MART�N	0		 
+18	762011113901	dni_autoridad			0	AREQUIPA	0		 
+18	762010106401	dni_autoridad			0	CAJAMARCA	0		 
+18	762011161901	dni_autoridad			0	LA LIBERTAD	0		 
+18	762011038601	dni_autoridad			0	AREQUIPA	0		 
+18	762011222601	dni_autoridad			0	PIURA	0		 
+18	762010882501	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762011107501	dni_autoridad			0	AREQUIPA	0		 
+18	762011699501	dni_autoridad			0	HU�NUCO	0		 
+18	762010316101	dni_autoridad			0	SAN MART�N	0		 
+18	762011626801	dni_autoridad			0	PASCO	0		 
+18	762011984801	dni_autoridad			0	LIMA	0		 
+18	762010245301	dni_autoridad			0	CUSCO	0		 
+18	762012038201	dni_autoridad			0	LIMA	0		 
+18	762010747301	dni_autoridad			0	AMAZONAS	0		 
+18	762011982201	dni_autoridad			0	LIMA	0		 
+18	762011177101	dni_autoridad			0	LA LIBERTAD	0		 
+18	762011795701	dni_autoridad			0	JUN�N	0		 
+18	762011222401	dni_autoridad			0	PIURA	0		 
+18	762010215401	dni_autoridad			0	UCAYALI	0		 
+18	762010867201	dni_autoridad			0	AREQUIPA	0		 
+18	762012078101	dni_autoridad			0	LIMA	0		 
+18	762012248501	dni_autoridad			0	LIMA	0		 
+18	762010087301	dni_autoridad			0	CAJAMARCA	0		 
+18	762010605201	dni_autoridad			0	CAJAMARCA	0		 
+18	762011347201	dni_autoridad			0	AREQUIPA	0		 
+18	762011809301	dni_autoridad			0	ICA	0		 
+18	762010884501	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762011145101	dni_autoridad			0	PIURA	0		 
+18	762012013201	dni_autoridad			0	LIMA	0		 
+18	762012233401	dni_autoridad			0	LIMA	0		 
+18	762010427101	dni_autoridad			0	LORETO	0		 
+18	762011554101	dni_autoridad			0	HUANCAVELICA	0		 
+18	762012294101	dni_autoridad			0	LIMA	0		 
+18	762010935101	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762012318801	dni_autoridad			0	LIMA	0		 
+18	762011305201	dni_autoridad			0	LA LIBERTAD	0		 
+18	762010396701	dni_autoridad			0	LORETO	0		 
+18	762011336901	dni_autoridad			0	PIURA	0		 
+18	762010489001	dni_autoridad			0	SAN MART�N	0		 
+18	762012281001	dni_autoridad			0	LIMA	0		 
+18	762012161601	dni_autoridad			0	CALLAO	0		 
+18	762011336601	dni_autoridad			0	PIURA	0		 
+18	762011786101	dni_autoridad			0	ICA	0		 
+18	762010626901	dni_autoridad			0	SAN MART�N	0		 
+18	762011534801	dni_autoridad			0	LA LIBERTAD	0		 
+18	762012115301	dni_autoridad			0	LIMA	0		 
+18	762011122701	dni_autoridad			0	AREQUIPA	0		 
+18	762010429901	dni_autoridad			0	LORETO	0		 
+18	762010525001	dni_autoridad			0	SAN MART�N	0		 
+18	762011978501	dni_autoridad			0	LIMA	0		 
+18	762011441001	dni_autoridad			0	LA LIBERTAD	0		 
+18	762012274301	dni_autoridad			0	LIMA	0		 
+18	762012312001	dni_autoridad			0	LIMA	0		 
+18	762012232701	dni_autoridad			0	LIMA	0		 
+18	762010832801	dni_autoridad			0	AREQUIPA	0		 
+18	762011533201	dni_autoridad			0	LA LIBERTAD	0		 
+18	762010006301	dni_autoridad			0	LORETO	0		 
+18	762010389601	dni_autoridad			0	LORETO	0		 
+18	762012161801	dni_autoridad			0	CALLAO	0		 
+18	762012211601	dni_autoridad			0	LIMA	0		 
+18	762010614001	dni_autoridad			0	CAJAMARCA	0		 
+18	762010667301	dni_autoridad			0	PUNO	0		 
+18	762012203701	dni_autoridad			0	LIMA	0		 
+18	762012018501	dni_autoridad			0	LIMA	0		 
+18	762011815401	dni_autoridad			0	ICA	0		 
+18	762011681101	dni_autoridad			0	JUN�N	0		 
+18	762010901801	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762011532701	dni_autoridad			0	LA LIBERTAD	0		 
+18	762012217801	dni_autoridad			0	LIMA	0		 
+18	762011160601	dni_autoridad			0	PIURA	0		 
+18	762010516101	dni_autoridad			0	UCAYALI	0		 
+18	762010210401	dni_autoridad			0	UCAYALI	0		 
+18	762010054801	dni_autoridad			0	SAN MART�N	0		 
+18	762010200501	dni_autoridad			0	UCAYALI	0		 
+18	762011254201	dni_autoridad			0	PIURA	0		 
+18	762011679401	dni_autoridad			0	JUN�N	0		 
+18	762010949901	dni_autoridad			0	APUR�MAC	0		 
+18	762010016801	dni_autoridad			0	LORETO	0		 
+18	762010871001	dni_autoridad			0	LA LIBERTAD	0		 
+18	762010680401	dni_autoridad			0	PUNO	0		 
+18	762010665101	dni_autoridad			0	PUNO	0		 
+18	762011869901	dni_autoridad			0	�NCASH	0		 
+18	762012214701	dni_autoridad			0	LIMA	0		 
+18	762012179201	dni_autoridad			0	LIMA	0		 
+18	762012204601	dni_autoridad			0	LIMA	0		 
+18	762012225701	dni_autoridad			0	LIMA	0		 
+18	762012145301	dni_autoridad			0	CALLAO	0		 
+18	762010362701	dni_autoridad			0	SAN MART�N	0		 
+18	762011637501	dni_autoridad			0	HUANCAVELICA	0		 
+18	762010996901	dni_autoridad			0	PIURA	0		 
+18	762010773901	dni_autoridad			0	AREQUIPA	0		 
+18	762010966801	dni_autoridad			0	LA LIBERTAD	0		 
+18	762011858101	dni_autoridad			0	ICA	0		 
+18	762011349201	dni_autoridad			0	AREQUIPA	0		 
+18	762010071501	dni_autoridad			0	CAJAMARCA	0		 
+18	762011402801	dni_autoridad			0	TACNA	0		 
+18	762011136401	dni_autoridad			0	PIURA	0		 
+18	762010454501	dni_autoridad			0	LORETO	0		 
+18	762010415901	dni_autoridad			0	LORETO	0		 
+18	762010878901	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762011717101	dni_autoridad			0	HU�NUCO	0		 
+18	762010090701	dni_autoridad			0	CAJAMARCA	0		 
+18	762010907901	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762010479701	dni_autoridad			0	PUNO	0		 
+18	762011271701	dni_autoridad			0	PIURA	0		 
+18	762010514601	dni_autoridad			0	UCAYALI	0		 
+18	762011755501	dni_autoridad			0	ICA	0		 
+18	762011724901	dni_autoridad			0	HU�NUCO	0		 
+18	762011922601	dni_autoridad			0	JUN�N	0		 
+18	762010119101	dni_autoridad			0	CUSCO	0		 
+18	762011710901	dni_autoridad			0	HU�NUCO	0		 
+18	762011449401	dni_autoridad			0	LA LIBERTAD	0		 
+18	762011458901	dni_autoridad			0	LA LIBERTAD	0		 
+18	762012241201	dni_autoridad			0	LIMA	0		 
+18	762011664601	dni_autoridad			0	JUN�N	0		 
+18	762010883701	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762011753301	dni_autoridad			0	�NCASH	0		 
+18	762011862501	dni_autoridad			0	�NCASH	0		 
+18	762012055801	dni_autoridad			0	LIMA	0		 
+18	762010490301	dni_autoridad			0	SAN MART�N	0		 
+18	762012246001	dni_autoridad			0	LIMA	0		 
+18	762011508901	dni_autoridad			0	TUMBES	0		 
+18	762010702101	dni_autoridad			0	MADRE DE DIOS	0		 
+18	762010577901	dni_autoridad			0	SAN MART�N	0		 
+18	762010207601	dni_autoridad			0	UCAYALI	0		 
+18	762011962001	dni_autoridad			0	JUN�N	0		 
+18	762011901001	dni_autoridad			0	�NCASH	0		 
+18	762011604501	dni_autoridad			0	ICA	0		 
+18	762011028501	dni_autoridad			0	MOQUEGUA	0		 
+18	762011896301	dni_autoridad			0	�NCASH	0		 
+18	762010138101	dni_autoridad			0	CAJAMARCA	0		 
+18	762012302901	dni_autoridad			0	LIMA	0		 
+18	762012026301	dni_autoridad			0	LIMA	0		 
+18	762010120801	dni_autoridad			0	CUSCO	0		 
+18	762011778601	dni_autoridad			0	ICA	0		 
+18	762010703701	dni_autoridad			0	MADRE DE DIOS	0		 
+18	762012133401	dni_autoridad			0	CALLAO	0		 
+18	762011932001	dni_autoridad			0	�NCASH	0		 
+18	762010085401	dni_autoridad			0	CAJAMARCA	0		 
+18	762011448401	dni_autoridad			0	LA LIBERTAD	0		 
+18	762010098801	dni_autoridad			0	CAJAMARCA	0		 
+18	762010581601	dni_autoridad			0	SAN MART�N	0		 
+18	762010759901	dni_autoridad			0	APUR�MAC	0		 
+18	762010997901	dni_autoridad			0	PIURA	0		 
+18	762010996001	dni_autoridad			0	PIURA	0		 
+18	762011990901	dni_autoridad			0	LIMA	0		 
+18	762011600001	dni_autoridad			0	ICA	0		 
+18	762010200501	dni_autoridad			0	UCAYALI	0		 
+18	762010541801	dni_autoridad			0	PUNO	0		 
+18	762011521201	dni_autoridad			0	TUMBES	0		 
+18	762010210601	dni_autoridad			0	UCAYALI	0		 
+18	762010543801	dni_autoridad			0	PUNO	0		 
+18	762010836401	dni_autoridad			0	AREQUIPA	0		 
+18	762012299401	dni_autoridad			0	LIMA	0		 
+18	762010122001	dni_autoridad			0	CUSCO	0		 
+18	762011759801	dni_autoridad			0	ICA	0		 
+18	762011435301	dni_autoridad			0	LA LIBERTAD	0		 
+18	762011298101	dni_autoridad			0	AREQUIPA	0		 
+18	762010624401	dni_autoridad			0	SAN MART�N	0		 
+18	762010541901	dni_autoridad			0	PUNO	0		 
+18	762012164501	dni_autoridad			0	CALLAO	0		 
+18	762011850801	dni_autoridad			0	ICA	0		 
+18	762010864201	dni_autoridad			0	AREQUIPA	0		 
+18	762011989601	dni_autoridad			0	LIMA	0		 
+18	762012081501	dni_autoridad			0	LIMA	0		 
+18	762011564901	dni_autoridad			0	�NCASH	0		 
+18	762012249701	dni_autoridad			0	LIMA	0		 
+18	762011361401	dni_autoridad			0	PIURA	0		 
+18	762010557201	dni_autoridad			0	CUSCO	0		 
+18	762012217601	dni_autoridad			0	LIMA	0		 
+18	762011977101	dni_autoridad			0	LIMA	0		 
+18	762011814001	dni_autoridad			0	ICA	0		 
+18	762010471101	dni_autoridad			0	LORETO	0		 
+18	762011918801	dni_autoridad			0	JUN�N	0		 
+18	762011282701	dni_autoridad			0	PIURA	0		 
+18	762011415501	dni_autoridad			0	PIURA	0		 
+18	762011513601	dni_autoridad			0	TUMBES	0		 
+18	762012178101	dni_autoridad			0	LIMA	0		 
+18	762010541801	dni_autoridad			0	PUNO	0		 
+18	762010384501	dni_autoridad			0	HU�NUCO	0		 
+18	762012154501	dni_autoridad			0	CALLAO	0		 
+18	762010593701	dni_autoridad			0	PUNO	0		 
+18	762011162301	dni_autoridad			0	LA LIBERTAD	0		 
+18	762011600701	dni_autoridad			0	ICA	0		 
+18	762011425501	dni_autoridad			0	LA LIBERTAD	0		 
+18	762010258001	dni_autoridad			0	CUSCO	0		 
+18	762012247701	dni_autoridad			0	LIMA	0		 
+18	762011263801	dni_autoridad			0	PIURA	0		 
+18	762010774101	dni_autoridad			0	AREQUIPA	0		 
+18	762011874901	dni_autoridad			0	�NCASH	0		 
+18	762010258401	dni_autoridad			0	CUSCO	0		 
+18	762010957401	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762010581001	dni_autoridad			0	SAN MART�N	0		 
+18	762012213901	dni_autoridad			0	LIMA	0		 
+18	762012145801	dni_autoridad			0	CALLAO	0		 
+18	762010418101	dni_autoridad			0	LORETO	0		 
+18	762010783101	dni_autoridad			0	APUR�MAC	0		 
+18	762010888201	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762010074001	dni_autoridad			0	CAJAMARCA	0		 
+18	762012278701	dni_autoridad			0	LIMA	0		 
+18	762011760701	dni_autoridad			0	ICA	0		 
+18	762011815101	dni_autoridad			0	ICA	0		 
+18	762011069701	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762010664501	dni_autoridad			0	PUNO	0		 
+18	762011408001	dni_autoridad			0	TACNA	0		 
+18	762012240201	dni_autoridad			0	LIMA	0		 
+18	762010273801	dni_autoridad			0	CAJAMARCA	0		 
+18	762010014901	dni_autoridad			0	LORETO	0		 
+18	762012045501	dni_autoridad			0	LIMA	0		 
+18	762010854201	dni_autoridad			0	AREQUIPA	0		 
+18	762010543501	dni_autoridad			0	PUNO	0		 
+18	762011214801	dni_autoridad			0	AREQUIPA	0		 
+18	762011487101	dni_autoridad			0	LA LIBERTAD	0		 
+18	762011127301	dni_autoridad			0	MOQUEGUA	0		 
+18	762010095101	dni_autoridad			0	CAJAMARCA	0		 
+18	762010114101	dni_autoridad			0	CAJAMARCA	0		 
+18	762010800701	dni_autoridad			0	LA LIBERTAD	0		 
+18	762011509501	dni_autoridad			0	TUMBES	0		 
+18	762010874001	dni_autoridad			0	LA LIBERTAD	0		 
+18	762011850301	dni_autoridad			0	ICA	0		 
+18	762011051901	dni_autoridad			0	CUSCO	0		 
+18	762012128201	dni_autoridad			0	CALLAO	0		 
+18	762010537701	dni_autoridad			0	HU�NUCO	0		 
+18	762010248101	dni_autoridad			0	CUSCO	0		 
+18	762011147201	dni_autoridad			0	PIURA	0		 
+18	762012292301	dni_autoridad			0	LIMA	0		 
+18	762010393101	dni_autoridad			0	LORETO	0		 
+18	762011353201	dni_autoridad			0	AREQUIPA	0		 
+18	762011402101	dni_autoridad			0	TACNA	0		 
+18	762010829101	dni_autoridad			0	AREQUIPA	0		 
+18	762010198001	dni_autoridad			0	UCAYALI	0		 
+18	762010162301	dni_autoridad			0	CAJAMARCA	0		 
+18	762011983701	dni_autoridad			0	LIMA	0		 
+18	762011417501	dni_autoridad			0	PIURA	0		 
+18	762010234801	dni_autoridad			0	CUSCO	0		 
+18	762010519401	dni_autoridad			0	UCAYALI	0		 
+18	762011294001	dni_autoridad			0	PIURA	0		 
+18	762012299501	dni_autoridad			0	LIMA	0		 
+18	762010469601	dni_autoridad			0	LORETO	0		 
+18	762010286001	dni_autoridad			0	LORETO	0		 
+18	762011824501	dni_autoridad			0	HU�NUCO	0		 
+18	762010823401	dni_autoridad			0	AREQUIPA	0		 
+18	762011610101	dni_autoridad			0	JUN�N	0		 
+18	762011124001	dni_autoridad			0	MOQUEGUA	0		 
+18	762012136401	dni_autoridad			0	CALLAO	0		 
+18	762012092501	dni_autoridad			0	LIMA	0		 
+18	762011575201	dni_autoridad			0	JUN�N	0		 
+18	762012309801	dni_autoridad			0	LIMA	0		 
+18	762011081301	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762010740801	dni_autoridad			0	AMAZONAS	0		 
+18	762011881001	dni_autoridad			0	�NCASH	0		 
+18	762012013501	dni_autoridad			0	LIMA	0		 
+18	762011900001	dni_autoridad			0	�NCASH	0		 
+18	762010432401	dni_autoridad			0	LORETO	0		 
+18	762012273301	dni_autoridad			0	LIMA	0		 
+18	762011440501	dni_autoridad			0	LA LIBERTAD	0		 
+18	762010786901	dni_autoridad			0	AREQUIPA	0		 
+18	762011415901	dni_autoridad			0	PIURA	0		 
+18	762010425801	dni_autoridad			0	LORETO	0		 
+18	762010112901	dni_autoridad			0	CAJAMARCA	0		 
+18	762012051201	dni_autoridad			0	LIMA	0		 
+18	762010003501	dni_autoridad			0	LORETO	0		 
+18	762010715201	dni_autoridad			0	SAN MART�N	0		 
+18	762010012601	dni_autoridad			0	LORETO	0		 
+18	762010882001	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762010838701	dni_autoridad			0	AREQUIPA	0		 
+18	762011458701	dni_autoridad			0	LA LIBERTAD	0		 
+18	762011857901	dni_autoridad			0	ICA	0		 
+18	762012287801	dni_autoridad			0	LIMA	0		 
+18	762010982901	dni_autoridad			0	AYACUCHO	0		 
+18	762011585001	dni_autoridad			0	JUN�N	0		 
+18	762010337501	dni_autoridad			0	CAJAMARCA	0		 
+18	762011732601	dni_autoridad			0	�NCASH	0		 
+18	762011038701	dni_autoridad			0	AREQUIPA	0		 
+18	762011308901	dni_autoridad			0	LA LIBERTAD	0		 
+18	762011245501	dni_autoridad			0	PIURA	0		 
+18	762010585001	dni_autoridad			0	SAN MART�N	0		 
+18	762010219301	dni_autoridad			0	UCAYALI	0		 
+18	762010755701	dni_autoridad			0	PUNO	0		 
+18	762010745701	dni_autoridad			0	AMAZONAS	0		 
+18	762011978001	dni_autoridad			0	LIMA	0		 
+18	762011282901	dni_autoridad			0	PIURA	0		 
+18	762011963401	dni_autoridad			0	�NCASH	0		 
+18	762010515801	dni_autoridad			0	UCAYALI	0		 
+18	762011529201	dni_autoridad			0	LA LIBERTAD	0		 
+18	762012197201	dni_autoridad			0	LIMA	0		 
+18	762011756401	dni_autoridad			0	ICA	0		 
+18	762010920201	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762010538401	dni_autoridad			0	HU�NUCO	0		 
+18	762011057001	dni_autoridad			0	AREQUIPA	0		 
+18	762011053201	dni_autoridad			0	CUSCO	0		 
+18	762010305801	dni_autoridad			0	CAJAMARCA	0		 
+18	762011274201	dni_autoridad			0	PIURA	0		 
+18	762010990001	dni_autoridad			0	AYACUCHO	0		 
+18	762012127801	dni_autoridad			0	CALLAO	0		 
+18	762010040001	dni_autoridad			0	PUNO	0		 
+18	762011010701	dni_autoridad			0	PIURA	0		 
+18	762010436001	dni_autoridad			0	LORETO	0		 
+18	762012178801	dni_autoridad			0	LIMA	0		 
+18	762011949301	dni_autoridad			0	HUANCAVELICA	0		 
+18	762011513901	dni_autoridad			0	TUMBES	0		 
+18	762012165201	dni_autoridad			0	CALLAO	0		 
+18	762010591801	dni_autoridad			0	PUNO	0		 
+18	762010805601	dni_autoridad			0	LA LIBERTAD	0		 
+18	762011615901	dni_autoridad			0	JUN�N	0		 
+18	762011742201	dni_autoridad			0	�NCASH	0		 
+18	762012138501	dni_autoridad			0	CALLAO	0		 
+18	762010640901	dni_autoridad			0	CAJAMARCA	0		 
+18	762011453901	dni_autoridad			0	LA LIBERTAD	0		 
+18	762010544201	dni_autoridad			0	PUNO	0		 
+18	762010519901	dni_autoridad			0	UCAYALI	0		 
+18	762010404801	dni_autoridad			0	SAN MART�N	0		 
+18	762010929501	dni_autoridad			0	LAMBAYEQUE	0		 
+18	762011881401	dni_autoridad			0	�NCASH	0		 
+18	762012264301	dni_autoridad			0	LIMA	0		 
+18	762011521201	dni_autoridad			0	TUMBES	0		 
+18	762010677201	dni_autoridad			0	PUNO	0		 
+18	762011123601	dni_autoridad			0	AREQUIPA	0		 
+18	762011028501	dni_autoridad			0	MOQUEGUA	0		 
+18	762010218201	dni_autoridad			0	UCAYALI	0		 
+18	762011133601	dni_autoridad			0	PIURA	0		 
+18	762010803401	dni_autoridad			0	LA LIBERTAD	0		 
+18	762011036101	dni_autoridad			0	AREQUIPA	0		 
+18	762011213101	dni_autoridad			0	AREQUIPA	0		 
+18	762011714901	dni_autoridad			0	HU�NUCO	0		 
+18	762011155201	dni_autoridad			0	PIURA	0		 
+18	762010312001	dni_autoridad			0	CAJAMARCA	0		 
+18	762011567701	dni_autoridad			0	JUN�N	0		 
+18	762011649801	dni_autoridad			0	JUN�N	0		 
+18	762010179901	dni_autoridad			0	CAJAMARCA	0		 
+18	762011505501	dni_autoridad			0	LA LIBERTAD	0		 
+18	762012194801	dni_autoridad			0	LIMA	0		 
+18	762011690001	dni_autoridad			0	JUN�N	0		 
+18	762010849401	dni_autoridad			0	AREQUIPA	0		 
+18	762011617901	dni_autoridad			0	HUANCAVELICA	0		 
+18	762011303201	dni_autoridad			0	LA LIBERTAD	0		 
+18	762010958401	dni_est			0	LAMBAYEQUE	0		 
+18	762012109001	dni_est			0	LIMA	0		 
+18	762010202201	dni_est			0	UCAYALI	0		 
+18	762011089701	dni_est			0	LAMBAYEQUE	0		 
+18	762010501601	dni_est			0	AMAZONAS	0		 
+18	762010288101	dni_est	786121499		0	PUNO	0		 
+18	762011690701	dni_est			0	JUN�N	0		 
+18	762012308901	dni_est	7867133001		0	LIMA	0		 
+18	762012302701	dni_est			0	LIMA	0		 
+18	762010081401	dni_est			0	CAJAMARCA	0		 
+18	762010215401	dni_est			0	UCAYALI	0		 
+18	762011742901	dni_est			0	�NCASH	0		 
+18	762011095301	dni_est			0	LAMBAYEQUE	0		 
+18	762011547801	dni_est			0	HU�NUCO	0		 
+18	762011785501	dni_est			0	ICA	0		 
+18	762010534701	dni_est			0	HU�NUCO	0		 
+18	762011735901	dni_est			0	�NCASH	0		 
+18	762011376801	dni_est			0	PIURA	0		 
+18	762010634201	dni_est			0	SAN MART�N	0		 
+18	762012093201	dni_est			0	LIMA	0		 
+18	762012084301	dni_est			0	LIMA	0		 
+18	762012081401	dni_est			0	LIMA	0		 
+18	762010420301	dni_est			0	LORETO	0		 
+18	762011259901	dni_est			0	PIURA	0		 
+18	762011837401	dni_est			0	PASCO	0		 
+18	762010858801	dni_est			0	AREQUIPA	0		 
+18	762010401601	dni_est			0	AMAZONAS	0		 
+18	762012142101	dni_est			0	CALLAO	0		 
+18	762010548601	dni_est			0	PUNO	0		 
+18	762011629601	dni_est			0	HU�NUCO	0		 
+18	762011780301	dni_est			0	ICA	0		 
+18	762012085301	dni_est			0	LIMA	0		 
+18	762011380701	dni_est			0	PIURA	0		 
+18	762011745101	dni_est			0	�NCASH	0		 
+18	762010585101	dni_est			0	SAN MART�N	0		 
+18	762010981001	dni_est			0	AYACUCHO	0		 
+18	762010912401	dni_est			0	LAMBAYEQUE	0		 
+18	762011361201	dni_est			0	PIURA	0		 
+18	762012015701	dni_est			0	LIMA	0		 
+18	762011682701	dni_est			0	JUN�N	0		 
+18	762011122401	dni_est			0	AREQUIPA	0		 
+18	762010696101	dni_est			0	MADRE DE DIOS	0		 
+18	762012252701	dni_est			0	LIMA	0		 
+18	762012275701	dni_est			0	LIMA	0		 
+18	762011196601	dni_est			0	LA LIBERTAD	0		 
+18	762010677301	dni_est			0	PUNO	0		 
+18	762010817901	dni_est			0	PIURA	0		 
+18	762011325301	dni_est			0	LA LIBERTAD	0		 
+18	762010104801	dni_est			0	CAJAMARCA	0		 
+18	762010545201	dni_est			0	PUNO	0		 
+18	762012062201	dni_est			0	LIMA	0		 
+18	762011109401	dni_est			0	AREQUIPA	0		 
+18	762011809601	dni_est			0	ICA	0		 
+18	762011094801	dni_est			0	LAMBAYEQUE	0		 
+18	762010939101	dni_est			0	LAMBAYEQUE	0		 
+18	762010913201	dni_est			0	LAMBAYEQUE	0		 
+18	762012254601	dni_est			0	LIMA	0		 
+18	762012205101	dni_est			0	LIMA	0		 
+18	762012151501	dni_est			0	CALLAO	0		 
+18	762010939601	dni_est			0	LAMBAYEQUE	0		 
+18	762010454401	dni_est			0	LORETO	0		 
+18	762011581501	dni_est			0	JUN�N	0		 
+18	762012089201	dni_est			0	LIMA	0		 
+18	762010184301	dni_est			0	UCAYALI	0		 
+18	762010853601	dni_est			0	AREQUIPA	0		 
+18	762011869701	dni_est			0	�NCASH	0		 
+18	762010921101	dni_est			0	LAMBAYEQUE	0		 
+18	762010118301	dni_est			0	CUSCO	0		 
+18	762011813601	dni_est			0	ICA	0		 
+18	762011510201	dni_est			0	TUMBES	0		 
+18	762011196001	dni_est			0	LA LIBERTAD	0		 
+18	762010644901	dni_est			0	CAJAMARCA	0		 
+18	762011151901	dni_est			0	PIURA	0		 
+18	762010115701	dni_est			0	CAJAMARCA	0		 
+18	762010302001	dni_est			0	CUSCO	0		 
+18	762011181401	dni_est			0	PIURA	0		 
+18	762012279701	dni_est			0	LIMA	0		 
+18	762011544701	dni_est			0	TUMBES	0		 
+18	762012245801	dni_est			0	LIMA	0		 
+18	762011244501	dni_est			0	PIURA	0		 
+18	762012014001	dni_est			0	LIMA	0		 
+18	762010566501	dni_est			0	LORETO	0		 
+18	762010392701	dni_est			0	LORETO	0		 
+18	762010109801	dni_est			0	CAJAMARCA	0		 
+18	762012137601	dni_est			0	CALLAO	0		 
+18	762010019201	dni_est			0	CUSCO	0		 
+18	762012223601	dni_est			0	LIMA	0		 
+18	762010446601	dni_est			0	LORETO	0		 
+18	762010627601	dni_est			0	SAN MART�N	0		 
+18	762011024201	dni_est			0	AYACUCHO	0		 
+18	762011566401	dni_est			0	�NCASH	0		 
+18	762012033701	dni_est			0	LIMA	0		 
+18	762010997101	dni_est			0	PIURA	0		 
+18	762011788601	dni_est			0	JUN�N	0		 
+18	762011098401	dni_est			0	LAMBAYEQUE	0		 
+18	762012237901	dni_est			0	LIMA	0		 
+18	762011564001	dni_est			0	�NCASH	0		 
+18	762010048701	dni_est			0	SAN MART�N	0		 
+18	762012161501	dni_est			0	CALLAO	0		 
+18	762010555401	dni_est			0	CUSCO	0		 
+18	762011970801	dni_est			0	LIMA	0		 
+18	762010294601	dni_est			0	SAN MART�N	0		 
+18	762012081001	dni_est			0	LIMA	0		 
+18	762011795601	dni_est			0	JUN�N	0		 
+18	762010522701	dni_est			0	CUSCO	0		 
+18	762010630901	dni_est			0	SAN MART�N	0		 
+18	762010906901	dni_est			0	LAMBAYEQUE	0		 
+18	762011455001	dni_est			0	LA LIBERTAD	0		 
+18	762010218701	dni_est			0	UCAYALI	0		 
+18	762012200101	dni_est			0	LIMA	0		 
+18	762010689201	dni_est			0	CAJAMARCA	0		 
+18	762011060701	dni_est			0	AYACUCHO	0		 
+18	762010435301	dni_est			0	LORETO	0		 
+18	762010347101	dni_est			0	CAJAMARCA	0		 
+18	762010371801	dni_est			0	HU�NUCO	0		 
+18	762011345201	dni_est			0	PIURA	0		 
+18	762011774801	dni_est			0	ICA	0		 
+18	762011245001	dni_est			0	PIURA	0		 
+18	762010105901	dni_est			0	CAJAMARCA	0		 
+18	762011119601	dni_est			0	AREQUIPA	0		 
+18	762011834701	dni_est			0	PASCO	0		 
+18	762011805501	dni_est			0	HU�NUCO	0		 
+18	762011016801	dni_est			0	AYACUCHO	0		 
+18	762010366101	dni_est			0	SAN MART�N	0		 
+18	762010106401	dni_est			0	CAJAMARCA	0		 
+18	762011626801	dni_est			0	PASCO	0		 
+18	762011984801	dni_est			0	LIMA	0		 
+18	762012038201	dni_est			0	LIMA	0		 
+18	762011795701	dni_est			0	JUN�N	0		 
+18	762010215401	dni_est			0	UCAYALI	0		 
+18	762012078101	dni_est			0	LIMA	0		 
+18	762010605201	dni_est			0	CAJAMARCA	0		 
+18	762011347201	dni_est			0	AREQUIPA	0		 
+18	762010884501	dni_est			0	LAMBAYEQUE	0		 
+18	762011145101	dni_est			0	PIURA	0		 
+18	762011554101	dni_est			0	HUANCAVELICA	0		 
+18	762012294101	dni_est			0	LIMA	0		 
+18	762011336901	dni_est			0	PIURA	0		 
+18	762010626901	dni_est			0	SAN MART�N	0		 
+18	762010525001	dni_est			0	SAN MART�N	0		 
+18	762011441001	dni_est			0	LA LIBERTAD	0		 
+18	762012274301	dni_est			0	LIMA	0		 
+18	762012232701	dni_est			0	LIMA	0		 
+18	762010006301	dni_est			0	LORETO	0		 
+18	762012161801	dni_est			0	CALLAO	0		 
+18	762012211601	dni_est			0	LIMA	0		 
+18	762012203701	dni_est			0	LIMA	0		 
+18	762011815401	dni_est			0	ICA	0		 
+18	762012217801	dni_est			0	LIMA	0		 
+18	762011160601	dni_est			0	PIURA	0		 
+18	762011679401	dni_est			0	JUN�N	0		 
+18	762010949901	dni_est			0	APUR�MAC	0		 
+18	762010680401	dni_est			0	PUNO	0		 
+18	762010665101	dni_est			0	PUNO	0		 
+18	762011869901	dni_est			0	�NCASH	0		 
+18	762012179201	dni_est			0	LIMA	0		 
+18	762012225701	dni_est			0	LIMA	0		 
+18	762010966801	dni_est			0	LA LIBERTAD	0		 
+18	762011349201	dni_est			0	AREQUIPA	0		 
+18	762011136401	dni_est			0	PIURA	0		 
+18	762010415901	dni_est			0	LORETO	0		 
+18	762011717101	dni_est			0	HU�NUCO	0		 
+18	762010907901	dni_est			0	LAMBAYEQUE	0		 
+18	762010514601	dni_est			0	UCAYALI	0		 
+18	762011724901	dni_est			0	HU�NUCO	0		 
+18	762011710901	dni_est			0	HU�NUCO	0		 
+18	762011449401	dni_est			0	LA LIBERTAD	0		 
+18	762011458901	dni_est			0	LA LIBERTAD	0		 
+18	762012241201	dni_est			0	LIMA	0		 
+18	762011753301	dni_est			0	�NCASH	0		 
+18	762012055801	dni_est			0	LIMA	0		 
+18	762011508901	dni_est			0	TUMBES	0		 
+18	762011604501	dni_est			0	ICA	0		 
+18	762010138101	dni_est			0	CAJAMARCA	0		 
+18	762012026301	dni_est			0	LIMA	0		 
+18	762011778601	dni_est			0	ICA	0		 
+18	762010085401	dni_est			0	CAJAMARCA	0		 
+18	762011448401	dni_est			0	LA LIBERTAD	0		 
+18	762010581601	dni_est			0	SAN MART�N	0		 
+18	762010997901	dni_est			0	PIURA	0		 
+18	762010996001	dni_est			0	PIURA	0		 
+18	762011990901	dni_est			0	LIMA	0		 
+18	762011600001	dni_est			0	ICA	0		 
+18	762010200501	dni_est			0	UCAYALI	0		 
+18	762010543801	dni_est			0	PUNO	0		 
+18	762010122001	dni_est			0	CUSCO	0		 
+18	762011435301	dni_est			0	LA LIBERTAD	0		 
+18	762011298101	dni_est			0	AREQUIPA	0		 
+18	762010864201	dni_est			0	AREQUIPA	0		 
+18	762011814001	dni_est			0	ICA	0		 
+18	762011415501	dni_est			0	PIURA	0		 
+18	762011513601	dni_est			0	TUMBES	0		 
+18	762012178101	dni_est			0	LIMA	0		 
+18	762010541801	dni_est			0	PUNO	0		 
+18	762010384501	dni_est			0	HU�NUCO	0		 
+18	762012154501	dni_est			0	CALLAO	0		 
+18	762011600701	dni_est			0	ICA	0		 
+18	762010258001	dni_est			0	CUSCO	0		 
+18	762010774101	dni_est			0	AREQUIPA	0		 
+18	762011874901	dni_est			0	�NCASH	0		 
+18	762010258401	dni_est			0	CUSCO	0		 
+18	762010581001	dni_est			0	SAN MART�N	0		 
+18	762012213901	dni_est			0	LIMA	0		 
+18	762010418101	dni_est			0	LORETO	0		 
+18	762010783101	dni_est			0	APUR�MAC	0		 
+18	762010074001	dni_est			0	CAJAMARCA	0		 
+18	762012278701	dni_est			0	LIMA	0		 
+18	762012240201	dni_est			0	LIMA	0		 
+18	762010273801	dni_est			0	CAJAMARCA	0		 
+18	762010854201	dni_est			0	AREQUIPA	0		 
+18	762010543501	dni_est			0	PUNO	0		 
+18	762011487101	dni_est			0	LA LIBERTAD	0		 
+18	762010800701	dni_est			0	LA LIBERTAD	0		 
+18	762010874001	dni_est			0	LA LIBERTAD	0		 
+18	762011850301	dni_est			0	ICA	0		 
+18	762012128201	dni_est			0	CALLAO	0		 
+18	762010537701	dni_est			0	HU�NUCO	0		 
+18	762011147201	dni_est			0	PIURA	0		 
+18	762010393101	dni_est			0	LORETO	0		 
+18	762011402101	dni_est			0	TACNA	0		 
+18	762010829101	dni_est			0	AREQUIPA	0		 
+18	762010198001	dni_est			0	UCAYALI	0		 
+18	762010162301	dni_est			0	CAJAMARCA	0		 
+18	762011417501	dni_est			0	PIURA	0		 
+18	762010519401	dni_est			0	UCAYALI	0		 
+18	762011294001	dni_est			0	PIURA	0		 
+18	762012299501	dni_est			0	LIMA	0		 
+18	762010469601	dni_est			0	LORETO	0		 
+18	762011824501	dni_est			0	HU�NUCO	0		 
+18	762010823401	dni_est			0	AREQUIPA	0		 
+18	762012092501	dni_est			0	LIMA	0		 
+18	762011575201	dni_est			0	JUN�N	0		 
+18	762012309801	dni_est			0	LIMA	0		 
+18	762012273301	dni_est			0	LIMA	0		 
+18	762011415901	dni_est			0	PIURA	0		 
+18	762010425801	dni_est			0	LORETO	0		 
+18	762010715201	dni_est			0	SAN MART�N	0		 
+18	762011458701	dni_est			0	LA LIBERTAD	0		 
+18	762011585001	dni_est			0	JUN�N	0		 
+18	762011732601	dni_est			0	�NCASH	0		 
+18	762011245501	dni_est			0	PIURA	0		 
+18	762010585001	dni_est			0	SAN MART�N	0		 
+18	762010219301	dni_est			0	UCAYALI	0		 
+18	762011978001	dni_est			0	LIMA	0		 
+18	762011963401	dni_est			0	�NCASH	0		 
+18	762010515801	dni_est			0	UCAYALI	0		 
+18	762011756401	dni_est			0	ICA	0		 
+18	762010538401	dni_est			0	HU�NUCO	0		 
+18	762010305801	dni_est			0	CAJAMARCA	0		 
+18	762011274201	dni_est			0	PIURA	0		 
+18	762012127801	dni_est			0	CALLAO	0		 
+18	762012178801	dni_est			0	LIMA	0		 
+18	762011513901	dni_est			0	TUMBES	0		 
+18	762012165201	dni_est			0	CALLAO	0		 
+18	762011615901	dni_est			0	JUN�N	0		 
+18	762010544201	dni_est			0	PUNO	0		 
+18	762010519901	dni_est			0	UCAYALI	0		 
+18	762010929501	dni_est			0	LAMBAYEQUE	0		 
+18	762011881401	dni_est			0	�NCASH	0		 
+18	762012264301	dni_est			0	LIMA	0		 
+18	762010218201	dni_est			0	UCAYALI	0		 
+18	762011714901	dni_est			0	HU�NUCO	0		 
+18	762010312001	dni_est			0	CAJAMARCA	0		 
+18	762012194801	dni_est			0	LIMA	0		 
+18	762011303201	dni_est			0	LA LIBERTAD	0		 
