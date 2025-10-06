@@ -29,7 +29,7 @@ regex_cor = re.compile(r"^\d{2}$")
 registros = []
 registros1 = []
 # =======================================================
-# 1. Duplicados de cor_est por cod_mod7 (incluye vacíos)
+# 1. Duplicados de cor_est por cod_mod7 
 # =======================================================
 df["cor_est_valido"] = df["cor_est"].apply(lambda x: bool(regex_cor.match(x)))
 
@@ -50,7 +50,7 @@ for _, fila in duplicados_cor.iterrows():
     })
 
 # =======================================================
-# 2. Duplicados de nombres completos (JSON con columnas_duplicados)
+# 2. Duplicados de nombres completos 
 # =======================================================
 duplicados_nombres = df[df.duplicated(subset=["nombre_completo"], keep=False) & (df["nombre_completo"] != "")]
 
