@@ -1,45 +1,43 @@
 import pandas as pd
 import re
+import os
+import json
 from conexion_bd import get_connection
 from path import DATABASE_PATH
 
-# --- Archivo ---
-df = pd.read_csv(DATABASE_PATH, delimiter='\t', encoding='latin1', dtype=str)
+# --- Cargar archivo ---
+df = pd.read_csv(DATABASE_PATH, delimiter='\t', encoding='latin1', dtype=str).fillna("").astype(str)
 
-# Normalizar
-df = df.fillna("").astype(str)
+# --- Normalizar campos clave ---
 df["cor_est"] = df["cor_est"].str.strip()
-df["cod_mod7"] = df["cod_mod7"].str.strip()
+df["cod_mod7"] = df["cod_mod7"].str.strip().str.upper()
 
-# Limpiar
+# --- Normalizar nombres ---
 campos_nombres = ["paterno", "materno", "nombre1", "nombre2"]
 for campo in campos_nombres:
     df[campo] = df[campo].str.upper().str.strip()
 
-# Crear concatenado 
+# --- Concatenar nombres completos ---
 df["nombre_completo"] = (
-    df["paterno"] + " " +
-    df["materno"] + " " +
-    df["nombre1"] + " " +
-    df["nombre2"]
+    df["paterno"] + " " + df["materno"] + " " + df["nombre1"] + " " + df["nombre2"]
 ).str.replace(r"\s+", " ", regex=True).str.strip()
 
-# --- Regex ---
+# --- Regex para cor_est ---
 regex_cor = re.compile(r"^\d{2}$")
 
-# --- Lista ---
+# --- Lista para inconsistencias ---
 registros = []
-
+registros1 = []
 # =======================================================
-# 1. Validación duplicado cor_est por cod_mod7
+# 1. Duplicados de cor_est por cod_mod7 (incluye vacíos)
 # =======================================================
-df_validos = df[(df["cor_est"].apply(lambda x: bool(regex_cor.match(x)))) & (df["cor_est"] != "")]
+df["cor_est_valido"] = df["cor_est"].apply(lambda x: bool(regex_cor.match(x)))
 
-duplicados_cor = df_validos[df_validos.duplicated(subset=["cod_mod7", "cor_est"], keep=False)]
+duplicados_cor = df[df.duplicated(subset=["cod_mod7", "cor_est"], keep=False)]
 
-for idx, fila in duplicados_cor.iterrows():
+for _, fila in duplicados_cor.iterrows():
     registros.append({
-        "id_inconsistencia": 19,
+        "id_inconsistencia": 16,
         "cod_barra": fila["cod_barra"],
         "columna": "cor_est",
         "valor": fila["cor_est"],
@@ -52,33 +50,41 @@ for idx, fila in duplicados_cor.iterrows():
     })
 
 # =======================================================
-# 2. Validación duplicado de nombres completos en toda la base
+# 2. Duplicados de nombres completos (JSON con columnas_duplicados)
 # =======================================================
-df_validos_nombres = df[df["nombre_completo"] != ""]
+duplicados_nombres = df[df.duplicated(subset=["nombre_completo"], keep=False) & (df["nombre_completo"] != "")]
 
-duplicados_nombres = df_validos_nombres[df_validos_nombres.duplicated(subset=["nombre_completo"], keep=False)]
+nombre_bloque = "columnas_duplicados"
+columnas = ["paterno", "materno", "nombre1", "nombre2"]
 
-for idx, fila in duplicados_nombres.iterrows():
-    registros.append({
-        "id_inconsistencia": 19,
+for _, fila in duplicados_nombres.iterrows():
+    valor = {campo: fila[campo] for campo in columnas}
+
+    registros1.append({
+        "id_inconsistencia": 17,
         "cod_barra": fila["cod_barra"],
-        "columna": "apellidosynombres",
-        "valor": fila["nombre_completo"],
+        "columna": json.dumps({nombre_bloque: columnas}, ensure_ascii=False),
+        "valor": json.dumps({nombre_bloque: valor}, ensure_ascii=False),
         "nuevo_valor": "",
         "estado_revision": 0,
         "departamento": fila["departamento"],
         "compuesta": 0,
         "compuesta_values": "",
-        "id_usuario": " "
+        "id_usuario": ""
     })
 
-# --- Consolidar ---
+# --- Consolidar inconsistencias ---
 df_inconsistencias = pd.DataFrame(registros)
+df_inconsistencias1 = pd.DataFrame(registros1)
 
-print("Filas con duplicados en cor_est o nombres completos:")
+# --- Mostrar resultado ---
+print("Total inconsistencias detectadas:", len(df_inconsistencias))
 print(df_inconsistencias.head())
 
-# --- Exportar ---
-df_inconsistencias.to_csv("input/database/A5_datos.txt", sep="\t", index=False, encoding="utf-8")
+
+# --- Exportar resultado ---
+df_inconsistencias.to_csv("input/database/A5_datos.txt", sep="\t", index=False, encoding="latin1")
+df_inconsistencias1.to_csv("input/database/A5_datos1.txt", sep="\t", index=False, encoding="latin1")
+
 
 

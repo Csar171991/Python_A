@@ -37,7 +37,7 @@ for idx, fila in df_presentes.iterrows():
     # Si no cumple con 8 dígitos, registrar inconsistencia
     if not re.fullmatch(r"\d{2}", valor):
         registros.append({
-            "id_inconsistencia": 15,
+            "id_inconsistencia": 19,
             "cod_barra": fila["cod_barra"],
             "columna": "cor_est",
             "valor": valor,

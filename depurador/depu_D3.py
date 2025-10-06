@@ -1,6 +1,7 @@
 import pandas as pd
 import re
 from path import DATABASE_PATH
+from conexion_bd import get_connection
 
 # --- Lista ---
 registros = []
@@ -36,7 +37,7 @@ for idx, fila in df_filtrado.iterrows():
     # Si está vacío o no
     if not regex_len_mater.fullmatch(valor):
         registros.append({
-            "id_inconsistencia": 17,   
+            "id_inconsistencia": 21,   
             "cod_barra": fila.get("cod_barra", ""),
             "columna": "len_mater",
             "valor": valor,

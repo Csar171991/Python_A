@@ -1,5 +1,0 @@
-id_inconsistencia	cod_barra	columna	valor	nuevo_valor	estado_revision	departamento	compuesta	compuesta_values	id_usuario
-19	762011613601	cor_est	16		0	JUNï¿½N	0		 
-19	762011735901	cor_est	16		0	ï¿½NCASH	0		 
-19	762011613601	apellidosynombres	SINCHE CASTAÏ¿½EDA ALISE JANISE		0	JUNï¿½N	0		 
-19	762011735901	apellidosynombres	SINCHE CASTAÏ¿½EDA ALISE JANISE		0	ï¿½NCASH	0		 

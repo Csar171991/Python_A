@@ -1,6 +1,7 @@
 import pandas as pd
 import re
 from path import DATABASE_PATH
+from conexion_bd import get_connection
 
 # --- Lista ---
 registros = []
@@ -36,7 +37,7 @@ for idx, fila in df_filtrado.iterrows():
     # Si sexo no es 1 ni 2 -> inconsistencia
     if not regex_sexo.fullmatch(valor):
         registros.append({
-            "id_inconsistencia": 16, 
+            "id_inconsistencia": 20, 
             "cod_barra": fila.get("cod_barra", ""),
             "columna": "sexo",
             "valor": valor,
